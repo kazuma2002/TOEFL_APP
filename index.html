@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#1d3fd8">
+  <meta name="description" content="TOEFL iBT（2026年新形式）対策用のオフライン学習アプリ">
+  <title>TOEFL 5.5 Trainer</title>
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" href="icons/icon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="icons/icon-192.png">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="top">
+    <a class="brand" href="#today"><span class="mark">5.5</span>TOEFL Trainer</a>
+    <span id="net" class="net" aria-live="polite"></span>
+  </header>
+
+  <main id="view" class="view" tabindex="-1">
+    <p class="loading">読み込み中…</p>
+  </main>
+
+  <nav class="tabs" aria-label="メイン">
+    <a href="#today" data-tab="today">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 11.5 12 5l8 6.5V20a1 1 0 0 1-1 1h-5v-6h-4v6H5a1 1 0 0 1-1-1z"/></svg>
+      <span>Today</span>
+    </a>
+    <a href="#drill" data-tab="drill">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 5h16v3H4zM4 10.5h16v3H4zM4 16h10v3H4z"/></svg>
+      <span>Drill</span>
+    </a>
+    <a href="#review" data-tab="review">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 4a8 8 0 1 0 8 8h-2.5A5.5 5.5 0 1 1 12 6.5V9l4-3.5L12 2z"/></svg>
+      <span>Review</span>
+    </a>
+    <a href="#stats" data-tab="stats">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 20V11h3v9zM10.5 20V5h3v15zM16 20v-6h3v6z"/></svg>
+      <span>Stats</span>
+    </a>
+  </nav>
+
+  <div id="toast" class="toast" role="status" hidden></div>
+
+  <script src="app.js"></script>
+</body>
+</html>
