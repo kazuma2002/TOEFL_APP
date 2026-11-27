@@ -1,0 +1,1210 @@
+{
+ "responseSets": [
+  {
+   "id": "lr",
+   "title": "セット1",
+   "list": [
+    {
+     "id": "lr1",
+     "prompt": "Do you know if the professor posted the slides from today's lecture?",
+     "options": [
+      "She teaches three classes this term.",
+      "I'll check the course page after class.",
+      "The lecture hall is on the second floor.",
+      "Yes, I mailed the letter yesterday."
+     ],
+     "answer": 1,
+     "explain": "スライドが掲載されたかを尋ねる質問に対し、「授業後にコースページを確認する」が自然な応答である。"
+    },
+    {
+     "id": "lr2",
+     "prompt": "I can't believe the bus was late again this morning.",
+     "options": [
+      "The bus stop is right across the street.",
+      "I believe you're right about the answer.",
+      "It usually takes about twenty minutes.",
+      "I know. Maybe we should start biking instead."
+     ],
+     "answer": 3,
+     "explain": "不満の表明に共感し代替案を出す応答が自然である。believe の語に引っかけた選択肢に注意する。"
+    },
+    {
+     "id": "lr3",
+     "prompt": "Would you mind if I borrowed your notes from Tuesday?",
+     "options": [
+      "Yes, I borrowed them last week.",
+      "My notebook is blue.",
+      "Not at all. I'll send you a copy tonight.",
+      "Tuesday is better for me."
+     ],
+     "answer": 2,
+     "explain": "Would you mind if...? への承諾は「Not at all.（全く構わない）」である。Yes は「嫌だ」の意味になる点に注意する。"
+    },
+    {
+     "id": "lr4",
+     "prompt": "Why don't we move the meeting to Friday afternoon?",
+     "options": [
+      "That works for me, as long as it's after two.",
+      "I don't know why they moved.",
+      "Because the room was too small.",
+      "We met on Monday."
+     ],
+     "answer": 0,
+     "explain": "Why don't we...? は理由ではなく提案を尋ねる表現であり、条件付きで同意する応答が適切である。"
+    },
+    {
+     "id": "lr5",
+     "prompt": "The printer in the computer lab is out of paper again.",
+     "options": [
+      "I printed it in color.",
+      "It's a new computer.",
+      "The lab closes at nine.",
+      "There's a box of paper in the front office."
+     ],
+     "answer": 3,
+     "explain": "紙切れという問題の指摘に対し、解決策（用紙のある場所）を示す応答が自然である。"
+    }
+   ]
+  },
+  {
+   "id": "lrs2",
+   "title": "セット2",
+   "list": [
+    {
+     "id": "lr6",
+     "prompt": "Weren't you supposed to present your project today?",
+     "options": [
+      "The professor moved it to next week.",
+      "I'll be there at three.",
+      "Yes, I bought a present for her.",
+      "The project is about renewable energy."
+     ],
+     "answer": 0,
+     "explain": "否定疑問で「今日発表のはずでは？」と確認しているため、延期の事情を説明する応答が自然である。"
+    },
+    {
+     "id": "lr7",
+     "prompt": "How about grabbing lunch before the seminar?",
+     "options": [
+      "The seminar is in Room 12.",
+      "Sure, but I only have about half an hour.",
+      "It's about economic history.",
+      "I had a sandwich."
+     ],
+     "answer": 1,
+     "explain": "How about...? は誘い。条件つきで応じる応答が適切である。過去形の I had a sandwich は時制が合わない。"
+    },
+    {
+     "id": "lr8",
+     "prompt": "I wonder whether the café on campus is open during spring break.",
+     "options": [
+      "I wonder, too, about the exam.",
+      "Spring is my favorite season.",
+      "The break lasts until tomorrow.",
+      "I think it closes early, but it's open."
+     ],
+     "answer": 3,
+     "explain": "営業しているかどうかへの疑問に、自分の知っている情報で答えている。"
+    },
+    {
+     "id": "lr9",
+     "prompt": "You've already registered for next semester, haven't you?",
+     "options": [
+      "The semester starts in August.",
+      "Not yet. The system was down this morning.",
+      "Yes, I'm going to register.",
+      "I registered a complaint."
+     ],
+     "answer": 1,
+     "explain": "付加疑問で登録済みかを確認している。未登録とその理由を述べる応答が自然である。Yes と答えながら「これから登録する」と言う選択肢は内容が矛盾する。"
+    },
+    {
+     "id": "lr10",
+     "prompt": "Could you remind me what time the review session starts?",
+     "options": [
+      "The session was very helpful.",
+      "I'll remind you tomorrow, then.",
+      "Six thirty, in the main lecture hall.",
+      "It reviews chapters one to five."
+     ],
+     "answer": 2,
+     "explain": "開始時刻を尋ねているので、時刻と場所を答える応答が適切である。"
+    }
+   ]
+  },
+  {
+   "id": "lrs3",
+   "title": "セット3",
+   "list": [
+    {
+     "id": "lr11",
+     "prompt": "I've been trying to reach the housing office all morning.",
+     "options": [
+      "Their phone lines are always busy on Mondays. Try emailing them.",
+      "The office has a nice view.",
+      "Housing prices are rising.",
+      "I reached the top of the hill."
+     ],
+     "answer": 0,
+     "explain": "連絡がつかないという困りごとに、代替手段を助言する応答が自然である。"
+    },
+    {
+     "id": "lr12",
+     "prompt": "Should I print the report or just send it by email?",
+     "options": [
+      "Email is fine. The professor prefers digital copies.",
+      "I sent it yesterday.",
+      "It's a fifteen-page report.",
+      "The printer is new."
+     ],
+     "answer": 0,
+     "explain": "AかBかの選択を尋ねているので、一方を選び理由を添える応答が適切である。"
+    },
+    {
+     "id": "lr13",
+     "prompt": "That was the hardest exam I've ever taken.",
+     "options": [
+      "The exam starts at nine.",
+      "I've never taken a taxi.",
+      "It's in the science building.",
+      "Really? I thought the last one was worse."
+     ],
+     "answer": 3,
+     "explain": "感想の表明に対し、意見を返す応答が自然である。"
+    },
+    {
+     "id": "lr14",
+     "prompt": "Do you mind if I open the window?",
+     "options": [
+      "It's a large window.",
+      "I don't mind the movie.",
+      "Go ahead. It's pretty warm in here.",
+      "Yes, the window is open."
+     ],
+     "answer": 2,
+     "explain": "Do you mind if...? への承諾は Go ahead / Not at all である。"
+    },
+    {
+     "id": "lr15",
+     "prompt": "Who's in charge of booking the room for the club meeting?",
+     "options": [
+      "We charge five dollars.",
+      "I think Kevin said he would handle it.",
+      "It's a big room.",
+      "The meeting went well."
+     ],
+     "answer": 1,
+     "explain": "担当者（Who）を尋ねる質問に人物を答えている。charge の多義性に注意する。"
+    }
+   ]
+  },
+  {
+   "id": "lrs4",
+   "title": "セット4",
+   "list": [
+    {
+     "id": "lr16",
+     "prompt": "I'm not sure my essay answers the question the professor asked.",
+     "options": [
+      "Why don't you show it to her during office hours?",
+      "Essays are usually long.",
+      "I answered the phone.",
+      "The question was on page four."
+     ],
+     "answer": 0,
+     "explain": "不安の表明に、具体的な解決策を提案する応答が自然である。"
+    },
+    {
+     "id": "lr17",
+     "prompt": "Isn't the deadline for the scholarship application this Friday?",
+     "options": [
+      "I applied sunscreen.",
+      "Actually, they extended it to the end of the month.",
+      "Friday is the best day of the week.",
+      "The scholarship is generous."
+     ],
+     "answer": 1,
+     "explain": "否定疑問で締切を確認している。延長されたという新情報で答えるのが自然である。"
+    },
+    {
+     "id": "lr18",
+     "prompt": "We're out of coffee filters in the department kitchen.",
+     "options": [
+      "I prefer tea, actually.",
+      "The kitchen is on the left.",
+      "Coffee keeps me awake.",
+      "I'll pick some up on my way back from lunch."
+     ],
+     "answer": 3,
+     "explain": "問題の報告に対して、対処を申し出る応答が自然である。"
+    },
+    {
+     "id": "lr19",
+     "prompt": "How long have you been working at the campus bookstore?",
+     "options": [
+      "Since I started my second year.",
+      "The store opens at eight.",
+      "I work there on weekends.",
+      "It's about ten minutes away."
+     ],
+     "answer": 0,
+     "explain": "How long have you been...? には期間や開始時点で答える。頻度（週末に働く）を答える選択肢は質問とずれている。"
+    },
+    {
+     "id": "lr20",
+     "prompt": "Would you rather meet in the library or at the café?",
+     "options": [
+      "I'd rather not say.",
+      "Yes, I would.",
+      "Both are open until nine.",
+      "The café, if that's OK. We can talk freely there."
+     ],
+     "answer": 3,
+     "explain": "Would you rather A or B? にはどちらかを選んで答える。Yes/No では答えられない。"
+    }
+   ]
+  }
+ ],
+ "conversation": [
+  {
+   "id": "lc1",
+   "title": "A student talks with an academic advisor",
+   "lines": [
+    {
+     "sp": "W",
+     "text": "Hi, Professor Lin. Thanks for seeing me. I wanted to talk about my schedule for next semester."
+    },
+    {
+     "sp": "M",
+     "text": "Of course. What's on your mind?"
+    },
+    {
+     "sp": "W",
+     "text": "I'm planning to take Organic Chemistry, but it meets at the same time as the statistics course I need for my major."
+    },
+    {
+     "sp": "M",
+     "text": "I see. Statistics is only offered in the spring, so you should definitely keep that one. Organic Chemistry has a summer section, though."
+    },
+    {
+     "sp": "W",
+     "text": "Really? I didn't know that. Is the summer section as difficult?"
+    },
+    {
+     "sp": "M",
+     "text": "It covers the same material, but in six weeks instead of fifteen. So it's intense. Many students find it easier to focus on one subject, though."
+    },
+    {
+     "sp": "W",
+     "text": "That might actually work for me. I'll look into it."
+    }
+   ],
+   "questions": [
+    {
+     "q": "What is the student's problem?",
+     "options": [
+      "She failed a chemistry course.",
+      "Two courses she wants are scheduled at the same time.",
+      "She cannot decide on a major.",
+      "The statistics course is full."
+     ],
+     "answer": 1,
+     "explain": "有機化学と専攻に必要な統計学の時間が重なっていることが相談内容である。"
+    },
+    {
+     "q": "What does the professor imply about the summer section?",
+     "options": [
+      "It is easier than the regular course.",
+      "It is not open to first-year students.",
+      "It moves quickly but allows students to concentrate.",
+      "It will be canceled next year."
+     ],
+     "answer": 2,
+     "explain": "6週間で同じ内容を扱うため厳しいが、1科目に集中しやすいと述べている。"
+    }
+   ]
+  },
+  {
+   "id": "lc2",
+   "title": "A student talks with a librarian",
+   "lines": [
+    {
+     "sp": "M",
+     "text": "Excuse me. I'm looking for a book for my history paper, but the catalog says it's checked out."
+    },
+    {
+     "sp": "W",
+     "text": "Let me see. Ah, it's due back in three weeks. Is your paper due before then?"
+    },
+    {
+     "sp": "M",
+     "text": "Yes, next Friday."
+    },
+    {
+     "sp": "W",
+     "text": "Then I'd suggest two things. First, you can place a recall request. The current borrower will have to return it within seven days."
+    },
+    {
+     "sp": "M",
+     "text": "That might still be too late."
+    },
+    {
+     "sp": "W",
+     "text": "Right. So the second option is interlibrary loan. We can usually get a copy from another university in two or three days."
+    },
+    {
+     "sp": "M",
+     "text": "That sounds better. Do I fill out a form here?"
+    },
+    {
+     "sp": "W",
+     "text": "It's online. I'll show you where to find it."
+    }
+   ],
+   "questions": [
+    {
+     "q": "Why does the student go to the library desk?",
+     "options": [
+      "To ask about a history class",
+      "To find a book that someone else has borrowed",
+      "To reserve a study room",
+      "To return a late book"
+     ],
+     "answer": 1,
+     "explain": "レポートに必要な本が貸出中になっていることを相談している。"
+    },
+    {
+     "q": "Why does the student prefer interlibrary loan?",
+     "options": [
+      "It is free of charge.",
+      "The recall form is too complicated.",
+      "He does not want to bother the other borrower.",
+      "It will probably get him the book sooner."
+     ],
+     "answer": 3,
+     "explain": "リコールは最大7日かかり締切に間に合わない恐れがあるが、図書館間貸出は2〜3日で届くためである。"
+    }
+   ]
+  },
+  {
+   "id": "lc3",
+   "title": "A student talks with a professor about a grade",
+   "lines": [
+    {
+     "sp": "M",
+     "text": "Professor Hughes, do you have a minute? I wanted to ask about my lab report grade."
+    },
+    {
+     "sp": "W",
+     "text": "Sure, Daniel. You got a B minus, right?"
+    },
+    {
+     "sp": "M",
+     "text": "Yes. I thought my analysis was pretty thorough, so I was a little surprised."
+    },
+    {
+     "sp": "W",
+     "text": "Your analysis was good, actually. The problem was the methods section. You didn't explain how you calibrated the equipment, so another researcher couldn't repeat your experiment."
+    },
+    {
+     "sp": "M",
+     "text": "Oh, I see. I thought that part was obvious."
+    },
+    {
+     "sp": "W",
+     "text": "It's a common mistake. If you revise that section and resubmit by next Friday, I'll reconsider the grade."
+    },
+    {
+     "sp": "M",
+     "text": "That would be great. Thank you."
+    }
+   ],
+   "questions": [
+    {
+     "q": "Why does the student go to see the professor?",
+     "options": [
+      "To request a deadline extension",
+      "To ask for help with an experiment",
+      "To discuss the grade he received",
+      "To report broken equipment"
+     ],
+     "answer": 2,
+     "explain": "レポートの成績について尋ねたいと冒頭で述べている。"
+    },
+    {
+     "q": "What was the main weakness of the student's report?",
+     "options": [
+      "It lacked details needed to repeat the experiment.",
+      "It was submitted late.",
+      "The analysis was too short.",
+      "It contained calculation errors."
+     ],
+     "answer": 0,
+     "explain": "機器の較正方法が書かれておらず、他の研究者が再現できないことが問題だった。"
+    }
+   ]
+  },
+  {
+   "id": "lc4",
+   "title": "A student talks with a career center advisor",
+   "lines": [
+    {
+     "sp": "W",
+     "text": "Hi. I'm applying for a summer internship at an environmental consulting firm, and I'd like someone to look at my résumé."
+    },
+    {
+     "sp": "M",
+     "text": "Happy to help. Let's see... Your experience section lists your duties, but it doesn't say what you accomplished."
+    },
+    {
+     "sp": "W",
+     "text": "What do you mean?"
+    },
+    {
+     "sp": "M",
+     "text": "Well, here you wrote that you 'collected water samples.' Did that work lead to anything?"
+    },
+    {
+     "sp": "W",
+     "text": "Actually, yes. Our data helped the city identify a source of pollution in the river."
+    },
+    {
+     "sp": "M",
+     "text": "That's exactly the kind of thing employers want to see. Put the result first, then describe what you did."
+    },
+    {
+     "sp": "W",
+     "text": "That makes sense. I'll rewrite the whole section that way."
+    }
+   ],
+   "questions": [
+    {
+     "q": "What problem does the advisor point out?",
+     "options": [
+      "The student applied to the wrong company.",
+      "The résumé is too long.",
+      "The student lacks relevant experience.",
+      "The résumé focuses on duties rather than results."
+     ],
+     "answer": 3,
+     "explain": "職務は書いてあるが、何を成し遂げたかが書かれていないと指摘している。"
+    },
+    {
+     "q": "What will the student probably do next?",
+     "options": [
+      "Apply to a different internship",
+      "Collect more water samples",
+      "Revise her résumé to highlight achievements",
+      "Contact the city government"
+     ],
+     "answer": 2,
+     "explain": "成果を先に書く形でその項目全体を書き直すと述べている。"
+    }
+   ]
+  },
+  {
+   "id": "lc5",
+   "title": "A student talks with a housing officer",
+   "lines": [
+    {
+     "sp": "M",
+     "text": "Hi. I'd like to request a room change. My roommate and I have very different schedules."
+    },
+    {
+     "sp": "W",
+     "text": "I see. Have you tried talking with your resident assistant first? That's usually the first step."
+    },
+    {
+     "sp": "M",
+     "text": "Not yet. I didn't know that was required."
+    },
+    {
+     "sp": "W",
+     "text": "It isn't strictly required, but RAs are trained to help roommates work out agreements, like quiet hours. Many problems get solved that way."
+    },
+    {
+     "sp": "M",
+     "text": "And if that doesn't work?"
+    },
+    {
+     "sp": "W",
+     "text": "Then you can fill out a change request. Just keep in mind that there are very few open rooms in the middle of the semester, so you might have to wait."
+    },
+    {
+     "sp": "M",
+     "text": "OK. I'll talk to my RA this week."
+    }
+   ],
+   "questions": [
+    {
+     "q": "Why does the officer mention the resident assistant?",
+     "options": [
+      "The RA can help roommates reach an agreement.",
+      "The RA lives in the student's room.",
+      "The RA manages the waiting list.",
+      "The RA must approve all room changes."
+     ],
+     "answer": 0,
+     "explain": "RAは同室者同士の取り決め（静かにする時間など）を手伝う訓練を受けていると説明している。"
+    },
+    {
+     "q": "What does the officer imply about changing rooms now?",
+     "options": [
+      "It is not allowed for first-year students.",
+      "It is free of charge.",
+      "It may not be possible right away.",
+      "It requires a doctor's note."
+     ],
+     "answer": 2,
+     "explain": "学期途中は空き部屋が少なく、待つ必要があるかもしれないと述べている。"
+    }
+   ]
+  },
+  {
+   "id": "lc6",
+   "title": "Two students discuss a study group",
+   "lines": [
+    {
+     "sp": "W",
+     "text": "Are you going to the statistics study group tonight?"
+    },
+    {
+     "sp": "M",
+     "text": "I'm thinking about skipping it. Last time we spent most of the hour talking about other things."
+    },
+    {
+     "sp": "W",
+     "text": "I know. But Laura suggested something new. Each person prepares one practice problem and explains the solution to the group."
+    },
+    {
+     "sp": "M",
+     "text": "Hmm, that sounds more useful. Explaining something is a good way to find out whether you actually understand it."
+    },
+    {
+     "sp": "W",
+     "text": "Exactly. And she's going to keep track of the time so we don't get off topic."
+    },
+    {
+     "sp": "M",
+     "text": "All right, count me in. I'll prepare a problem on confidence intervals."
+    }
+   ],
+   "questions": [
+    {
+     "q": "Why was the man planning to skip the study group?",
+     "options": [
+      "He does not like Laura.",
+      "The previous session was not productive.",
+      "He has to work tonight.",
+      "He already understands the material."
+     ],
+     "answer": 1,
+     "explain": "前回は時間の大半が関係ない話に費やされたと述べている。"
+    },
+    {
+     "q": "What does the man say about explaining a problem to others?",
+     "options": [
+      "It takes too much time.",
+      "It helps people check their own understanding.",
+      "It should be done by the professor.",
+      "It is only useful before exams."
+     ],
+     "answer": 1,
+     "explain": "説明することは本当に理解しているか確かめる良い方法だと述べている。"
+    }
+   ]
+  },
+  {
+   "id": "lc7",
+   "title": "A student talks with a librarian about a research database",
+   "lines": [
+    {
+     "sp": "M",
+     "text": "Excuse me, I'm searching the psychology database for articles on sleep and memory, but I'm getting thousands of results."
+    },
+    {
+     "sp": "W",
+     "text": "That happens a lot. What search terms are you using?"
+    },
+    {
+     "sp": "M",
+     "text": "Just 'sleep' and 'memory.'"
+    },
+    {
+     "sp": "W",
+     "text": "Try putting quotation marks around exact phrases, like 'memory consolidation.' And you can use the filters on the left to show only peer-reviewed articles from the last ten years."
+    },
+    {
+     "sp": "M",
+     "text": "Oh, I didn't even notice those filters."
+    },
+    {
+     "sp": "W",
+     "text": "Also, when you find a really good article, look at its reference list. That's often the fastest way to find related studies."
+    }
+   ],
+   "questions": [
+    {
+     "q": "What is the student's problem?",
+     "options": [
+      "His search produces too many results.",
+      "He cannot find a quiet place to study.",
+      "He cannot log in to the database.",
+      "The library does not have the article he needs."
+     ],
+     "answer": 0,
+     "explain": "検索結果が数千件も出てしまうことが問題である。"
+    },
+    {
+     "q": "Why does the librarian mention reference lists?",
+     "options": [
+      "To warn about unreliable articles",
+      "To explain how to cite sources correctly",
+      "To show where the filters are located",
+      "To suggest an efficient way to find related research"
+     ],
+     "answer": 3,
+     "explain": "良い論文の参考文献リストを見るのが関連研究を見つける近道だと助言している。"
+    }
+   ]
+  },
+  {
+   "id": "lc8",
+   "title": "A student talks with a professor about a field study",
+   "lines": [
+    {
+     "sp": "W",
+     "text": "Professor Kim, I'm interested in joining your bird migration study this spring. Is there still space?"
+    },
+    {
+     "sp": "M",
+     "text": "There are two spots left. But I should tell you, the fieldwork starts at five in the morning."
+    },
+    {
+     "sp": "W",
+     "text": "Five? Why so early?"
+    },
+    {
+     "sp": "M",
+     "text": "Most songbirds are active right after sunrise, and that's when they're easiest to count. By mid-morning, many of them stop moving around."
+    },
+    {
+     "sp": "W",
+     "text": "I see. I'm not really a morning person, but I think it'd be worth it."
+    },
+    {
+     "sp": "M",
+     "text": "Good. You'll need to complete a short identification training next week before your first session."
+    }
+   ],
+   "questions": [
+    {
+     "q": "Why does the fieldwork begin so early?",
+     "options": [
+      "It is cooler for the researchers.",
+      "The professor has classes later in the day.",
+      "Birds are easiest to observe shortly after sunrise.",
+      "The study site closes in the afternoon."
+     ],
+     "answer": 2,
+     "explain": "日の出直後は鳴鳥が活発で数えやすいためだと説明している。"
+    },
+    {
+     "q": "What must the student do before her first session?",
+     "options": [
+      "Find a partner",
+      "Complete a training on identifying birds",
+      "Write a research proposal",
+      "Buy special equipment"
+     ],
+     "answer": 1,
+     "explain": "初回の前に、短い識別トレーニングを受ける必要があると述べている。"
+    }
+   ]
+  }
+ ],
+ "announcement": [
+  {
+   "id": "la1",
+   "title": "A professor makes an announcement in class",
+   "text": "Before we start, a quick update about Saturday's field trip to the coastal wetlands. Because of the storm forecast, we're moving the trip to the following Saturday, the fourteenth. The bus will still leave from the parking lot behind the science building at eight a.m. Please bring waterproof boots, since some of the trails will be muddy. If you can't make the new date, email me by Wednesday, and I'll give you an alternative assignment.",
+   "questions": [
+    {
+     "q": "What is the main purpose of the announcement?",
+     "options": [
+      "To introduce a new assignment",
+      "To explain the effects of storms on wetlands",
+      "To cancel the field trip permanently",
+      "To change the date of a field trip"
+     ],
+     "answer": 3,
+     "explain": "嵐の予報のため、見学を翌週の土曜日に延期するという連絡である。"
+    },
+    {
+     "q": "What should students do if they cannot attend on the new date?",
+     "options": [
+      "Contact the professor by Wednesday",
+      "Go to the parking lot at eight a.m.",
+      "Join a different class",
+      "Buy waterproof boots"
+     ],
+     "answer": 0,
+     "explain": "新しい日程に参加できない場合は水曜までにメールすれば代替課題が出されると述べている。"
+    }
+   ]
+  },
+  {
+   "id": "la2",
+   "title": "An announcement on campus radio",
+   "text": "Attention, commuters. Starting next Monday, the Blue Line shuttle will no longer stop at the Hill Street entrance because of construction on the new student center. Instead, a temporary stop will be located on Maple Avenue, about two blocks east. Shuttles will run every ten minutes during peak hours, the same as before. Updated maps are available on the transportation website and at the information desk in the main lobby.",
+   "questions": [
+    {
+     "q": "Why is the shuttle stop being moved?",
+     "options": [
+      "Hill Street is closed for an event.",
+      "A building is being constructed nearby.",
+      "Students requested a new route.",
+      "The shuttle schedule is being reduced."
+     ],
+     "answer": 1,
+     "explain": "新学生センターの建設工事のため、Hill Streetの停留所を使わなくなると述べている。"
+    },
+    {
+     "q": "What will stay the same?",
+     "options": [
+      "The location of the stop",
+      "How often the shuttles run at busy times",
+      "The name of the shuttle line",
+      "The maps at the information desk"
+     ],
+     "answer": 1,
+     "explain": "ピーク時に10分間隔で運行するのは従来通りと述べている。"
+    }
+   ]
+  },
+  {
+   "id": "la3",
+   "title": "An announcement at the start of a lecture",
+   "text": "Good morning, everyone. Before we begin, I want to remind you that the midterm paper is due a week from today. Several of you have asked about length: aim for about two thousand words, not including references. Also, please note that I've added two optional readings to the course website. They're not required, but they'll be very helpful if you're writing about urban migration. Finally, my office hours this week will be on Thursday instead of Tuesday.",
+   "questions": [
+    {
+     "q": "What is the main purpose of the announcement?",
+     "options": [
+      "To introduce a new course",
+      "To give information related to an upcoming assignment and schedule",
+      "To cancel office hours permanently",
+      "To explain the topic of today's lecture"
+     ],
+     "answer": 1,
+     "explain": "中間レポートの締切・分量、任意の参考文献、オフィスアワーの変更を伝えている。"
+    },
+    {
+     "q": "What does the professor say about the new readings?",
+     "options": [
+      "They will be on the exam.",
+      "They must be summarized in the paper.",
+      "They are optional but useful for a certain topic.",
+      "They replace the textbook."
+     ],
+     "answer": 2,
+     "explain": "必須ではないが、都市への移住について書くなら非常に役立つと述べている。"
+    }
+   ]
+  },
+  {
+   "id": "la4",
+   "title": "An announcement from the campus library",
+   "text": "Attention, library users. Starting next week, the library will introduce a new self-checkout system on the first floor. You'll be able to borrow books by scanning your student ID and the book's barcode, without waiting in line at the front desk. Staff will be available near the machines during the first two weeks to answer questions. Please note that reserved course materials must still be checked out at the front desk.",
+   "questions": [
+    {
+     "q": "What is being introduced?",
+     "options": [
+      "An online reservation service",
+      "A system that lets students borrow books by themselves",
+      "Longer opening hours",
+      "A new study area"
+     ],
+     "answer": 1,
+     "explain": "学生証と本のバーコードを読み取って自分で借りられる自動貸出機を導入すると述べている。"
+    },
+    {
+     "q": "What must still be done at the front desk?",
+     "options": [
+      "Printing documents",
+      "Borrowing reserved course materials",
+      "Returning all books",
+      "Paying late fees"
+     ],
+     "answer": 1,
+     "explain": "授業の指定資料は引き続き受付で貸出手続きが必要だと述べている。"
+    }
+   ]
+  },
+  {
+   "id": "la5",
+   "title": "An announcement at a student club meeting",
+   "text": "Hi, everyone, thanks for coming. Just a couple of quick updates. First, the hiking trip on Saturday is still on, but the meeting point has changed. We'll gather at the north parking lot instead of the gym because of a basketball tournament. Second, if you haven't paid the club fee for this semester, please do so by the end of the month. Without it, you won't be covered by the club's insurance on trips.",
+   "questions": [
+    {
+     "q": "Why has the meeting point changed?",
+     "options": [
+      "The north parking lot is closer to the trail.",
+      "The weather forecast is bad.",
+      "An event is taking place at the gym.",
+      "The trip has been canceled."
+     ],
+     "answer": 2,
+     "explain": "バスケットボールの大会のため、体育館ではなく北駐車場に集合すると述べている。"
+    },
+    {
+     "q": "Why should members pay the club fee?",
+     "options": [
+      "To be covered by insurance during trips",
+      "To reserve a seat on the bus",
+      "To vote in the club election",
+      "To receive a club T-shirt"
+     ],
+     "answer": 0,
+     "explain": "未払いだと、旅行中にクラブの保険が適用されないと述べている。"
+    }
+   ]
+  },
+  {
+   "id": "la6",
+   "title": "An announcement during orientation",
+   "text": "Welcome to the international student orientation. Over the next two days, you'll learn about academic expectations, health services, and life in the city. Tomorrow at ten, we'll take a bus tour of the surrounding neighborhoods, so please wear comfortable shoes. Lunch will be provided both days. If you have any dietary restrictions that you didn't mention on your registration form, please let one of the staff members in blue shirts know before the end of today.",
+   "questions": [
+    {
+     "q": "What will happen tomorrow at ten?",
+     "options": [
+      "A tour of the local area",
+      "A welcome lunch",
+      "A lecture on academic writing",
+      "A health check"
+     ],
+     "answer": 0,
+     "explain": "明日10時に周辺地域のバスツアーを行うと述べている。"
+    },
+    {
+     "q": "What should students with unreported dietary needs do?",
+     "options": [
+      "Fill out a new registration form",
+      "Tell a staff member today",
+      "Bring their own lunch",
+      "Contact health services"
+     ],
+     "answer": 1,
+     "explain": "登録時に伝えていない食事制限は、今日中に青いシャツのスタッフに伝えるよう求めている。"
+    }
+   ]
+  }
+ ],
+ "talk": [
+  {
+   "id": "lt1",
+   "title": "A talk in a geology class",
+   "text": "Today I want to look at how glaciers shape the land. A glacier is basically a huge mass of ice that moves, very slowly, under its own weight. As it moves, it acts a bit like sandpaper. Rocks frozen into the bottom of the ice scrape against the ground beneath it. Over thousands of years, this scraping can carve out deep valleys. You can tell a glacial valley from a river valley by its shape. Rivers tend to cut narrow, V-shaped valleys, while glaciers produce wide valleys with a U shape. Glaciers also carry enormous amounts of rock and soil. When the ice melts, that material is left behind in ridges called moraines. So, if you're hiking and you come across a long ridge of mixed rocks in an area with no ice today, there's a good chance you're looking at evidence of a glacier that disappeared long ago.",
+   "questions": [
+    {
+     "q": "What is the talk mainly about?",
+     "options": [
+      "How rivers form V-shaped valleys",
+      "How glaciers change the shape of the land",
+      "Why glaciers are melting today",
+      "How to identify different types of rocks"
+     ],
+     "answer": 1,
+     "explain": "冒頭で「氷河がどのように地形を形づくるか」を扱うと述べている。"
+    },
+    {
+     "q": "Why does the professor compare a glacier to sandpaper?",
+     "options": [
+      "To explain how it wears away the ground",
+      "To show how quickly it moves",
+      "To explain why it melts",
+      "To describe the color of the ice"
+     ],
+     "answer": 0,
+     "explain": "氷に取り込まれた岩が地面を削る様子を紙やすりにたとえている。"
+    },
+    {
+     "q": "According to the professor, how can a glacial valley be identified?",
+     "options": [
+      "It always contains a river.",
+      "It is narrow and deep.",
+      "It has a wide U shape.",
+      "It is covered with sand."
+     ],
+     "answer": 2,
+     "explain": "川はV字谷、氷河は幅の広いU字谷をつくると対比している。"
+    },
+    {
+     "q": "What does the professor imply about a ridge of mixed rocks in an ice-free area?",
+     "options": [
+      "It is a sign that a glacier will form soon.",
+      "It is too recent to study.",
+      "It was probably formed by a river.",
+      "It may have been left by a former glacier."
+     ],
+     "answer": 3,
+     "explain": "現在氷のない場所の混じった岩の尾根は、昔消えた氷河の痕跡（モレーン）である可能性が高いと述べている。"
+    }
+   ]
+  },
+  {
+   "id": "lt2",
+   "title": "A talk in a psychology class",
+   "text": "Let's talk about something that's directly useful to all of you: the spacing effect. The idea is simple. If you study material in several shorter sessions spread out over time, you'll remember it much better than if you study for the same total amount of time in one long session. Now, cramming the night before an exam can feel effective. You review everything, it all seems familiar, and you feel confident. But that sense of familiarity is a bit misleading. Recognizing information is not the same as being able to recall it on your own. When you space out your study sessions, you partly forget the material between them, and having to retrieve it again strengthens the memory. In other words, a little forgetting is actually helpful. So, my advice: instead of one four-hour session this weekend, try four one-hour sessions across the week.",
+   "questions": [
+    {
+     "q": "What is the main idea of the talk?",
+     "options": [
+      "Students should study only on weekends.",
+      "Long study sessions are the most efficient.",
+      "Forgetting is a sign of poor study habits.",
+      "Studying in spaced sessions improves memory."
+     ],
+     "answer": 3,
+     "explain": "学習を時間的に分散させると記憶が定着するという「分散効果」が主題である。"
+    },
+    {
+     "q": "Why does the professor say cramming can be misleading?",
+     "options": [
+      "It is not allowed at most universities.",
+      "It creates a feeling of familiarity that is not true recall.",
+      "It makes students too tired to take the exam.",
+      "It causes students to study the wrong material."
+     ],
+     "answer": 1,
+     "explain": "一夜漬けは見覚えがある感覚を生むが、それは自力で思い出せることとは違うと述べている。"
+    },
+    {
+     "q": "According to the professor, why is some forgetting helpful?",
+     "options": [
+      "It reduces stress before exams.",
+      "It shows which topics are not important.",
+      "It allows students to focus on new topics.",
+      "Retrieving forgotten material strengthens memory."
+     ],
+     "answer": 3,
+     "explain": "少し忘れた内容を再び思い出す作業が記憶を強化すると説明している。"
+    },
+    {
+     "q": "What does the professor recommend?",
+     "options": [
+      "Reviewing only the night before the exam",
+      "Studying for four hours on the weekend",
+      "Taking a break from studying for a week",
+      "Dividing study time into several sessions during the week"
+     ],
+     "answer": 3,
+     "explain": "週末の4時間1回ではなく、1週間に1時間を4回行うよう勧めている。"
+    }
+   ]
+  },
+  {
+   "id": "lt3",
+   "title": "A talk in a biology class",
+   "text": "Today's topic is bioluminescence, the ability of living things to produce light. You probably know about fireflies, but bioluminescence is actually far more common in the ocean. In fact, scientists estimate that most animals living in the deep sea can produce light. Why would that be useful? Well, below about a thousand meters, there's no sunlight at all. So light becomes a powerful tool. Some fish use it to attract prey. The anglerfish, for instance, has a glowing lure that hangs in front of its mouth. Other animals use light for defense. Certain shrimp release a cloud of glowing liquid to confuse predators, a bit like an octopus releasing ink. And some species use light patterns to recognize members of their own species when looking for a mate.",
+   "questions": [
+    {
+     "q": "What is the talk mainly about?",
+     "options": [
+      "How sunlight reaches the deep ocean",
+      "The diet of the anglerfish",
+      "How fireflies communicate",
+      "Why bioluminescence is useful to deep-sea animals"
+     ],
+     "answer": 3,
+     "explain": "深海の動物にとって発光がなぜ有用かを、捕食・防御・配偶者探しの例で説明している。"
+    },
+    {
+     "q": "According to the professor, where is bioluminescence most common?",
+     "options": [
+      "In forests",
+      "In deserts",
+      "In freshwater lakes",
+      "In the ocean"
+     ],
+     "answer": 3,
+     "explain": "ホタルが有名だが、実際には海の方がはるかに一般的だと述べている。"
+    },
+    {
+     "q": "Why does the professor mention an octopus?",
+     "options": [
+      "To give an example of an animal that produces light",
+      "To explain how animals find mates",
+      "To describe a predator of the anglerfish",
+      "To compare a defense strategy of certain shrimp"
+     ],
+     "answer": 3,
+     "explain": "エビが光る液体を放って捕食者を混乱させる様子を、タコの墨にたとえている。"
+    },
+    {
+     "q": "Which of the following is NOT mentioned as a use of bioluminescence?",
+     "options": [
+      "Keeping warm",
+      "Finding mates",
+      "Escaping predators",
+      "Attracting prey"
+     ],
+     "answer": 0,
+     "explain": "獲物の誘引、防御、配偶者の識別は述べられているが、体温維持は述べられていない。"
+    }
+   ]
+  },
+  {
+   "id": "lt4",
+   "title": "A talk in an economics class",
+   "text": "Let's start with a concept that affects every decision you make: opportunity cost. The opportunity cost of a choice is the value of the best alternative you give up. Say you have a free evening. You could work a shift at the café and earn sixty dollars, or you could go to a concert. If you choose the concert, the ticket price isn't your only cost. You've also given up the sixty dollars you could have earned. Now, here's where people often get confused. Opportunity cost is only the single best alternative, not every possible alternative added together. If your other options were studying or seeing friends, you don't count all of them. You count only the one you valued most. Businesses think this way, too. When a company uses a factory to make one product, the opportunity cost is the profit it could have made producing something else.",
+   "questions": [
+    {
+     "q": "What is the main topic of the talk?",
+     "options": [
+      "How businesses set prices",
+      "How to save money",
+      "The meaning of opportunity cost",
+      "Why concerts are expensive"
+     ],
+     "answer": 2,
+     "explain": "機会費用の意味を、日常例と企業の例で説明している。"
+    },
+    {
+     "q": "In the professor's example, what is the opportunity cost of going to the concert?",
+     "options": [
+      "Nothing, because the evening was free",
+      "The sixty dollars the student could have earned",
+      "Only the ticket price",
+      "The time spent studying"
+     ],
+     "answer": 1,
+     "explain": "チケット代だけでなく、働けば得られた60ドルを諦めている点が機会費用だと説明している。"
+    },
+    {
+     "q": "What common mistake does the professor point out?",
+     "options": [
+      "Ignoring money that was already spent",
+      "Adding together all possible alternatives",
+      "Confusing price with value",
+      "Forgetting to include taxes"
+     ],
+     "answer": 1,
+     "explain": "機会費用は最善の代替案1つだけであり、全ての選択肢を合計しないと注意している。"
+    },
+    {
+     "q": "Why does the professor mention a factory?",
+     "options": [
+      "To explain how products are made",
+      "To argue that factories are inefficient",
+      "To show that the concept also applies to companies",
+      "To describe a job the student could take"
+     ],
+     "answer": 2,
+     "explain": "企業も同じように考えることを示す例として挙げている。"
+    }
+   ]
+  },
+  {
+   "id": "lt5",
+   "title": "A talk in an art history class",
+   "text": "Today we're looking at the invention of linear perspective in fifteenth-century Italy. Before this period, painters showed depth in fairly inconsistent ways. Important figures might simply be drawn larger, regardless of where they stood. Then, around 1415, the architect Filippo Brunelleschi demonstrated a mathematical system for representing space. The key idea is the vanishing point. Parallel lines, like the edges of a road, appear to meet at a single point on the horizon. If an artist arranges every line in a picture so that it leads toward that point, the scene looks convincingly three-dimensional. Within a few decades, this method had spread across Italy, and it changed what people expected a painting to look like. Some later artists, of course, chose to break these rules on purpose, but they could only do so because the rules had become so well established.",
+   "questions": [
+    {
+     "q": "What does the talk mainly discuss?",
+     "options": [
+      "The life of a famous painter",
+      "Why some artists rejected mathematics",
+      "The history of Italian architecture",
+      "The development of a technique for showing depth"
+     ],
+     "answer": 3,
+     "explain": "奥行きを表す技法である線遠近法の成立を扱っている。"
+    },
+    {
+     "q": "How did many painters show importance before linear perspective?",
+     "options": [
+      "By painting on larger surfaces",
+      "By placing figures near the horizon",
+      "By drawing important figures larger",
+      "By using brighter colors"
+     ],
+     "answer": 2,
+     "explain": "重要な人物を位置に関係なく大きく描いたと述べている。"
+    },
+    {
+     "q": "What is the role of the vanishing point?",
+     "options": [
+      "It marks the center of the painting.",
+      "It shows where the light comes from.",
+      "It is where the artist signs the work.",
+      "It is where parallel lines appear to meet."
+     ],
+     "answer": 3,
+     "explain": "平行線が地平線上の1点で交わって見える点であり、全ての線をそこへ向けると立体的に見えると説明している。"
+    },
+    {
+     "q": "What does the professor imply about artists who later broke the rules of perspective?",
+     "options": [
+      "They worked before the fifteenth century.",
+      "They had never learned the rules.",
+      "They were criticized by Brunelleschi.",
+      "Their choices depended on the rules being widely known."
+     ],
+     "answer": 3,
+     "explain": "規則が確立していたからこそ、意図的に破ることができたと述べている。"
+    }
+   ]
+  },
+  {
+   "id": "lt6",
+   "title": "A talk in an environmental science class",
+   "text": "I want to talk about wetlands, which are often described as the kidneys of the landscape. That's because they filter water. As water flows slowly through a wetland, sediment settles out, and plants and microorganisms absorb excess nutrients like nitrogen and phosphorus. Those nutrients often come from farm fertilizers, and if they reach lakes or the ocean, they can cause huge growths of algae that use up the oxygen in the water. Wetlands also reduce flooding. They act like sponges, soaking up rainwater and releasing it gradually. Unfortunately, for a long time wetlands were seen as wasteland, and in many regions more than half of them were drained for farming or construction. Today, some communities are restoring wetlands, partly because it can be cheaper than building water treatment plants.",
+   "questions": [
+    {
+     "q": "Why are wetlands compared to kidneys?",
+     "options": [
+      "They are shaped like kidneys.",
+      "They store nutrients for plants.",
+      "They produce oxygen.",
+      "They clean the water that passes through them."
+     ],
+     "answer": 3,
+     "explain": "水をろ過する働きがあるため腎臓にたとえられると説明している。"
+    },
+    {
+     "q": "According to the professor, what problem can excess nutrients cause?",
+     "options": [
+      "Droughts in nearby areas",
+      "Damage to buildings",
+      "Large algae growths that reduce oxygen in water",
+      "Soil erosion on farms"
+     ],
+     "answer": 2,
+     "explain": "湖や海に流れ込むと藻類が大量発生し、水中の酸素を使い果たすと述べている。"
+    },
+    {
+     "q": "How do wetlands help reduce flooding?",
+     "options": [
+      "By increasing evaporation",
+      "By lowering sea levels",
+      "By absorbing rainwater and releasing it slowly",
+      "By blocking rivers"
+     ],
+     "answer": 2,
+     "explain": "スポンジのように雨水を吸収し、徐々に放出すると説明している。"
+    },
+    {
+     "q": "What is one reason given for restoring wetlands today?",
+     "options": [
+      "They can be less expensive than treatment plants.",
+      "They are required by international law.",
+      "They provide land for farming.",
+      "They attract tourists."
+     ],
+     "answer": 0,
+     "explain": "浄水処理施設を建てるより安く済む場合があることが理由の一つだと述べている。"
+    }
+   ]
+  }
+ ]
+}

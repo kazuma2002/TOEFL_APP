@@ -1,0 +1,760 @@
+{
+ "ctw": [
+  {
+   "id": "ctw1",
+   "title": "Coral Reefs",
+   "text": "Coral reefs are among the most diverse ecosystems on Earth. Although they [cover] less [than] one percent of the [ocean] floor, they [support] a remarkable [share] of marine life. Each reef [is] built by tiny [animals] called polyps, [which] produce hard skeletons of calcium carbonate. Over [centuries], these skeletons [accumulate] and form large structures."
+  },
+  {
+   "id": "ctw2",
+   "title": "Sleep and Memory",
+   "text": "Sleep plays an important role in how the brain stores information. During the day, the brain [collects] a large [amount] of new experiences. At [night], some of [these] memories are [replayed] and strengthened, [while] others are allowed to [fade]. Researchers [have] found that students who sleep [well] after studying [tend] to remember more."
+  },
+  {
+   "id": "ctw3",
+   "title": "Early Writing",
+   "text": "Writing systems developed independently in several parts of the world. The [earliest] examples come from ancient Mesopotamia, [where] people pressed marks [into] wet clay tablets. At [first], these marks [were] used [mainly] to [record] trade and taxes. [Over] time, the symbols [became] more abstract and could [represent] sounds as well as objects."
+  },
+  {
+   "id": "ctw4",
+   "title": "Honeybee Communication",
+   "text": "Honeybees share information about food sources through a series of movements known as the waggle dance. When a forager [returns] to the hive, it [moves] in a figure-eight [pattern] on the honeycomb. The [angle] of the dance shows the [direction] of the food [relative] to the sun, [while] the length of the [central] run indicates [distance]. Other bees [follow] the dancer and then fly off to find the flowers themselves."
+  },
+  {
+   "id": "ctw5",
+   "title": "The Printing Press",
+   "text": "The invention of the printing press in the fifteenth century transformed European society. Before [then], books were copied [by] hand, which made [them] rare and expensive. [Printing] allowed many identical [copies] to be produced [quickly] and at a [lower] cost. As a [result], ideas could [spread] far more [widely] than ever before."
+  },
+  {
+   "id": "ctw6",
+   "title": "Desert Plants",
+   "text": "Plants that live in deserts have developed several ways to survive with very little water. Many [species] have thick, waxy [leaves] that reduce [water] loss. Others, [such] as cacti, store [large] amounts of water in [their] stems. Some desert [plants] remain dormant for [most] of the year and [grow] only after rare [rainfalls]."
+  },
+  {
+   "id": "ctw7",
+   "title": "Volcanic Islands",
+   "text": "The Hawaiian Islands were formed by volcanic activity in the middle of the Pacific Ocean. [Deep] beneath the seafloor, a [hot] spot sends molten rock [toward] the surface. Over [millions] of years, repeated [eruptions] built mountains [that] eventually rose [above] the water. [Because] the ocean floor [moves] slowly, a chain of [islands] formed."
+  },
+  {
+   "id": "ctw8",
+   "title": "First Language Acquisition",
+   "text": "Young children acquire their first language with remarkable speed. By the [age] of three, most children [can] produce sentences of [several] words. Researchers [believe] that children are [born] with a strong [ability] to detect [patterns] in the speech [around] them. [However], they still need [regular] interaction with adults to develop fully."
+  },
+  {
+   "id": "ctw9",
+   "title": "The Silk Road",
+   "text": "The Silk Road was a network of trade routes connecting East Asia with the Mediterranean world. [Merchants] carried silk, spices, and [precious] metals across [thousands] of kilometers. [Along] the way, they also [exchanged] religious beliefs, [technologies], and artistic [styles]. [Few] traders traveled the [entire] route; [instead], goods passed through many hands."
+  },
+  {
+   "id": "ctw10",
+   "title": "Storing Renewable Energy",
+   "text": "One of the main challenges of renewable energy is that sunlight and wind are not always available. To [solve] this problem, engineers are [developing] better ways to [store] electricity. Large [batteries] can save [extra] energy produced [during] sunny or windy [periods]. This [stored] energy can [then] be used when [demand] is high."
+  }
+ ],
+ "daily": [
+  {
+   "id": "dl1",
+   "kind": "Notice",
+   "title": "Library Hours During Final Exams",
+   "text": "Starting Monday, December 7, the Main Library will stay open 24 hours a day until the end of the final exam period on December 18. During overnight hours (midnight to 7 a.m.), only the first and second floors will be available, and a valid student ID will be required to enter the building. Group study rooms can be reserved for up to three hours at a time through the library website. Please note that the café on the ground floor will close at 10 p.m. as usual.",
+   "questions": [
+    {
+     "q": "What is the main purpose of the notice?",
+     "options": [
+      "To advertise a new café",
+      "To announce a change in library hours",
+      "To explain how to apply for a student ID",
+      "To introduce new study rooms"
+     ],
+     "answer": 1,
+     "explain": "第1文で「期末試験期間中は24時間開館する」と告知しており、営業時間の変更が主目的である。"
+    },
+    {
+     "q": "What can be inferred about students who visit the library at 2 a.m.?",
+     "options": [
+      "They cannot use the third floor.",
+      "They can reserve a room for the whole night.",
+      "They can buy food at the café.",
+      "They do not need to show identification."
+     ],
+     "answer": 0,
+     "explain": "深夜帯は1階と2階のみ利用可能とあるため、3階は使えないと推測できる。カフェは22時閉店、ID提示は必須、予約は最大3時間である。"
+    }
+   ]
+  },
+  {
+   "id": "dl2",
+   "kind": "Text messages",
+   "title": "Messages between roommates",
+   "text": "Maya (4:12 p.m.): Hey, are you still at the lab?\nJun (4:15 p.m.): Yeah, the experiment is taking forever. Probably another hour.\nMaya (4:16 p.m.): No worries. The plumber is coming at 5 to fix the sink, so I'll be home anyway.\nJun (4:17 p.m.): Oh good, I totally forgot about that. Can you ask him to look at the shower too? The water's been lukewarm all week.\nMaya (4:18 p.m.): Sure. Want me to save you some dinner?\nJun (4:20 p.m.): You're a lifesaver.",
+   "questions": [
+    {
+     "q": "Why will Maya be at home at 5 p.m.?",
+     "options": [
+      "She needs to let a repair person in.",
+      "She wants to take a shower.",
+      "She is cooking dinner for a guest.",
+      "She has finished her experiment."
+     ],
+     "answer": 0,
+     "explain": "「配管工が5時にシンクを直しに来るので家にいる」と述べている。"
+    },
+    {
+     "q": "What does Jun mean when he writes, \"You're a lifesaver\"?",
+     "options": [
+      "He wants Maya to come to the lab.",
+      "He is worried about his health.",
+      "He thinks Maya fixed the shower.",
+      "He is grateful for Maya's offer."
+     ],
+     "answer": 3,
+     "explain": "夕食を取っておこうかという申し出への返答であり、感謝を表す慣用表現である。"
+    }
+   ]
+  },
+  {
+   "id": "dl3",
+   "kind": "Email",
+   "title": "Message from Campus Housing",
+   "text": "Dear Residents of Hartley Hall,\n\nAs part of our annual safety inspection, maintenance staff will test the smoke detectors in every room on Thursday between 9 a.m. and 3 p.m. You do not need to be present, but please make sure that the area around your ceiling detector is clear. Staff will knock before entering. If you have a medical condition that may be affected by the alarm sound, contact the housing office by Wednesday at noon so that we can schedule a separate time for your room.\n\nThank you,\nCampus Housing",
+   "questions": [
+    {
+     "q": "What are residents asked to do before Thursday?",
+     "options": [
+      "Replace the batteries in their detectors",
+      "Stay in their rooms all day",
+      "Sign up for an inspection time",
+      "Remove objects near the smoke detector"
+     ],
+     "answer": 3,
+     "explain": "「天井の検知器周辺を片付けておくように」とある。在室は不要で、時間予約は持病がある人のみである。"
+    },
+    {
+     "q": "Why might a resident contact the housing office?",
+     "options": [
+      "To ask staff not to knock",
+      "To arrange a different inspection time",
+      "To request a room change",
+      "To report a broken alarm"
+     ],
+     "answer": 1,
+     "explain": "警報音の影響を受ける持病がある場合、別の時間を設定するため水曜正午までに連絡するよう求めている。"
+    }
+   ]
+  },
+  {
+   "id": "dl4",
+   "kind": "Notice",
+   "title": "Recreation Center Membership Renewal",
+   "text": "All student memberships at the Campus Recreation Center expire on January 31. Students who renew before January 15 will receive a 20 percent discount on the annual fee. Renewals can be completed online or at the front desk with a valid student ID. Please note that the indoor pool will be closed for maintenance from January 20 to January 27; members who renew early will receive two free guest passes as compensation.",
+   "questions": [
+    {
+     "q": "What is the main purpose of the notice?",
+     "options": [
+      "To introduce a new swimming class",
+      "To announce the closing of the recreation center",
+      "To encourage students to renew their memberships",
+      "To explain how to apply for a student ID"
+     ],
+     "answer": 2,
+     "explain": "会員期限と早期更新の割引を告知しており、更新を促すことが主目的である。"
+    },
+    {
+     "q": "What will students who renew before January 15 receive?",
+     "options": [
+      "A discount and two guest passes",
+      "Free access to the pool during maintenance",
+      "A refund of last year's fee",
+      "A new student ID"
+     ],
+     "answer": 0,
+     "explain": "早期更新者には20%割引があり、さらにプール閉鎖の埋め合わせとしてゲストパス2枚が付く。"
+    }
+   ]
+  },
+  {
+   "id": "dl5",
+   "kind": "Text messages",
+   "title": "Group project chat",
+   "text": "Leo (7:02 p.m.): Quick check: are we still meeting tomorrow at 3 to finish the slides?\nPriya (7:05 p.m.): I have a lab until 3:30. Could we push it to 4?\nAmara (7:06 p.m.): 4 works for me, but the library rooms are all booked by then.\nLeo (7:08 p.m.): We could use the lounge in the engineering building. It's usually quiet.\nPriya (7:09 p.m.): Perfect. I'll bring the charts I made.\nAmara (7:10 p.m.): Great. I'll finish the conclusion tonight so we can just put everything together.",
+   "questions": [
+    {
+     "q": "Why does Priya want to change the meeting time?",
+     "options": [
+      "She has not finished the charts.",
+      "She has another class commitment.",
+      "The library is closed tomorrow.",
+      "She prefers the engineering building."
+     ],
+     "answer": 1,
+     "explain": "15時半まで実験（lab）があるため、16時に遅らせたいと述べている。"
+    },
+    {
+     "q": "What does Amara plan to do before the meeting?",
+     "options": [
+      "Write the conclusion",
+      "Make the charts",
+      "Reserve a library room",
+      "Contact the professor"
+     ],
+     "answer": 0,
+     "explain": "今夜のうちに結論部分を仕上げると書いている。"
+    }
+   ]
+  },
+  {
+   "id": "dl6",
+   "kind": "Email",
+   "title": "Message from Professor Alvarez",
+   "text": "Dear students,\n\nUnfortunately, I need to cancel Wednesday's class because I will be attending a conference. Instead of meeting in person, please complete the online module on climate data analysis, which is posted on the course website. The module should take about 75 minutes. It includes a short quiz at the end, which will count as a participation grade rather than a test score. We will discuss your answers in class next Monday.\n\nBest,\nProfessor Alvarez",
+   "questions": [
+    {
+     "q": "What are students asked to do on Wednesday?",
+     "options": [
+      "Complete an online activity",
+      "Meet in a different room",
+      "Take a major exam",
+      "Attend a conference"
+     ],
+     "answer": 0,
+     "explain": "対面授業の代わりにオンラインのモジュールを完了するよう求めている。"
+    },
+    {
+     "q": "What does the professor say about the quiz?",
+     "options": [
+      "It is optional and will not be graded.",
+      "It replaces the final exam.",
+      "It will affect the participation grade.",
+      "It must be taken in class on Monday."
+     ],
+     "answer": 2,
+     "explain": "小テストは試験の点数ではなく参加点として扱われると述べている。"
+    }
+   ]
+  },
+  {
+   "id": "dl7",
+   "kind": "Flyer",
+   "title": "Used Textbook Sale",
+   "text": "USED TEXTBOOK SALE\nStudent Union, Room 110\nFebruary 3–5, 10 a.m.–4 p.m.\n\nBuy textbooks from other students at up to 60% off the bookstore price. Want to sell your old books? Drop them off at Room 110 on February 1 or 2. We'll set the price based on condition, and you'll receive 80% of the sale price. Books that are not sold can be picked up on February 6; anything left after that will be donated to the city library.",
+   "questions": [
+    {
+     "q": "When should students bring books they want to sell?",
+     "options": [
+      "February 6",
+      "Any day before the sale ends",
+      "February 1 or 2",
+      "February 3 to 5"
+     ],
+     "answer": 2,
+     "explain": "売りたい本は2月1日か2日に持ち込むよう書かれている。"
+    },
+    {
+     "q": "What will happen to unsold books that are not collected?",
+     "options": [
+      "They will be given to a library.",
+      "They will be sold at a lower price.",
+      "They will be returned to the bookstore.",
+      "They will be thrown away."
+     ],
+     "answer": 0,
+     "explain": "2月6日以降に残った本は市立図書館に寄付されるとある。"
+    }
+   ]
+  },
+  {
+   "id": "dl8",
+   "kind": "Notice",
+   "title": "Chemistry Lab Safety Reminder",
+   "text": "To keep everyone safe, the following rules apply in all chemistry teaching labs. Safety goggles must be worn at all times, even when you are only writing notes. Food and drinks are not permitted, including bottled water. Long hair must be tied back. If any chemical comes into contact with your skin, rinse the area immediately at the nearest sink for at least 15 minutes and then inform the lab instructor. Students who repeatedly ignore these rules may be asked to leave the session.",
+   "questions": [
+    {
+     "q": "According to the notice, when must goggles be worn?",
+     "options": [
+      "When the instructor requests it",
+      "Only when handling chemicals",
+      "Throughout the entire lab session",
+      "Only during experiments with heat"
+     ],
+     "answer": 2,
+     "explain": "メモを書いているだけのときでも常にゴーグルを着用するよう求めている。"
+    },
+    {
+     "q": "What should a student do first if a chemical touches their skin?",
+     "options": [
+      "Leave the lab",
+      "Tell the instructor",
+      "Wash the area with water",
+      "Put on gloves"
+     ],
+     "answer": 2,
+     "explain": "まず最寄りの流しで15分以上洗い流し、その後に指導者へ報告する順序である。"
+    }
+   ]
+  },
+  {
+   "id": "dl9",
+   "kind": "Web page",
+   "title": "Writing Center Appointments",
+   "text": "The Writing Center offers free 45-minute sessions with trained peer tutors. Tutors can help you at any stage, from brainstorming ideas to revising a final draft, but they do not proofread papers or check them for grammar errors line by line. To make the most of your session, bring the assignment instructions and a list of specific questions. Appointments can be booked up to two weeks in advance. Students who miss two appointments without canceling will not be able to book online for the rest of the semester.",
+   "questions": [
+    {
+     "q": "What service is NOT offered by the Writing Center?",
+     "options": [
+      "Help with brainstorming",
+      "Advice on revising drafts",
+      "Sessions with peer tutors",
+      "Line-by-line grammar correction"
+     ],
+     "answer": 3,
+     "explain": "1行ずつ文法を直す校正は行わないと明記されている。"
+    },
+    {
+     "q": "What can be inferred about a student who misses two sessions without notice?",
+     "options": [
+      "They can book only one more session.",
+      "They may still be able to get help by other means.",
+      "They must pay a fee for future sessions.",
+      "They will be removed from their course."
+     ],
+     "answer": 1,
+     "explain": "禁止されるのはオンライン予約のみであり、窓口など他の方法なら利用できる可能性があると推測できる。"
+    }
+   ]
+  },
+  {
+   "id": "dl10",
+   "kind": "Online post",
+   "title": "Lost and Found forum",
+   "text": "Posted by Hana K.: Did anyone find a gray backpack in Lecture Hall B after the 2 p.m. economics class on Tuesday? It has a laptop and a blue water bottle inside. I already checked with the building's front desk, but they said nothing had been turned in. I'd be really grateful for any information. I can be reached at the email address on my profile.\n\nReply from Tom R.: I saw a gray bag near the back row when I left, but I assumed the owner was coming back for it. You might want to ask campus security—they collect items left in classrooms at the end of each day.",
+   "questions": [
+    {
+     "q": "What has Hana already done?",
+     "options": [
+      "Contacted campus security",
+      "Asked at the building's front desk",
+      "Bought a new laptop",
+      "Returned to the lecture hall"
+     ],
+     "answer": 1,
+     "explain": "建物の受付にすでに確認したと書いている。"
+    },
+    {
+     "q": "Why does Tom suggest contacting campus security?",
+     "options": [
+      "Security gathers items left in classrooms.",
+      "He works for campus security.",
+      "The front desk is closed on Tuesdays.",
+      "He thinks the bag was stolen."
+     ],
+     "answer": 0,
+     "explain": "警備部門が毎日、教室の忘れ物を回収していると述べている。"
+    }
+   ]
+  }
+ ],
+ "academic": [
+  {
+   "id": "ac1",
+   "title": "The Urban Heat Island Effect",
+   "paragraphs": [
+    "Cities are often several degrees warmer than the rural areas that surround them, a phenomenon known as the urban heat island effect. The difference is usually most noticeable at night. While the countryside cools quickly after sunset, many urban neighborhoods remain warm well into the early morning hours.",
+    "Several factors contribute to this pattern. Materials such as asphalt, concrete, and brick absorb large amounts of solar energy during the day and release it slowly after dark. [A] In addition, cities have relatively little vegetation. [B] Plants cool their surroundings through evapotranspiration, a process in which water absorbed by roots evaporates from leaves. [C] Tall buildings also play a role: they trap heat between them and reduce the wind that would otherwise carry warm air away. [D]",
+    "The consequences extend beyond discomfort. Higher temperatures increase the demand for air conditioning, which raises energy consumption and, in turn, the emission of greenhouse gases. Heat waves are also more dangerous in cities, particularly for elderly residents and people without access to cooling.",
+    "Urban planners have proposed a range of solutions. Planting trees along streets, installing \"green roofs\" covered with vegetation, and using light-colored paving materials that reflect sunlight can all reduce surface temperatures. Some cities have even restored streams that had previously been buried under roads, since open water helps to cool nearby areas."
+   ],
+   "questions": [
+    {
+     "q": "The word \"noticeable\" in paragraph 1 is closest in meaning to",
+     "options": [
+      "obvious",
+      "predictable",
+      "harmful",
+      "frequent"
+     ],
+     "answer": 0,
+     "explain": "noticeable は「目立つ・はっきりわかる」の意味であり、obvious が最も近い。"
+    },
+    {
+     "q": "According to paragraph 2, how do plants lower temperatures?",
+     "options": [
+      "By reflecting sunlight away from streets",
+      "By absorbing solar energy at night",
+      "By releasing water vapor from their leaves",
+      "By blocking wind between buildings"
+     ],
+     "answer": 2,
+     "explain": "evapotranspiration（根から吸った水が葉から蒸発する過程）によって周囲を冷やすと説明されている。"
+    },
+    {
+     "q": "Look at the four squares [A], [B], [C], and [D] in paragraph 2. Where would the following sentence best fit?\n\n\"As a result, the stored heat continues to warm the air long after the sun has set.\"",
+     "options": [
+      "[A]",
+      "[B]",
+      "[C]",
+      "[D]"
+     ],
+     "answer": 0,
+     "explain": "「蓄えた熱が日没後も空気を温め続ける」は、直前の「素材が日中に熱を吸収し、夜にゆっくり放出する」の結果を述べる文であり、[A]が適切である。"
+    },
+    {
+     "q": "Why does the author mention \"elderly residents\" in paragraph 3?",
+     "options": [
+      "To explain why energy use increases in summer",
+      "To give an example of people who prefer rural areas",
+      "To show that heat waves affect some groups more seriously",
+      "To argue that cities should build more hospitals"
+     ],
+     "answer": 2,
+     "explain": "都市の熱波が特に高齢者や冷房のない人々にとって危険であることを示す例として挙げている。"
+    },
+    {
+     "q": "What can be inferred from paragraph 4 about streams in some cities?",
+     "options": [
+      "They had been covered during earlier development.",
+      "They are the main cause of urban flooding.",
+      "They make green roofs unnecessary.",
+      "They were originally created by urban planners."
+     ],
+     "answer": 0,
+     "explain": "「以前は道路の下に埋められていた川を復元した」とあるため、過去の開発で覆われていたと推測できる。"
+    }
+   ]
+  },
+  {
+   "id": "ac2",
+   "title": "Seed Dispersal by Animals",
+   "paragraphs": [
+    "Because plants cannot move, they depend on outside forces to spread their seeds. If seeds simply fell beneath the parent plant, the young plants would compete with the parent for light, water, and nutrients. Dispersal over longer distances allows a species to colonize new areas and reduces this competition.",
+    "Many plants rely on animals for dispersal. One common strategy is to surround seeds with nutritious fruit. Birds and mammals eat the fruit, and the seeds pass through their digestive systems unharmed. [A] Because animals often travel considerable distances before the seeds are excreted, the seeds may end up far from the parent plant. [B] For some species, passage through an animal's gut actually increases the likelihood that a seed will germinate. [C] Stomach acids can weaken the seed's hard outer coat. [D]",
+    "Other plants take a different approach. Their seeds are equipped with hooks or sticky surfaces that attach to the fur or feathers of passing animals. The seeds are carried until they fall off or are removed when the animal grooms itself. Unlike fruit-bearing plants, these species offer no reward to the animals that transport them.",
+    "Some relationships are more complex. Squirrels and jays bury nuts and acorns to eat later, but they frequently fail to recover all of them. The forgotten seeds, already planted in soil, are in an ideal position to grow. In this way, animals that appear to be simply consuming seeds may in fact be helping forests to expand."
+   ],
+   "questions": [
+    {
+     "q": "According to paragraph 1, why is it disadvantageous for seeds to fall directly beneath the parent plant?",
+     "options": [
+      "The soil beneath large plants contains no nutrients.",
+      "The parent plant releases chemicals that destroy the seeds.",
+      "The young plants would compete with the parent for resources.",
+      "The seeds are more likely to be eaten."
+     ],
+     "answer": 2,
+     "explain": "親株の真下に落ちると、光・水・養分をめぐって親株と競合すると説明されている。"
+    },
+    {
+     "q": "The word \"considerable\" in paragraph 2 is closest in meaning to",
+     "options": [
+      "substantial",
+      "regular",
+      "unknown",
+      "dangerous"
+     ],
+     "answer": 0,
+     "explain": "considerable は「かなりの・相当な」の意味であり、substantial が最も近い。"
+    },
+    {
+     "q": "Look at the four squares [A], [B], [C], and [D] in paragraph 2. Where would the following sentence best fit?\n\n\"This makes it easier for water to enter and for the seed to begin growing.\"",
+     "options": [
+      "[A]",
+      "[B]",
+      "[C]",
+      "[D]"
+     ],
+     "answer": 3,
+     "explain": "「これにより水が入りやすくなり発芽しやすくなる」は、胃酸が種皮を弱めるという直前の文の結果であり、[D]が適切である。"
+    },
+    {
+     "q": "What is the main difference between the plants in paragraph 3 and fruit-bearing plants?",
+     "options": [
+      "They depend on wind instead of animals.",
+      "Their seeds must pass through an animal's gut.",
+      "Their seeds are larger.",
+      "They give animals nothing in exchange for transport."
+     ],
+     "answer": 3,
+     "explain": "第3段落末に「果実をつける植物と異なり、運搬する動物に報酬を与えない」とある。"
+    },
+    {
+     "q": "Why does the author mention squirrels and jays in paragraph 4?",
+     "options": [
+      "To show that seed-eating animals can also help plants spread",
+      "To explain why some forests are shrinking",
+      "To compare the intelligence of mammals and birds",
+      "To describe how animals choose which seeds to eat"
+     ],
+     "answer": 0,
+     "explain": "種を食べるように見える動物が、埋めた種を回収し忘れることで森林の拡大を助けている例として挙げている。"
+    }
+   ]
+  },
+  {
+   "id": "ac3",
+   "title": "Coffeehouses in Early Modern Europe",
+   "paragraphs": [
+    "Coffee arrived in Europe from the Ottoman Empire in the seventeenth century, and coffeehouses quickly became a familiar feature of cities such as London, Paris, and Vienna. By 1700, London alone was home to several hundred of them. Their popularity rested only partly on the drink itself; what attracted many customers was the social environment that coffeehouses provided.",
+    "Unlike taverns, where alcohol was served, coffeehouses offered a setting in which people could talk for hours while remaining alert. [A] For the price of a single cup, customers could read newspapers and pamphlets, listen to debates, and exchange news with strangers. [B] Some historians have called coffeehouses \"penny universities\" because a visitor could learn so much for so little money. [C] Particular coffeehouses also became associated with specific groups, including merchants, scientists, and writers. [D]",
+    "These gatherings had important economic consequences. Lloyd's of London, now one of the world's best-known insurance markets, began in a coffeehouse where ship owners and merchants met to share information about voyages and divide the risks of trade. Similarly, early stock trading in London took place in coffeehouses before the founding of a formal exchange.",
+    "Not everyone welcomed the trend. In 1675, the English government attempted to close coffeehouses, claiming that they encouraged the spread of false rumors and criticism of the authorities. The order provoked such strong public opposition that it was withdrawn within days, an outcome that suggests how deeply coffeehouses had already become part of urban life."
+   ],
+   "questions": [
+    {
+     "q": "According to paragraph 1, what was the main reason for the popularity of coffeehouses?",
+     "options": [
+      "Coffee was cheaper than other drinks.",
+      "They were supported by the government.",
+      "They offered an attractive social environment.",
+      "They were the only places that served food."
+     ],
+     "answer": 2,
+     "explain": "人気の理由は飲み物そのものより、社交の場を提供した点にあったと述べている。"
+    },
+    {
+     "q": "The phrase \"rested only partly on\" in paragraph 1 is closest in meaning to",
+     "options": [
+      "was later replaced by",
+      "was completely unrelated to",
+      "depended only in part on",
+      "became stronger because of"
+     ],
+     "answer": 2,
+     "explain": "rest on は「〜に基づく・依存する」。only partly で「一部しか依存していない」となる。"
+    },
+    {
+     "q": "Look at the four squares [A], [B], [C], and [D] in paragraph 2. Where would the following sentence best fit?\n\n\"In this way, information circulated among people who might never have met otherwise.\"",
+     "options": [
+      "[A]",
+      "[B]",
+      "[C]",
+      "[D]"
+     ],
+     "answer": 1,
+     "explain": "直前の文「見知らぬ人と情報を交換できた」を受けて「こうして普段出会わない人々の間で情報が流通した」と続くため、[B]が適切である。"
+    },
+    {
+     "q": "Why does the author mention Lloyd's of London in paragraph 3?",
+     "options": [
+      "To explain why insurance became expensive",
+      "To show that coffeehouses contributed to the development of business institutions",
+      "To argue that merchants disliked coffeehouses",
+      "To compare British and French coffeehouses"
+     ],
+     "answer": 1,
+     "explain": "コーヒーハウスでの集まりが保険市場などの経済制度の起源になった例として挙げている。"
+    },
+    {
+     "q": "What can be inferred from paragraph 4 about the government's attempt to close coffeehouses?",
+     "options": [
+      "It was supported by most merchants.",
+      "It was successful for many years.",
+      "It failed because many people valued coffeehouses.",
+      "It was intended to protect public health."
+     ],
+     "answer": 2,
+     "explain": "強い世論の反対で数日以内に撤回されたことから、人々にとって重要な場になっていたと推測できる。"
+    }
+   ]
+  },
+  {
+   "id": "ac4",
+   "title": "The Bystander Effect",
+   "paragraphs": [
+    "In emergencies, people often assume that the more witnesses there are, the more likely it is that someone will help. Research in social psychology suggests the opposite. The bystander effect refers to the finding that individuals are less likely to offer assistance when other people are present.",
+    "In a classic set of experiments conducted in the 1960s, participants believed they were talking over an intercom with other students when one of them appeared to have a medical emergency. [A] When participants thought they were the only listener, the large majority went to help. [B] When they believed four other people could also hear, far fewer responded, and those who did took much longer to act. [C] The researchers concluded that the presence of others had changed how participants interpreted their own responsibility. [D]",
+    "Two processes are thought to explain this pattern. The first is diffusion of responsibility: when many people are present, each person feels less personally obligated to act. The second involves social influence. In ambiguous situations, people look to others to decide whether something is truly an emergency. If everyone else appears calm, each individual may conclude that no help is needed, even though all of them are privately uncertain.",
+    "Later studies have shown that the effect is not inevitable. It is weaker when the emergency is obviously dangerous, when bystanders know one another, or when one person is directly asked to help. For this reason, safety training often advises people who need assistance to point to a specific individual and give a clear instruction, such as \"You in the green jacket, call an ambulance.\""
+   ],
+   "questions": [
+    {
+     "q": "The word \"assistance\" in paragraph 1 is closest in meaning to",
+     "options": [
+      "attention",
+      "help",
+      "information",
+      "permission"
+     ],
+     "answer": 1,
+     "explain": "assistance は「援助・手助け」で help と同義である。"
+    },
+    {
+     "q": "According to paragraph 2, what happened when participants believed others could hear the emergency?",
+     "options": [
+      "They were less likely to help.",
+      "They ended the conversation.",
+      "They responded more quickly.",
+      "They asked the other listeners for advice."
+     ],
+     "answer": 0,
+     "explain": "他に4人が聞いていると思った場合、助けた人はずっと少なく、行動も遅かったとある。"
+    },
+    {
+     "q": "Look at the four squares [A], [B], [C], and [D] in paragraph 2. Where would the following sentence best fit?\n\n\"In reality, the other voices were recordings, and the emergency had been staged.\"",
+     "options": [
+      "[A]",
+      "[B]",
+      "[C]",
+      "[D]"
+     ],
+     "answer": 0,
+     "explain": "「実際には他の声は録音で、緊急事態は演出だった」は、実験設定を説明した第1文の直後に置くのが自然であり、[A]が適切である。"
+    },
+    {
+     "q": "According to paragraph 3, why might a group of calm bystanders fail to act?",
+     "options": [
+      "They are all trained in first aid.",
+      "They do not want to be noticed by the victim.",
+      "They believe the victim is pretending.",
+      "Each person uses the others' behavior to judge the situation."
+     ],
+     "answer": 3,
+     "explain": "あいまいな状況では他者の様子を手がかりに判断するため、皆が落ち着いて見えると援助不要と結論しがちだと説明している。"
+    },
+    {
+     "q": "All of the following are mentioned in paragraph 4 as conditions that weaken the bystander effect EXCEPT",
+     "options": [
+      "The danger is obvious.",
+      "The bystanders are acquainted with each other.",
+      "A specific person is asked to help.",
+      "The victim is a child."
+     ],
+     "answer": 3,
+     "explain": "危険が明白な場合、互いに知り合いの場合、特定の人に頼んだ場合は述べられているが、被害者が子どもである場合は述べられていない。"
+    }
+   ]
+  },
+  {
+   "id": "ac5",
+   "title": "Comparative Advantage",
+   "paragraphs": [
+    "Why do countries trade with one another, even when one of them can produce nearly everything more efficiently than its partners? The British economist David Ricardo offered an influential answer in the early nineteenth century with the theory of comparative advantage.",
+    "To understand the theory, it helps to distinguish between absolute and comparative advantage. A country has an absolute advantage in a product if it can make that product using fewer resources than another country. A comparative advantage, by contrast, depends on opportunity cost: what a country gives up by producing one good instead of another. [A] Ricardo argued that even a country with an absolute advantage in every product benefits from specializing in the goods it produces at the lowest opportunity cost. [B] By trading, both partners can end up with more goods than they could have produced on their own. [C]",
+    "Consider a simplified example. Suppose Country X can produce either 10 units of cloth or 20 units of wine with a day of labor, while Country Y can produce either 6 units of cloth or 6 units of wine. Country X is more productive in both goods. However, for Country X, one unit of cloth costs two units of wine, whereas for Country Y it costs only one. Country Y therefore has a comparative advantage in cloth, and Country X in wine. [D]",
+    "Critics point out that the theory rests on simplifying assumptions, such as the idea that workers can move easily from one industry to another. In reality, workers in shrinking industries may lose their jobs and struggle to find new ones. Nevertheless, comparative advantage remains a foundational concept in economics and continues to shape debates about trade policy."
+   ],
+   "questions": [
+    {
+     "q": "According to paragraph 2, comparative advantage is based on",
+     "options": [
+      "the opportunity cost of producing a good",
+      "the total amount a country can produce",
+      "the price of goods on the world market",
+      "the number of workers in a country"
+     ],
+     "answer": 0,
+     "explain": "比較優位は機会費用（ある財を生産するために諦めるもの）に依存すると説明されている。"
+    },
+    {
+     "q": "Look at the four squares [A], [B], [C], and [D]. Where would the following sentence best fit?\n\n\"This conclusion surprised many readers, who had assumed that the more efficient country had nothing to gain.\"",
+     "options": [
+      "[A]",
+      "[B]",
+      "[C]",
+      "[D]"
+     ],
+     "answer": 2,
+     "explain": "「この結論は多くの読者を驚かせた」は、「貿易によって双方がより多くの財を得られる」という結論の直後に置くのが自然であり、[C]が適切である。"
+    },
+    {
+     "q": "In the example in paragraph 3, why does Country Y have a comparative advantage in cloth?",
+     "options": [
+      "It cannot produce wine at all.",
+      "Producing cloth costs it less wine than it costs Country X.",
+      "It can produce more cloth than Country X.",
+      "Its workers prefer making cloth."
+     ],
+     "answer": 1,
+     "explain": "布1単位の機会費用が、Xではワイン2単位、Yでは1単位であり、Yの方が低いためである。"
+    },
+    {
+     "q": "The word \"foundational\" in paragraph 4 is closest in meaning to",
+     "options": [
+      "outdated",
+      "basic and essential",
+      "controversial",
+      "mathematical"
+     ],
+     "answer": 1,
+     "explain": "foundational は「基礎となる・根本的な」の意味である。"
+    },
+    {
+     "q": "What is the purpose of paragraph 4?",
+     "options": [
+      "To describe Ricardo's personal life",
+      "To give a second numerical example",
+      "To present a limitation of the theory while noting its continued importance",
+      "To prove that the theory is incorrect"
+     ],
+     "answer": 2,
+     "explain": "労働者の移動を前提とする点などの限界を示しつつ、依然として基礎概念であると述べている。"
+    }
+   ]
+  },
+  {
+   "id": "ac6",
+   "title": "Detecting Exoplanets",
+   "paragraphs": [
+    "Planets that orbit stars other than the Sun are called exoplanets. Because they are small, distant, and extremely faint compared with the stars they orbit, they are very difficult to observe directly. Instead, astronomers usually detect them indirectly, by measuring the effects that planets have on their host stars.",
+    "The most productive technique so far is the transit method. When a planet passes between its star and an observer, it blocks a tiny fraction of the star's light. [A] By monitoring the brightness of thousands of stars at once, space telescopes can identify these regular, temporary dips. [B] The amount of light blocked reveals the planet's size, and the time between dips reveals the length of its orbit. [C] The method has one important limitation, however: it works only when a planet's orbit is aligned so that it passes in front of the star from our point of view. [D]",
+    "A second approach, the radial velocity method, relies on gravity. As a planet orbits, it pulls slightly on its star, causing the star to move back and forth. This motion shifts the star's light toward the blue end of the spectrum as the star moves toward Earth and toward the red end as it moves away. Measuring these shifts allows astronomers to estimate the planet's mass.",
+    "Used together, the two methods are especially powerful. Size from the transit method and mass from the radial velocity method can be combined to calculate a planet's density, which indicates whether it is likely to be rocky like Earth or made mostly of gas like Jupiter."
+   ],
+   "questions": [
+    {
+     "q": "According to paragraph 1, why are exoplanets usually detected indirectly?",
+     "options": [
+      "They move too quickly to be photographed.",
+      "They are hidden by clouds of dust.",
+      "They are hard to see next to their bright stars.",
+      "They exist only in distant galaxies."
+     ],
+     "answer": 2,
+     "explain": "小さく遠く、主星に比べて非常に暗いため直接観測が難しいと述べている。"
+    },
+    {
+     "q": "Look at the four squares [A], [B], [C], and [D] in paragraph 2. Where would the following sentence best fit?\n\n\"For a planet the size of Earth, this reduction may be less than one-hundredth of one percent.\"",
+     "options": [
+      "[A]",
+      "[B]",
+      "[C]",
+      "[D]"
+     ],
+     "answer": 0,
+     "explain": "「地球サイズなら減光は0.01%未満」は、「星の光のごく一部を遮る」という文を具体化するものであり、[A]が適切である。"
+    },
+    {
+     "q": "What limitation of the transit method is mentioned in paragraph 2?",
+     "options": [
+      "It requires the planet's orbit to be lined up with our view.",
+      "It can observe only one star at a time.",
+      "It cannot measure the length of an orbit.",
+      "It works only for very large planets."
+     ],
+     "answer": 0,
+     "explain": "観測者から見て主星の前を通過する軌道の場合しか使えないと述べている。"
+    },
+    {
+     "q": "According to paragraph 3, what causes a star's light to shift toward the blue end of the spectrum?",
+     "options": [
+      "The star moving toward Earth",
+      "The planet blocking the star",
+      "The planet reflecting light",
+      "The star becoming hotter"
+     ],
+     "answer": 0,
+     "explain": "星が地球に近づくときに光が青い側にずれると説明されている。"
+    },
+    {
+     "q": "Why does the author mention density in paragraph 4?",
+     "options": [
+      "To describe how Jupiter was discovered",
+      "To explain why the transit method is more accurate",
+      "To argue that most exoplanets are rocky",
+      "To show what can be learned by combining both methods"
+     ],
+     "answer": 3,
+     "explain": "2つの方法で得た大きさと質量を組み合わせると密度が分かり、岩石型かガス型かを推定できるという利点を示している。"
+    }
+   ]
+  }
+ ]
+}

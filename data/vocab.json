@@ -1,0 +1,3246 @@
+{
+ "cats": [
+  {
+   "id": "general",
+   "label": "アカデミック共通"
+  },
+  {
+   "id": "biology",
+   "label": "生物学"
+  },
+  {
+   "id": "earth",
+   "label": "地学"
+  },
+  {
+   "id": "environment",
+   "label": "環境"
+  },
+  {
+   "id": "psychology",
+   "label": "心理学"
+  },
+  {
+   "id": "history",
+   "label": "歴史"
+  },
+  {
+   "id": "economics",
+   "label": "経済学"
+  },
+  {
+   "id": "astronomy",
+   "label": "天文学"
+  },
+  {
+   "id": "sociology",
+   "label": "社会学"
+  },
+  {
+   "id": "campus",
+   "label": "キャンパス生活"
+  }
+ ],
+ "words": [
+  {
+   "w": "allocate",
+   "pos": "v",
+   "ja": "割り当てる・配分する",
+   "en": "to give a share of something for a particular purpose",
+   "ex": "The university allocated more funding to student housing.",
+   "c": "general"
+  },
+  {
+   "w": "ambiguous",
+   "pos": "adj",
+   "ja": "あいまいな・多義的な",
+   "en": "having more than one possible meaning",
+   "ex": "The results of the survey were ambiguous.",
+   "c": "general"
+  },
+  {
+   "w": "anticipate",
+   "pos": "v",
+   "ja": "予期する・見越す",
+   "en": "to expect something and prepare for it",
+   "ex": "Researchers did not anticipate such a strong reaction.",
+   "c": "general"
+  },
+  {
+   "w": "arbitrary",
+   "pos": "adj",
+   "ja": "恣意的な・任意の",
+   "en": "based on chance or personal choice rather than reason",
+   "ex": "The boundary between the two regions is somewhat arbitrary.",
+   "c": "general"
+  },
+  {
+   "w": "attribute",
+   "pos": "v",
+   "ja": "（原因を）帰する",
+   "en": "to say that something is caused by a particular thing",
+   "ex": "Scientists attribute the decline to habitat loss.",
+   "c": "general"
+  },
+  {
+   "w": "coherent",
+   "pos": "adj",
+   "ja": "一貫した・筋の通った",
+   "en": "logical and well organized",
+   "ex": "Her argument was clear and coherent.",
+   "c": "general"
+  },
+  {
+   "w": "compensate",
+   "pos": "v",
+   "ja": "補う・埋め合わせる",
+   "en": "to reduce the bad effect of something by providing something good",
+   "ex": "Some plants compensate for poor soil by growing deeper roots.",
+   "c": "general"
+  },
+  {
+   "w": "comprise",
+   "pos": "v",
+   "ja": "～から成る",
+   "en": "to consist of particular parts",
+   "ex": "The committee comprises five professors and two students.",
+   "c": "general"
+  },
+  {
+   "w": "constrain",
+   "pos": "v",
+   "ja": "制約する",
+   "en": "to limit what someone or something can do",
+   "ex": "The study was constrained by a small budget.",
+   "c": "general"
+  },
+  {
+   "w": "contradict",
+   "pos": "v",
+   "ja": "矛盾する・反論する",
+   "en": "to be the opposite of; to say the opposite",
+   "ex": "The new data contradict earlier findings.",
+   "c": "general"
+  },
+  {
+   "w": "conventional",
+   "pos": "adj",
+   "ja": "従来の・慣習的な",
+   "en": "following accepted or traditional methods",
+   "ex": "Conventional farming relies heavily on chemical fertilizers.",
+   "c": "general"
+  },
+  {
+   "w": "correspond",
+   "pos": "v",
+   "ja": "一致する・対応する",
+   "en": "to match or be similar to something",
+   "ex": "The rise in temperature corresponds to the increase in emissions.",
+   "c": "general"
+  },
+  {
+   "w": "deplete",
+   "pos": "v",
+   "ja": "枯渇させる・減少させる",
+   "en": "to reduce the amount of something greatly",
+   "ex": "Overfishing has depleted fish stocks in the region.",
+   "c": "general"
+  },
+  {
+   "w": "derive",
+   "pos": "v",
+   "ja": "引き出す・由来する",
+   "en": "to get or come from a particular source",
+   "ex": "Many English words derive from Latin.",
+   "c": "general"
+  },
+  {
+   "w": "diminish",
+   "pos": "v",
+   "ja": "減少する・弱まる",
+   "en": "to become or make smaller or less important",
+   "ex": "The effect of the drug diminishes over time.",
+   "c": "general"
+  },
+  {
+   "w": "discrete",
+   "pos": "adj",
+   "ja": "個別の・別々の",
+   "en": "clearly separate from others",
+   "ex": "The process can be divided into three discrete stages.",
+   "c": "general"
+  },
+  {
+   "w": "disperse",
+   "pos": "v",
+   "ja": "散らばる・分散させる",
+   "en": "to spread over a wide area",
+   "ex": "Wind disperses the seeds over long distances.",
+   "c": "general"
+  },
+  {
+   "w": "distinct",
+   "pos": "adj",
+   "ja": "はっきり異なる・明確な",
+   "en": "clearly different or separate",
+   "ex": "The two species have distinct feeding habits.",
+   "c": "general"
+  },
+  {
+   "w": "dominant",
+   "pos": "adj",
+   "ja": "支配的な・優勢な",
+   "en": "more powerful or common than others",
+   "ex": "Grasses are the dominant plants in this ecosystem.",
+   "c": "general"
+  },
+  {
+   "w": "elicit",
+   "pos": "v",
+   "ja": "引き出す",
+   "en": "to get a reaction or information from someone",
+   "ex": "The question elicited a wide range of responses.",
+   "c": "general"
+  },
+  {
+   "w": "empirical",
+   "pos": "adj",
+   "ja": "実証的な・経験に基づく",
+   "en": "based on observation or experiment",
+   "ex": "There is little empirical evidence for the theory.",
+   "c": "general"
+  },
+  {
+   "w": "erode",
+   "pos": "v",
+   "ja": "浸食する・損なう",
+   "en": "to gradually wear away or weaken",
+   "ex": "Waves slowly eroded the cliffs.",
+   "c": "general"
+  },
+  {
+   "w": "exceed",
+   "pos": "v",
+   "ja": "超える",
+   "en": "to be greater than a number or amount",
+   "ex": "Demand for water exceeded the supply.",
+   "c": "general"
+  },
+  {
+   "w": "exploit",
+   "pos": "v",
+   "ja": "利用する・搾取する",
+   "en": "to use something fully, sometimes unfairly",
+   "ex": "Some insects exploit the defenses of other species.",
+   "c": "general"
+  },
+  {
+   "w": "facilitate",
+   "pos": "v",
+   "ja": "促進する・容易にする",
+   "en": "to make something easier",
+   "ex": "Online forums facilitate discussion among students.",
+   "c": "general"
+  },
+  {
+   "w": "fluctuate",
+   "pos": "v",
+   "ja": "変動する",
+   "en": "to change frequently in amount or level",
+   "ex": "Prices fluctuate according to the season.",
+   "c": "general"
+  },
+  {
+   "w": "hypothesis",
+   "pos": "n",
+   "ja": "仮説",
+   "en": "an idea that is suggested and then tested",
+   "ex": "The experiment was designed to test this hypothesis.",
+   "c": "general"
+  },
+  {
+   "w": "implication",
+   "pos": "n",
+   "ja": "含意・影響",
+   "en": "a possible effect or result",
+   "ex": "The findings have important implications for public health.",
+   "c": "general"
+  },
+  {
+   "w": "inherent",
+   "pos": "adj",
+   "ja": "本来備わっている・固有の",
+   "en": "existing as a natural or basic part",
+   "ex": "There are risks inherent in any new technology.",
+   "c": "general"
+  },
+  {
+   "w": "initiate",
+   "pos": "v",
+   "ja": "開始する",
+   "en": "to make something begin",
+   "ex": "The government initiated a new recycling program.",
+   "c": "general"
+  },
+  {
+   "w": "integrate",
+   "pos": "v",
+   "ja": "統合する",
+   "en": "to combine parts into a whole",
+   "ex": "The course integrates theory and practice.",
+   "c": "general"
+  },
+  {
+   "w": "intermittent",
+   "pos": "adj",
+   "ja": "断続的な",
+   "en": "stopping and starting repeatedly",
+   "ex": "The region receives intermittent rainfall.",
+   "c": "general"
+  },
+  {
+   "w": "mitigate",
+   "pos": "v",
+   "ja": "緩和する・軽減する",
+   "en": "to make something less harmful or serious",
+   "ex": "Trees can mitigate the effects of urban heat.",
+   "c": "general"
+  },
+  {
+   "w": "notion",
+   "pos": "n",
+   "ja": "概念・考え",
+   "en": "an idea or belief",
+   "ex": "The notion that the Earth is flat was abandoned long ago.",
+   "c": "general"
+  },
+  {
+   "w": "offset",
+   "pos": "v",
+   "ja": "相殺する",
+   "en": "to balance the effect of something",
+   "ex": "The cost was offset by long-term savings.",
+   "c": "general"
+  },
+  {
+   "w": "phenomenon",
+   "pos": "n",
+   "ja": "現象",
+   "en": "something that happens or exists and can be observed",
+   "ex": "Migration is a common phenomenon among birds.",
+   "c": "general"
+  },
+  {
+   "w": "plausible",
+   "pos": "adj",
+   "ja": "もっともらしい",
+   "en": "seeming reasonable or likely to be true",
+   "ex": "That is a plausible explanation for the data.",
+   "c": "general"
+  },
+  {
+   "w": "precede",
+   "pos": "v",
+   "ja": "～に先行する",
+   "en": "to happen or exist before something",
+   "ex": "A period of drought preceded the famine.",
+   "c": "general"
+  },
+  {
+   "w": "predominantly",
+   "pos": "adv",
+   "ja": "主に・大部分は",
+   "en": "mostly or mainly",
+   "ex": "The population was predominantly rural.",
+   "c": "general"
+  },
+  {
+   "w": "prevalent",
+   "pos": "adj",
+   "ja": "広く行き渡った・流行している",
+   "en": "common or widespread",
+   "ex": "The disease is prevalent in tropical areas.",
+   "c": "general"
+  },
+  {
+   "w": "prohibit",
+   "pos": "v",
+   "ja": "禁止する",
+   "en": "to officially forbid something",
+   "ex": "The law prohibits hunting in the park.",
+   "c": "general"
+  },
+  {
+   "w": "proportion",
+   "pos": "n",
+   "ja": "割合・比率",
+   "en": "a part of a whole, considered in relation to the whole",
+   "ex": "A large proportion of students live on campus.",
+   "c": "general"
+  },
+  {
+   "w": "retain",
+   "pos": "v",
+   "ja": "保持する",
+   "en": "to keep or continue to have something",
+   "ex": "Clay soil retains water well.",
+   "c": "general"
+  },
+  {
+   "w": "scarce",
+   "pos": "adj",
+   "ja": "乏しい・不足した",
+   "en": "not available in large amounts",
+   "ex": "Water is scarce in desert regions.",
+   "c": "general"
+  },
+  {
+   "w": "subsequent",
+   "pos": "adj",
+   "ja": "その後の",
+   "en": "happening after something else",
+   "ex": "Subsequent studies confirmed the results.",
+   "c": "general"
+  },
+  {
+   "w": "substantial",
+   "pos": "adj",
+   "ja": "相当な・かなりの",
+   "en": "large in amount or importance",
+   "ex": "The project required a substantial investment.",
+   "c": "general"
+  },
+  {
+   "w": "sustain",
+   "pos": "v",
+   "ja": "維持する・支える",
+   "en": "to keep something going over time",
+   "ex": "The forest cannot sustain such a large deer population.",
+   "c": "general"
+  },
+  {
+   "w": "trigger",
+   "pos": "v",
+   "ja": "引き起こす",
+   "en": "to cause something to start",
+   "ex": "Heavy rain can trigger landslides.",
+   "c": "general"
+  },
+  {
+   "w": "undergo",
+   "pos": "v",
+   "ja": "経験する・受ける",
+   "en": "to experience a process of change",
+   "ex": "Caterpillars undergo a dramatic transformation.",
+   "c": "general"
+  },
+  {
+   "w": "viable",
+   "pos": "adj",
+   "ja": "実行可能な・存続可能な",
+   "en": "able to work successfully",
+   "ex": "Solar power is now a viable alternative to coal.",
+   "c": "general"
+  },
+  {
+   "w": "abundant",
+   "pos": "adj",
+   "ja": "豊富な",
+   "en": "existing in large amounts",
+   "ex": "Fish were abundant in the river before the dam was built.",
+   "c": "general"
+  },
+  {
+   "w": "accelerate",
+   "pos": "v",
+   "ja": "加速する・促進する",
+   "en": "to happen or make something happen faster",
+   "ex": "Rising temperatures may accelerate the melting of glaciers.",
+   "c": "general"
+  },
+  {
+   "w": "accommodate",
+   "pos": "v",
+   "ja": "収容する・対応する",
+   "en": "to provide space for; to adjust to",
+   "ex": "The new hall can accommodate 500 students.",
+   "c": "general"
+  },
+  {
+   "w": "accumulate",
+   "pos": "v",
+   "ja": "蓄積する",
+   "en": "to gradually increase in amount",
+   "ex": "Snow accumulated on the mountain over the winter.",
+   "c": "general"
+  },
+  {
+   "w": "acquire",
+   "pos": "v",
+   "ja": "獲得する・習得する",
+   "en": "to get or gain something",
+   "ex": "Children acquire language without formal instruction.",
+   "c": "general"
+  },
+  {
+   "w": "adapt",
+   "pos": "v",
+   "ja": "適応する・適応させる",
+   "en": "to change in order to suit new conditions",
+   "ex": "Some animals adapt quickly to city environments.",
+   "c": "general"
+  },
+  {
+   "w": "adequate",
+   "pos": "adj",
+   "ja": "十分な・適切な",
+   "en": "enough or good enough for a purpose",
+   "ex": "The plants did not receive adequate sunlight.",
+   "c": "general"
+  },
+  {
+   "w": "adjacent",
+   "pos": "adj",
+   "ja": "隣接した",
+   "en": "next to or near something",
+   "ex": "The lab is adjacent to the main lecture hall.",
+   "c": "general"
+  },
+  {
+   "w": "advocate",
+   "pos": "v",
+   "ja": "主張する・支持する",
+   "en": "to publicly support an idea or policy",
+   "ex": "Many scientists advocate stricter limits on emissions.",
+   "c": "general"
+  },
+  {
+   "w": "aggregate",
+   "pos": "adj",
+   "ja": "総計の・集合の",
+   "en": "formed by adding many parts together",
+   "ex": "Aggregate demand fell during the recession.",
+   "c": "general"
+  },
+  {
+   "w": "alter",
+   "pos": "v",
+   "ja": "変える・変更する",
+   "en": "to change something, usually slightly",
+   "ex": "The river altered its course after the flood.",
+   "c": "general"
+  },
+  {
+   "w": "analogous",
+   "pos": "adj",
+   "ja": "類似した",
+   "en": "similar in some way and therefore comparable",
+   "ex": "The structure of the eye is analogous to a camera.",
+   "c": "general"
+  },
+  {
+   "w": "apparent",
+   "pos": "adj",
+   "ja": "明らかな・見かけの",
+   "en": "easy to see or understand; seeming",
+   "ex": "The benefits were not immediately apparent.",
+   "c": "general"
+  },
+  {
+   "w": "assess",
+   "pos": "v",
+   "ja": "評価する",
+   "en": "to judge the quality or importance of something",
+   "ex": "Researchers assessed the impact of the new policy.",
+   "c": "general"
+  },
+  {
+   "w": "assume",
+   "pos": "v",
+   "ja": "仮定する・想定する",
+   "en": "to accept something as true without proof",
+   "ex": "Early scientists assumed that the Earth was the center of the universe.",
+   "c": "general"
+  },
+  {
+   "w": "augment",
+   "pos": "v",
+   "ja": "増大させる・補う",
+   "en": "to increase the size or value of something",
+   "ex": "Farmers augmented their income by selling crafts.",
+   "c": "general"
+  },
+  {
+   "w": "coincide",
+   "pos": "v",
+   "ja": "同時に起こる・一致する",
+   "en": "to happen at the same time",
+   "ex": "The festival coincides with the harvest season.",
+   "c": "general"
+  },
+  {
+   "w": "collapse",
+   "pos": "v",
+   "ja": "崩壊する",
+   "en": "to fall down or fail suddenly",
+   "ex": "The empire collapsed after a series of droughts.",
+   "c": "general"
+  },
+  {
+   "w": "commence",
+   "pos": "v",
+   "ja": "開始する",
+   "en": "to begin",
+   "ex": "Construction will commence next spring.",
+   "c": "general"
+  },
+  {
+   "w": "compatible",
+   "pos": "adj",
+   "ja": "両立できる・互換性のある",
+   "en": "able to exist or work together",
+   "ex": "The new software is not compatible with older computers.",
+   "c": "general"
+  },
+  {
+   "w": "compile",
+   "pos": "v",
+   "ja": "まとめる・編集する",
+   "en": "to collect information and arrange it in a list or book",
+   "ex": "The team compiled data from twenty countries.",
+   "c": "general"
+  },
+  {
+   "w": "complement",
+   "pos": "v",
+   "ja": "補完する",
+   "en": "to add to something in a way that improves it",
+   "ex": "Field trips complement classroom learning.",
+   "c": "general"
+  },
+  {
+   "w": "comprehensive",
+   "pos": "adj",
+   "ja": "包括的な",
+   "en": "including all or nearly all parts",
+   "ex": "The report offers a comprehensive review of the research.",
+   "c": "general"
+  },
+  {
+   "w": "conceive",
+   "pos": "v",
+   "ja": "考え出す・想像する",
+   "en": "to form an idea or plan in the mind",
+   "ex": "Few people could conceive of space travel in 1900.",
+   "c": "general"
+  },
+  {
+   "w": "concurrent",
+   "pos": "adj",
+   "ja": "同時に起こる",
+   "en": "existing or happening at the same time",
+   "ex": "The two experiments were run concurrently.",
+   "c": "general"
+  },
+  {
+   "w": "confine",
+   "pos": "v",
+   "ja": "限定する・閉じ込める",
+   "en": "to keep within limits",
+   "ex": "The disease was confined to a small area.",
+   "c": "general"
+  },
+  {
+   "w": "consecutive",
+   "pos": "adj",
+   "ja": "連続した",
+   "en": "following one after another without a break",
+   "ex": "It rained for five consecutive days.",
+   "c": "general"
+  },
+  {
+   "w": "consensus",
+   "pos": "n",
+   "ja": "合意・総意",
+   "en": "general agreement among a group",
+   "ex": "There is a scientific consensus that the climate is warming.",
+   "c": "general"
+  },
+  {
+   "w": "considerable",
+   "pos": "adj",
+   "ja": "かなりの",
+   "en": "large in size or amount",
+   "ex": "The project required considerable effort.",
+   "c": "general"
+  },
+  {
+   "w": "consistent",
+   "pos": "adj",
+   "ja": "一貫した・一致した",
+   "en": "always behaving or happening in the same way",
+   "ex": "The results were consistent with earlier studies.",
+   "c": "general"
+  },
+  {
+   "w": "constitute",
+   "pos": "v",
+   "ja": "構成する・〜とみなされる",
+   "en": "to form or make up something",
+   "ex": "Women constitute about half of the workforce.",
+   "c": "general"
+  },
+  {
+   "w": "contemporary",
+   "pos": "adj",
+   "ja": "現代の・同時代の",
+   "en": "belonging to the present time or the same period",
+   "ex": "Contemporary artists often use digital tools.",
+   "c": "general"
+  },
+  {
+   "w": "controversial",
+   "pos": "adj",
+   "ja": "論争を呼ぶ",
+   "en": "causing a lot of disagreement",
+   "ex": "The theory was controversial when it was first proposed.",
+   "c": "general"
+  },
+  {
+   "w": "convert",
+   "pos": "v",
+   "ja": "変換する",
+   "en": "to change from one form or use to another",
+   "ex": "Solar panels convert sunlight into electricity.",
+   "c": "general"
+  },
+  {
+   "w": "criteria",
+   "pos": "n",
+   "ja": "基準（複数形）",
+   "en": "standards used for judging something",
+   "ex": "The committee explained its criteria for selection.",
+   "c": "general"
+  },
+  {
+   "w": "crucial",
+   "pos": "adj",
+   "ja": "極めて重要な",
+   "en": "extremely important",
+   "ex": "Water is crucial for the survival of all living things.",
+   "c": "general"
+  },
+  {
+   "w": "deduce",
+   "pos": "v",
+   "ja": "推論する",
+   "en": "to reach a conclusion from available facts",
+   "ex": "From the fossils, scientists deduced that the area was once a sea.",
+   "c": "general"
+  },
+  {
+   "w": "demonstrate",
+   "pos": "v",
+   "ja": "証明する・実演する",
+   "en": "to show clearly that something is true",
+   "ex": "The experiment demonstrated that plants need light.",
+   "c": "general"
+  },
+  {
+   "w": "denote",
+   "pos": "v",
+   "ja": "表す・示す",
+   "en": "to be a sign or symbol of something",
+   "ex": "In the diagram, red arrows denote warm currents.",
+   "c": "general"
+  },
+  {
+   "w": "depict",
+   "pos": "v",
+   "ja": "描写する",
+   "en": "to show or describe in a picture or words",
+   "ex": "The cave paintings depict animals and hunters.",
+   "c": "general"
+  },
+  {
+   "w": "deteriorate",
+   "pos": "v",
+   "ja": "悪化する",
+   "en": "to become worse",
+   "ex": "Air quality deteriorated as traffic increased.",
+   "c": "general"
+  },
+  {
+   "w": "deviate",
+   "pos": "v",
+   "ja": "逸脱する",
+   "en": "to move away from the usual path or standard",
+   "ex": "The results deviated from the predicted values.",
+   "c": "general"
+  },
+  {
+   "w": "differentiate",
+   "pos": "v",
+   "ja": "区別する",
+   "en": "to see or show the difference between things",
+   "ex": "Bees can differentiate between colors.",
+   "c": "general"
+  },
+  {
+   "w": "dimension",
+   "pos": "n",
+   "ja": "側面・次元・寸法",
+   "en": "a part or aspect of something; a measurement",
+   "ex": "The problem has an important social dimension.",
+   "c": "general"
+  },
+  {
+   "w": "disclose",
+   "pos": "v",
+   "ja": "公開する・明かす",
+   "en": "to make information known",
+   "ex": "Companies must disclose their financial results.",
+   "c": "general"
+  },
+  {
+   "w": "displace",
+   "pos": "v",
+   "ja": "移動させる・追い出す",
+   "en": "to force something or someone out of its usual place",
+   "ex": "The dam displaced thousands of residents.",
+   "c": "general"
+  },
+  {
+   "w": "diverse",
+   "pos": "adj",
+   "ja": "多様な",
+   "en": "including many different types",
+   "ex": "The rainforest supports a diverse range of species.",
+   "c": "general"
+  },
+  {
+   "w": "domain",
+   "pos": "n",
+   "ja": "分野・領域",
+   "en": "an area of knowledge or activity",
+   "ex": "Language learning is a major domain of psychology.",
+   "c": "general"
+  },
+  {
+   "w": "drastic",
+   "pos": "adj",
+   "ja": "徹底的な・劇的な",
+   "en": "extreme and having a sudden effect",
+   "ex": "The city took drastic measures to save water.",
+   "c": "general"
+  },
+  {
+   "w": "emerge",
+   "pos": "v",
+   "ja": "現れる・明らかになる",
+   "en": "to appear or become known",
+   "ex": "New evidence emerged during the investigation.",
+   "c": "general"
+  },
+  {
+   "w": "emphasize",
+   "pos": "v",
+   "ja": "強調する",
+   "en": "to give special importance to something",
+   "ex": "The professor emphasized the need for clear evidence.",
+   "c": "general"
+  },
+  {
+   "w": "enhance",
+   "pos": "v",
+   "ja": "高める・向上させる",
+   "en": "to improve the quality or value of something",
+   "ex": "Sleep enhances the ability to learn new skills.",
+   "c": "general"
+  },
+  {
+   "w": "enormous",
+   "pos": "adj",
+   "ja": "巨大な・莫大な",
+   "en": "extremely large",
+   "ex": "Blue whales are enormous animals.",
+   "c": "general"
+  },
+  {
+   "w": "equivalent",
+   "pos": "adj",
+   "ja": "同等の",
+   "en": "equal in value, amount, or meaning",
+   "ex": "One mile is equivalent to about 1.6 kilometers.",
+   "c": "general"
+  },
+  {
+   "w": "evaluate",
+   "pos": "v",
+   "ja": "評価する",
+   "en": "to judge the value or quality of something",
+   "ex": "Students must evaluate the reliability of their sources.",
+   "c": "general"
+  },
+  {
+   "w": "evident",
+   "pos": "adj",
+   "ja": "明白な",
+   "en": "clear and obvious",
+   "ex": "It was evident that the plan had failed.",
+   "c": "general"
+  },
+  {
+   "w": "evolve",
+   "pos": "v",
+   "ja": "進化する・発展する",
+   "en": "to develop gradually over time",
+   "ex": "Birds evolved from small dinosaurs.",
+   "c": "general"
+  },
+  {
+   "w": "explicit",
+   "pos": "adj",
+   "ja": "明示的な",
+   "en": "stated clearly and in detail",
+   "ex": "The instructions were explicit about the deadline.",
+   "c": "general"
+  },
+  {
+   "w": "extract",
+   "pos": "v",
+   "ja": "抽出する・取り出す",
+   "en": "to remove or take out something",
+   "ex": "Oil is extracted from deep underground.",
+   "c": "general"
+  },
+  {
+   "w": "feasible",
+   "pos": "adj",
+   "ja": "実現可能な",
+   "en": "possible and practical to do",
+   "ex": "Building a bridge here is not economically feasible.",
+   "c": "general"
+  },
+  {
+   "w": "fundamental",
+   "pos": "adj",
+   "ja": "根本的な・基本的な",
+   "en": "forming the basis of something",
+   "ex": "Energy is a fundamental concept in physics.",
+   "c": "general"
+  },
+  {
+   "w": "generate",
+   "pos": "v",
+   "ja": "生み出す・発生させる",
+   "en": "to produce or create something",
+   "ex": "Wind turbines generate electricity.",
+   "c": "general"
+  },
+  {
+   "w": "hierarchy",
+   "pos": "n",
+   "ja": "階層・序列",
+   "en": "a system in which people or things are ranked",
+   "ex": "Wolves live in groups with a clear social hierarchy.",
+   "c": "general"
+  },
+  {
+   "w": "identical",
+   "pos": "adj",
+   "ja": "同一の",
+   "en": "exactly the same",
+   "ex": "The twins have identical DNA.",
+   "c": "general"
+  },
+  {
+   "w": "illustrate",
+   "pos": "v",
+   "ja": "説明する・例示する",
+   "en": "to explain or show with examples",
+   "ex": "The graph illustrates the rise in population.",
+   "c": "general"
+  },
+  {
+   "w": "impose",
+   "pos": "v",
+   "ja": "課す・押し付ける",
+   "en": "to force a rule, tax, or condition on someone",
+   "ex": "The government imposed a tax on sugary drinks.",
+   "c": "general"
+  },
+  {
+   "w": "incidence",
+   "pos": "n",
+   "ja": "発生率",
+   "en": "the rate at which something happens",
+   "ex": "The incidence of the disease has declined.",
+   "c": "general"
+  },
+  {
+   "w": "incorporate",
+   "pos": "v",
+   "ja": "組み込む",
+   "en": "to include something as part of a whole",
+   "ex": "The design incorporates recycled materials.",
+   "c": "general"
+  },
+  {
+   "w": "indicate",
+   "pos": "v",
+   "ja": "示す",
+   "en": "to show or suggest something",
+   "ex": "The data indicate a strong connection between sleep and memory.",
+   "c": "general"
+  },
+  {
+   "w": "induce",
+   "pos": "v",
+   "ja": "誘発する・引き起こす",
+   "en": "to cause something to happen",
+   "ex": "Certain chemicals can induce sleep.",
+   "c": "general"
+  },
+  {
+   "w": "infer",
+   "pos": "v",
+   "ja": "推論する",
+   "en": "to form an opinion from evidence",
+   "ex": "We can infer from the tools that the people were farmers.",
+   "c": "general"
+  },
+  {
+   "w": "inhibit",
+   "pos": "v",
+   "ja": "抑制する",
+   "en": "to slow down or prevent a process",
+   "ex": "Cold temperatures inhibit the growth of bacteria.",
+   "c": "general"
+  },
+  {
+   "w": "inevitable",
+   "pos": "adj",
+   "ja": "避けられない",
+   "en": "certain to happen",
+   "ex": "Some loss of habitat was inevitable as the city grew.",
+   "c": "general"
+  },
+  {
+   "w": "intensify",
+   "pos": "v",
+   "ja": "強める・激化する",
+   "en": "to become or make stronger",
+   "ex": "The storm intensified as it moved over warm water.",
+   "c": "general"
+  },
+  {
+   "w": "interpret",
+   "pos": "v",
+   "ja": "解釈する",
+   "en": "to explain the meaning of something",
+   "ex": "Scientists interpret the data in different ways.",
+   "c": "general"
+  },
+  {
+   "w": "intrinsic",
+   "pos": "adj",
+   "ja": "本質的な・固有の",
+   "en": "belonging naturally to something",
+   "ex": "Learning has intrinsic value beyond getting a job.",
+   "c": "general"
+  },
+  {
+   "w": "isolate",
+   "pos": "v",
+   "ja": "隔離する・分離する",
+   "en": "to separate from others",
+   "ex": "The island was isolated from the mainland for centuries.",
+   "c": "general"
+  },
+  {
+   "w": "justify",
+   "pos": "v",
+   "ja": "正当化する",
+   "en": "to give a good reason for something",
+   "ex": "The results did not justify the high cost.",
+   "c": "general"
+  },
+  {
+   "w": "manifest",
+   "pos": "v",
+   "ja": "表す・現れる",
+   "en": "to show something clearly",
+   "ex": "Stress can manifest itself as physical pain.",
+   "c": "general"
+  },
+  {
+   "w": "marginal",
+   "pos": "adj",
+   "ja": "わずかな・周辺的な",
+   "en": "small and not important",
+   "ex": "The new method produced only marginal improvements.",
+   "c": "general"
+  },
+  {
+   "w": "mechanism",
+   "pos": "n",
+   "ja": "仕組み・機構",
+   "en": "a process or system that produces a result",
+   "ex": "The mechanism of memory is not fully understood.",
+   "c": "general"
+  },
+  {
+   "w": "modify",
+   "pos": "v",
+   "ja": "修正する",
+   "en": "to change something slightly",
+   "ex": "Farmers modified their methods to save water.",
+   "c": "general"
+  },
+  {
+   "w": "negligible",
+   "pos": "adj",
+   "ja": "無視できるほどの",
+   "en": "so small that it is not important",
+   "ex": "The effect on prices was negligible.",
+   "c": "general"
+  },
+  {
+   "w": "nonetheless",
+   "pos": "adv",
+   "ja": "それにもかかわらず",
+   "en": "in spite of what has just been said",
+   "ex": "The task was difficult; nonetheless, they finished on time.",
+   "c": "general"
+  },
+  {
+   "w": "obscure",
+   "pos": "adj",
+   "ja": "不明瞭な・あまり知られていない",
+   "en": "not clear or not well known",
+   "ex": "The origin of the word is obscure.",
+   "c": "general"
+  },
+  {
+   "w": "obtain",
+   "pos": "v",
+   "ja": "得る",
+   "en": "to get something, especially with effort",
+   "ex": "Researchers obtained samples from the lake.",
+   "c": "general"
+  },
+  {
+   "w": "perceive",
+   "pos": "v",
+   "ja": "知覚する・認識する",
+   "en": "to notice or understand something",
+   "ex": "Owls can perceive very faint sounds.",
+   "c": "general"
+  },
+  {
+   "w": "persist",
+   "pos": "v",
+   "ja": "持続する・固執する",
+   "en": "to continue to exist or to keep trying",
+   "ex": "The drought persisted for several years.",
+   "c": "general"
+  },
+  {
+   "w": "pose",
+   "pos": "v",
+   "ja": "（問題などを）引き起こす・提起する",
+   "en": "to create a problem or ask a question",
+   "ex": "Rising sea levels pose a threat to coastal cities.",
+   "c": "general"
+  },
+  {
+   "w": "potential",
+   "pos": "adj",
+   "ja": "潜在的な",
+   "en": "possible but not yet actual",
+   "ex": "The plant has potential uses in medicine.",
+   "c": "general"
+  },
+  {
+   "w": "preliminary",
+   "pos": "adj",
+   "ja": "予備的な",
+   "en": "coming before a more important action",
+   "ex": "Preliminary results suggest the drug is effective.",
+   "c": "general"
+  },
+  {
+   "w": "presume",
+   "pos": "v",
+   "ja": "推定する",
+   "en": "to suppose that something is true",
+   "ex": "The ship was presumed lost at sea.",
+   "c": "general"
+  },
+  {
+   "w": "prior",
+   "pos": "adj",
+   "ja": "前の・事前の",
+   "en": "existing or happening before",
+   "ex": "No prior experience is required for the course.",
+   "c": "general"
+  },
+  {
+   "w": "profound",
+   "pos": "adj",
+   "ja": "深い・重大な",
+   "en": "very great or intense",
+   "ex": "The invention had a profound effect on society.",
+   "c": "general"
+  },
+  {
+   "w": "prominent",
+   "pos": "adj",
+   "ja": "目立つ・著名な",
+   "en": "important, famous, or easily seen",
+   "ex": "She is a prominent researcher in genetics.",
+   "c": "general"
+  },
+  {
+   "w": "rigid",
+   "pos": "adj",
+   "ja": "硬直した・厳格な",
+   "en": "stiff; not able to change",
+   "ex": "The school had rigid rules about attendance.",
+   "c": "general"
+  },
+  {
+   "w": "simulate",
+   "pos": "v",
+   "ja": "模擬する",
+   "en": "to create conditions that are like real ones",
+   "ex": "The program simulates the movement of ocean currents.",
+   "c": "general"
+  },
+  {
+   "w": "sophisticated",
+   "pos": "adj",
+   "ja": "高度な・洗練された",
+   "en": "advanced and complex",
+   "ex": "The telescope uses sophisticated technology.",
+   "c": "general"
+  },
+  {
+   "w": "organism",
+   "pos": "n",
+   "ja": "生物・有機体",
+   "en": "an individual living thing",
+   "ex": "Bacteria are single-celled organisms.",
+   "c": "biology"
+  },
+  {
+   "w": "habitat",
+   "pos": "n",
+   "ja": "生息地",
+   "en": "the natural home of an animal or plant",
+   "ex": "The wetland is an important habitat for birds.",
+   "c": "biology"
+  },
+  {
+   "w": "predator",
+   "pos": "n",
+   "ja": "捕食者",
+   "en": "an animal that hunts and eats other animals",
+   "ex": "Lions are the main predators on the savanna.",
+   "c": "biology"
+  },
+  {
+   "w": "prey",
+   "pos": "n",
+   "ja": "獲物",
+   "en": "an animal hunted for food",
+   "ex": "Mice are common prey for owls.",
+   "c": "biology"
+  },
+  {
+   "w": "symbiosis",
+   "pos": "n",
+   "ja": "共生",
+   "en": "a close relationship between two species that benefits both",
+   "ex": "Clownfish and sea anemones live in symbiosis.",
+   "c": "biology"
+  },
+  {
+   "w": "mutation",
+   "pos": "n",
+   "ja": "突然変異",
+   "en": "a change in the genetic material of a cell",
+   "ex": "A single mutation can change an animal's color.",
+   "c": "biology"
+  },
+  {
+   "w": "metabolism",
+   "pos": "n",
+   "ja": "代謝",
+   "en": "the chemical processes that keep an organism alive",
+   "ex": "Small mammals have a fast metabolism.",
+   "c": "biology"
+  },
+  {
+   "w": "photosynthesis",
+   "pos": "n",
+   "ja": "光合成",
+   "en": "the process by which plants use light to make food",
+   "ex": "Photosynthesis produces oxygen as a by-product.",
+   "c": "biology"
+  },
+  {
+   "w": "pollinate",
+   "pos": "v",
+   "ja": "受粉させる",
+   "en": "to carry pollen from one flower to another",
+   "ex": "Bees pollinate many important crops.",
+   "c": "biology"
+  },
+  {
+   "w": "germinate",
+   "pos": "v",
+   "ja": "発芽する",
+   "en": "to begin to grow from a seed",
+   "ex": "Some seeds germinate only after a forest fire.",
+   "c": "biology"
+  },
+  {
+   "w": "offspring",
+   "pos": "n",
+   "ja": "子孫・子",
+   "en": "the young of an animal or plant",
+   "ex": "Sea turtles produce hundreds of offspring each season.",
+   "c": "biology"
+  },
+  {
+   "w": "inherit",
+   "pos": "v",
+   "ja": "受け継ぐ・遺伝する",
+   "en": "to receive a trait from a parent",
+   "ex": "Children inherit half of their genes from each parent.",
+   "c": "biology"
+  },
+  {
+   "w": "enzyme",
+   "pos": "n",
+   "ja": "酵素",
+   "en": "a protein that speeds up chemical reactions in living things",
+   "ex": "Enzymes in saliva begin to break down food.",
+   "c": "biology"
+  },
+  {
+   "w": "hormone",
+   "pos": "n",
+   "ja": "ホルモン",
+   "en": "a chemical that controls processes in the body",
+   "ex": "Growth hormones are released during sleep.",
+   "c": "biology"
+  },
+  {
+   "w": "nutrient",
+   "pos": "n",
+   "ja": "栄養素",
+   "en": "a substance that helps a living thing grow",
+   "ex": "Plants absorb nutrients from the soil.",
+   "c": "biology"
+  },
+  {
+   "w": "tissue",
+   "pos": "n",
+   "ja": "組織",
+   "en": "a group of similar cells that perform a function",
+   "ex": "Muscle tissue can repair itself after injury.",
+   "c": "biology"
+  },
+  {
+   "w": "larva",
+   "pos": "n",
+   "ja": "幼虫",
+   "en": "the young form of an insect before it changes",
+   "ex": "A caterpillar is the larva of a butterfly.",
+   "c": "biology"
+  },
+  {
+   "w": "mammal",
+   "pos": "n",
+   "ja": "哺乳類",
+   "en": "an animal that feeds its young with milk",
+   "ex": "Whales are mammals, not fish.",
+   "c": "biology"
+  },
+  {
+   "w": "reptile",
+   "pos": "n",
+   "ja": "爬虫類",
+   "en": "a cold-blooded animal with scales, such as a snake",
+   "ex": "Most reptiles lay eggs on land.",
+   "c": "biology"
+  },
+  {
+   "w": "amphibian",
+   "pos": "n",
+   "ja": "両生類",
+   "en": "an animal that lives both in water and on land",
+   "ex": "Frogs are amphibians.",
+   "c": "biology"
+  },
+  {
+   "w": "carnivore",
+   "pos": "n",
+   "ja": "肉食動物",
+   "en": "an animal that eats meat",
+   "ex": "Sharks are carnivores.",
+   "c": "biology"
+  },
+  {
+   "w": "herbivore",
+   "pos": "n",
+   "ja": "草食動物",
+   "en": "an animal that eats only plants",
+   "ex": "Deer are herbivores.",
+   "c": "biology"
+  },
+  {
+   "w": "parasite",
+   "pos": "n",
+   "ja": "寄生生物",
+   "en": "an organism that lives on or in another and harms it",
+   "ex": "Some parasites change the behavior of their hosts.",
+   "c": "biology"
+  },
+  {
+   "w": "camouflage",
+   "pos": "n",
+   "ja": "擬態・カモフラージュ",
+   "en": "coloring that helps an animal blend in",
+   "ex": "The moth's camouflage makes it hard to see on tree bark.",
+   "c": "biology"
+  },
+  {
+   "w": "hibernate",
+   "pos": "v",
+   "ja": "冬眠する",
+   "en": "to sleep through the winter",
+   "ex": "Bears hibernate when food is scarce.",
+   "c": "biology"
+  },
+  {
+   "w": "migrate",
+   "pos": "v",
+   "ja": "移動する・渡る",
+   "en": "to travel to another place seasonally",
+   "ex": "Many birds migrate south for the winter.",
+   "c": "biology"
+  },
+  {
+   "w": "extinct",
+   "pos": "adj",
+   "ja": "絶滅した",
+   "en": "no longer existing",
+   "ex": "The dodo became extinct in the 1600s.",
+   "c": "biology"
+  },
+  {
+   "w": "dormant",
+   "pos": "adj",
+   "ja": "休眠中の",
+   "en": "alive but not active or growing",
+   "ex": "The seeds remain dormant until it rains.",
+   "c": "biology"
+  },
+  {
+   "w": "membrane",
+   "pos": "n",
+   "ja": "膜",
+   "en": "a thin layer that covers or separates parts",
+   "ex": "The cell membrane controls what enters the cell.",
+   "c": "biology"
+  },
+  {
+   "w": "vertebrate",
+   "pos": "n",
+   "ja": "脊椎動物",
+   "en": "an animal with a backbone",
+   "ex": "Fish, birds, and mammals are all vertebrates.",
+   "c": "biology"
+  },
+  {
+   "w": "sediment",
+   "pos": "n",
+   "ja": "堆積物",
+   "en": "sand, mud, or stones carried and left by water or wind",
+   "ex": "Rivers carry sediment to the sea.",
+   "c": "earth"
+  },
+  {
+   "w": "weathering",
+   "pos": "n",
+   "ja": "風化",
+   "en": "the breaking down of rock by weather",
+   "ex": "Weathering slowly turns rock into soil.",
+   "c": "earth"
+  },
+  {
+   "w": "crust",
+   "pos": "n",
+   "ja": "地殻",
+   "en": "the hard outer layer of the Earth",
+   "ex": "The Earth's crust is thinnest under the oceans.",
+   "c": "earth"
+  },
+  {
+   "w": "mantle",
+   "pos": "n",
+   "ja": "マントル",
+   "en": "the layer of the Earth between the crust and the core",
+   "ex": "Heat from the mantle drives the movement of plates.",
+   "c": "earth"
+  },
+  {
+   "w": "magma",
+   "pos": "n",
+   "ja": "マグマ",
+   "en": "hot liquid rock below the Earth's surface",
+   "ex": "Magma rises through cracks in the crust.",
+   "c": "earth"
+  },
+  {
+   "w": "tectonic",
+   "pos": "adj",
+   "ja": "地殻変動の",
+   "en": "relating to the structure and movement of the Earth's crust",
+   "ex": "Tectonic plates move a few centimeters each year.",
+   "c": "earth"
+  },
+  {
+   "w": "fault",
+   "pos": "n",
+   "ja": "断層",
+   "en": "a crack in the Earth's crust where movement occurs",
+   "ex": "The city is built on a major fault.",
+   "c": "earth"
+  },
+  {
+   "w": "glacier",
+   "pos": "n",
+   "ja": "氷河",
+   "en": "a large mass of ice that moves slowly",
+   "ex": "The valley was carved by a glacier.",
+   "c": "earth"
+  },
+  {
+   "w": "plateau",
+   "pos": "n",
+   "ja": "高原・台地",
+   "en": "a large flat area of high land",
+   "ex": "The Tibetan Plateau is the highest in the world.",
+   "c": "earth"
+  },
+  {
+   "w": "stratum",
+   "pos": "n",
+   "ja": "地層（複数形 strata）",
+   "en": "a layer of rock",
+   "ex": "Each stratum records a different period of time.",
+   "c": "earth"
+  },
+  {
+   "w": "fossil",
+   "pos": "n",
+   "ja": "化石",
+   "en": "the remains of an ancient plant or animal preserved in rock",
+   "ex": "Fossils of sea creatures were found on the mountain.",
+   "c": "earth"
+  },
+  {
+   "w": "mineral",
+   "pos": "n",
+   "ja": "鉱物",
+   "en": "a natural solid substance such as quartz or salt",
+   "ex": "Quartz is one of the most common minerals.",
+   "c": "earth"
+  },
+  {
+   "w": "igneous",
+   "pos": "adj",
+   "ja": "火成の",
+   "en": "formed from cooled magma or lava",
+   "ex": "Granite is an igneous rock.",
+   "c": "earth"
+  },
+  {
+   "w": "sedimentary",
+   "pos": "adj",
+   "ja": "堆積の",
+   "en": "formed from layers of sediment",
+   "ex": "Sandstone is a sedimentary rock.",
+   "c": "earth"
+  },
+  {
+   "w": "metamorphic",
+   "pos": "adj",
+   "ja": "変成の",
+   "en": "changed by heat and pressure",
+   "ex": "Marble is a metamorphic rock formed from limestone.",
+   "c": "earth"
+  },
+  {
+   "w": "aquifer",
+   "pos": "n",
+   "ja": "帯水層",
+   "en": "an underground layer of rock that holds water",
+   "ex": "Many cities depend on water from aquifers.",
+   "c": "earth"
+  },
+  {
+   "w": "seismic",
+   "pos": "adj",
+   "ja": "地震の",
+   "en": "relating to earthquakes",
+   "ex": "Seismic activity increased before the eruption.",
+   "c": "earth"
+  },
+  {
+   "w": "lava",
+   "pos": "n",
+   "ja": "溶岩",
+   "en": "hot liquid rock that comes out of a volcano",
+   "ex": "The lava cooled and formed new land.",
+   "c": "earth"
+  },
+  {
+   "w": "basin",
+   "pos": "n",
+   "ja": "盆地・流域",
+   "en": "a low area of land; the area drained by a river",
+   "ex": "The Amazon basin covers much of South America.",
+   "c": "earth"
+  },
+  {
+   "w": "delta",
+   "pos": "n",
+   "ja": "三角州",
+   "en": "an area of land where a river splits before entering the sea",
+   "ex": "The Nile delta is very fertile.",
+   "c": "earth"
+  },
+  {
+   "w": "terrain",
+   "pos": "n",
+   "ja": "地形・地域",
+   "en": "land of a particular type",
+   "ex": "The mountain terrain made travel difficult.",
+   "c": "earth"
+  },
+  {
+   "w": "precipitation",
+   "pos": "n",
+   "ja": "降水（量）",
+   "en": "rain, snow, or hail",
+   "ex": "The region receives little precipitation in summer.",
+   "c": "earth"
+  },
+  {
+   "w": "humidity",
+   "pos": "n",
+   "ja": "湿度",
+   "en": "the amount of water vapor in the air",
+   "ex": "High humidity makes hot days feel even hotter.",
+   "c": "earth"
+  },
+  {
+   "w": "topography",
+   "pos": "n",
+   "ja": "地形",
+   "en": "the physical features of an area of land",
+   "ex": "The topography of the island is very steep.",
+   "c": "earth"
+  },
+  {
+   "w": "deposit",
+   "pos": "n",
+   "ja": "堆積物・鉱床",
+   "en": "a layer of material left in a place",
+   "ex": "Large deposits of copper were found in the hills.",
+   "c": "earth"
+  },
+  {
+   "w": "ecosystem",
+   "pos": "n",
+   "ja": "生態系",
+   "en": "all the living things in an area and their environment",
+   "ex": "Coral reefs are fragile ecosystems.",
+   "c": "environment"
+  },
+  {
+   "w": "biodiversity",
+   "pos": "n",
+   "ja": "生物多様性",
+   "en": "the variety of plant and animal life in an area",
+   "ex": "Tropical forests have extremely high biodiversity.",
+   "c": "environment"
+  },
+  {
+   "w": "emission",
+   "pos": "n",
+   "ja": "排出（物）",
+   "en": "gas or other substance released into the air",
+   "ex": "Cars are a major source of carbon emissions.",
+   "c": "environment"
+  },
+  {
+   "w": "pollutant",
+   "pos": "n",
+   "ja": "汚染物質",
+   "en": "a substance that makes air, water, or soil dirty",
+   "ex": "Factories released pollutants into the river.",
+   "c": "environment"
+  },
+  {
+   "w": "contaminate",
+   "pos": "v",
+   "ja": "汚染する",
+   "en": "to make something impure or dangerous",
+   "ex": "Chemicals from the mine contaminated the water supply.",
+   "c": "environment"
+  },
+  {
+   "w": "deforestation",
+   "pos": "n",
+   "ja": "森林伐採",
+   "en": "the cutting down of large areas of forest",
+   "ex": "Deforestation threatens many animal species.",
+   "c": "environment"
+  },
+  {
+   "w": "renewable",
+   "pos": "adj",
+   "ja": "再生可能な",
+   "en": "able to be replaced naturally",
+   "ex": "Wind and solar power are renewable sources of energy.",
+   "c": "environment"
+  },
+  {
+   "w": "conservation",
+   "pos": "n",
+   "ja": "保全・保護",
+   "en": "the protection of nature",
+   "ex": "Conservation programs helped the eagle population recover.",
+   "c": "environment"
+  },
+  {
+   "w": "sustainable",
+   "pos": "adj",
+   "ja": "持続可能な",
+   "en": "able to continue without harming the environment",
+   "ex": "Sustainable fishing protects fish stocks for the future.",
+   "c": "environment"
+  },
+  {
+   "w": "greenhouse gas",
+   "pos": "n",
+   "ja": "温室効果ガス",
+   "en": "a gas that traps heat in the atmosphere",
+   "ex": "Methane is a powerful greenhouse gas.",
+   "c": "environment"
+  },
+  {
+   "w": "drought",
+   "pos": "n",
+   "ja": "干ばつ",
+   "en": "a long period without rain",
+   "ex": "The drought destroyed most of the crops.",
+   "c": "environment"
+  },
+  {
+   "w": "irrigation",
+   "pos": "n",
+   "ja": "灌漑",
+   "en": "supplying water to land to help crops grow",
+   "ex": "Irrigation allowed farming in the desert.",
+   "c": "environment"
+  },
+  {
+   "w": "fertilizer",
+   "pos": "n",
+   "ja": "肥料",
+   "en": "a substance added to soil to help plants grow",
+   "ex": "Too much fertilizer can pollute nearby lakes.",
+   "c": "environment"
+  },
+  {
+   "w": "pesticide",
+   "pos": "n",
+   "ja": "殺虫剤・農薬",
+   "en": "a chemical used to kill insects that damage crops",
+   "ex": "Some pesticides are harmful to bees.",
+   "c": "environment"
+  },
+  {
+   "w": "runoff",
+   "pos": "n",
+   "ja": "流出水",
+   "en": "water that flows over land into rivers and lakes",
+   "ex": "Runoff from farms carries chemicals into streams.",
+   "c": "environment"
+  },
+  {
+   "w": "wetland",
+   "pos": "n",
+   "ja": "湿地",
+   "en": "an area of land covered with shallow water",
+   "ex": "Wetlands help prevent flooding.",
+   "c": "environment"
+  },
+  {
+   "w": "invasive",
+   "pos": "adj",
+   "ja": "侵略的な（外来種の）",
+   "en": "spreading quickly and harming native species",
+   "ex": "Invasive plants can take over entire forests.",
+   "c": "environment"
+  },
+  {
+   "w": "endangered",
+   "pos": "adj",
+   "ja": "絶滅の危機にある",
+   "en": "at risk of disappearing completely",
+   "ex": "The snow leopard is an endangered species.",
+   "c": "environment"
+  },
+  {
+   "w": "degrade",
+   "pos": "v",
+   "ja": "劣化させる",
+   "en": "to make something worse in quality",
+   "ex": "Overgrazing degraded the grasslands.",
+   "c": "environment"
+  },
+  {
+   "w": "landfill",
+   "pos": "n",
+   "ja": "埋め立て地・ごみ処分場",
+   "en": "a place where waste is buried",
+   "ex": "Plastic can remain in landfills for centuries.",
+   "c": "environment"
+  },
+  {
+   "w": "acidification",
+   "pos": "n",
+   "ja": "酸性化",
+   "en": "the process of becoming more acidic",
+   "ex": "Ocean acidification harms shellfish.",
+   "c": "environment"
+  },
+  {
+   "w": "restoration",
+   "pos": "n",
+   "ja": "復元・回復",
+   "en": "returning something to its original condition",
+   "ex": "The restoration of the river brought back salmon.",
+   "c": "environment"
+  },
+  {
+   "w": "watershed",
+   "pos": "n",
+   "ja": "分水界・流域",
+   "en": "the area of land that drains into a river or lake",
+   "ex": "Protecting the watershed keeps drinking water clean.",
+   "c": "environment"
+  },
+  {
+   "w": "carbon footprint",
+   "pos": "n",
+   "ja": "カーボンフットプリント",
+   "en": "the amount of carbon dioxide a person or activity produces",
+   "ex": "Flying increases your carbon footprint.",
+   "c": "environment"
+  },
+  {
+   "w": "fossil fuel",
+   "pos": "n",
+   "ja": "化石燃料",
+   "en": "fuel such as coal or oil formed from ancient organisms",
+   "ex": "Burning fossil fuels releases carbon dioxide.",
+   "c": "environment"
+  },
+  {
+   "w": "cognitive",
+   "pos": "adj",
+   "ja": "認知の",
+   "en": "relating to thinking, learning, and memory",
+   "ex": "Sleep loss affects cognitive performance.",
+   "c": "psychology"
+  },
+  {
+   "w": "perception",
+   "pos": "n",
+   "ja": "知覚・認識",
+   "en": "the way something is noticed or understood",
+   "ex": "Color perception varies among animals.",
+   "c": "psychology"
+  },
+  {
+   "w": "stimulus",
+   "pos": "n",
+   "ja": "刺激",
+   "en": "something that causes a reaction",
+   "ex": "The dog responded to the sound stimulus.",
+   "c": "psychology"
+  },
+  {
+   "w": "conditioning",
+   "pos": "n",
+   "ja": "条件づけ",
+   "en": "learning in which a response becomes linked to a stimulus",
+   "ex": "Pavlov studied conditioning in dogs.",
+   "c": "psychology"
+  },
+  {
+   "w": "reinforcement",
+   "pos": "n",
+   "ja": "強化",
+   "en": "something that makes a behavior more likely to happen again",
+   "ex": "Praise is a form of positive reinforcement.",
+   "c": "psychology"
+  },
+  {
+   "w": "motivation",
+   "pos": "n",
+   "ja": "動機づけ・意欲",
+   "en": "the reason or desire to do something",
+   "ex": "Intrinsic motivation leads to deeper learning.",
+   "c": "psychology"
+  },
+  {
+   "w": "bias",
+   "pos": "n",
+   "ja": "偏り・偏見",
+   "en": "an unfair tendency to favor one thing",
+   "ex": "Confirmation bias makes people ignore opposing evidence.",
+   "c": "psychology"
+  },
+  {
+   "w": "conformity",
+   "pos": "n",
+   "ja": "同調",
+   "en": "behaving in the same way as others in a group",
+   "ex": "The experiment showed strong pressure toward conformity.",
+   "c": "psychology"
+  },
+  {
+   "w": "anxiety",
+   "pos": "n",
+   "ja": "不安",
+   "en": "a feeling of worry or nervousness",
+   "ex": "Test anxiety can lower performance.",
+   "c": "psychology"
+  },
+  {
+   "w": "empathy",
+   "pos": "n",
+   "ja": "共感",
+   "en": "the ability to understand others' feelings",
+   "ex": "Reading fiction may increase empathy.",
+   "c": "psychology"
+  },
+  {
+   "w": "introvert",
+   "pos": "n",
+   "ja": "内向的な人",
+   "en": "a person who prefers quiet and spending time alone",
+   "ex": "Introverts often prefer small group discussions.",
+   "c": "psychology"
+  },
+  {
+   "w": "extrovert",
+   "pos": "n",
+   "ja": "外向的な人",
+   "en": "a person who enjoys being with other people",
+   "ex": "Extroverts gain energy from social events.",
+   "c": "psychology"
+  },
+  {
+   "w": "subconscious",
+   "pos": "adj",
+   "ja": "潜在意識の",
+   "en": "existing in the mind without awareness",
+   "ex": "Advertising can influence subconscious decisions.",
+   "c": "psychology"
+  },
+  {
+   "w": "trait",
+   "pos": "n",
+   "ja": "特性",
+   "en": "a quality that is part of someone's character",
+   "ex": "Curiosity is a common trait among scientists.",
+   "c": "psychology"
+  },
+  {
+   "w": "recall",
+   "pos": "v",
+   "ja": "思い出す",
+   "en": "to remember something",
+   "ex": "Participants recalled more words after sleeping.",
+   "c": "psychology"
+  },
+  {
+   "w": "retrieval",
+   "pos": "n",
+   "ja": "想起・検索",
+   "en": "the process of getting information from memory",
+   "ex": "Practice tests strengthen memory retrieval.",
+   "c": "psychology"
+  },
+  {
+   "w": "placebo",
+   "pos": "n",
+   "ja": "偽薬",
+   "en": "a substance with no medical effect given for comparison",
+   "ex": "Some patients improved after taking a placebo.",
+   "c": "psychology"
+  },
+  {
+   "w": "self-esteem",
+   "pos": "n",
+   "ja": "自尊心",
+   "en": "confidence in one's own value",
+   "ex": "Success in school can raise self-esteem.",
+   "c": "psychology"
+  },
+  {
+   "w": "peer pressure",
+   "pos": "n",
+   "ja": "仲間からの圧力・同調圧力",
+   "en": "influence from people of the same age or group",
+   "ex": "Teenagers are especially sensitive to peer pressure.",
+   "c": "psychology"
+  },
+  {
+   "w": "infant",
+   "pos": "n",
+   "ja": "乳児",
+   "en": "a very young child",
+   "ex": "Infants can recognize their mother's voice.",
+   "c": "psychology"
+  },
+  {
+   "w": "adolescent",
+   "pos": "n",
+   "ja": "青年・思春期の若者",
+   "en": "a young person between childhood and adulthood",
+   "ex": "Adolescents need more sleep than adults.",
+   "c": "psychology"
+  },
+  {
+   "w": "intuition",
+   "pos": "n",
+   "ja": "直感",
+   "en": "the ability to know something without conscious reasoning",
+   "ex": "Experts often rely on intuition.",
+   "c": "psychology"
+  },
+  {
+   "w": "heuristic",
+   "pos": "n",
+   "ja": "ヒューリスティック・経験則",
+   "en": "a simple rule used to make decisions quickly",
+   "ex": "People use heuristics when they lack time to think.",
+   "c": "psychology"
+  },
+  {
+   "w": "attention span",
+   "pos": "n",
+   "ja": "集中力の持続時間",
+   "en": "the length of time a person can concentrate",
+   "ex": "Short videos may reduce attention span.",
+   "c": "psychology"
+  },
+  {
+   "w": "behavioral",
+   "pos": "adj",
+   "ja": "行動の",
+   "en": "relating to the way people or animals act",
+   "ex": "Behavioral studies observe animals in natural settings.",
+   "c": "psychology"
+  },
+  {
+   "w": "civilization",
+   "pos": "n",
+   "ja": "文明",
+   "en": "an advanced society with cities and government",
+   "ex": "The Maya built a complex civilization.",
+   "c": "history"
+  },
+  {
+   "w": "empire",
+   "pos": "n",
+   "ja": "帝国",
+   "en": "a group of countries ruled by one government",
+   "ex": "The Roman Empire controlled much of Europe.",
+   "c": "history"
+  },
+  {
+   "w": "colony",
+   "pos": "n",
+   "ja": "植民地",
+   "en": "an area controlled by another country",
+   "ex": "The colony depended on trade with Europe.",
+   "c": "history"
+  },
+  {
+   "w": "monarchy",
+   "pos": "n",
+   "ja": "君主制",
+   "en": "a system of government led by a king or queen",
+   "ex": "France was a monarchy before the revolution.",
+   "c": "history"
+  },
+  {
+   "w": "revolution",
+   "pos": "n",
+   "ja": "革命",
+   "en": "a sudden, major change in government or society",
+   "ex": "The Industrial Revolution transformed daily life.",
+   "c": "history"
+  },
+  {
+   "w": "dynasty",
+   "pos": "n",
+   "ja": "王朝",
+   "en": "a series of rulers from the same family",
+   "ex": "The Ming dynasty ruled China for nearly 300 years.",
+   "c": "history"
+  },
+  {
+   "w": "artifact",
+   "pos": "n",
+   "ja": "人工遺物",
+   "en": "an object made by people long ago",
+   "ex": "Archaeologists found pottery and other artifacts.",
+   "c": "history"
+  },
+  {
+   "w": "archaeology",
+   "pos": "n",
+   "ja": "考古学",
+   "en": "the study of ancient human remains and objects",
+   "ex": "Archaeology reveals how early people lived.",
+   "c": "history"
+  },
+  {
+   "w": "ancestor",
+   "pos": "n",
+   "ja": "祖先",
+   "en": "a person from whom one is descended",
+   "ex": "Our ancestors hunted and gathered food.",
+   "c": "history"
+  },
+  {
+   "w": "nomadic",
+   "pos": "adj",
+   "ja": "遊牧の",
+   "en": "moving from place to place without a fixed home",
+   "ex": "Nomadic groups followed herds of animals.",
+   "c": "history"
+  },
+  {
+   "w": "agrarian",
+   "pos": "adj",
+   "ja": "農業の",
+   "en": "relating to farming and land",
+   "ex": "Most early societies were agrarian.",
+   "c": "history"
+  },
+  {
+   "w": "feudal",
+   "pos": "adj",
+   "ja": "封建的な",
+   "en": "relating to a system in which land was exchanged for service",
+   "ex": "In feudal Europe, peasants worked the lord's land.",
+   "c": "history"
+  },
+  {
+   "w": "medieval",
+   "pos": "adj",
+   "ja": "中世の",
+   "en": "relating to the Middle Ages",
+   "ex": "Medieval towns were surrounded by walls.",
+   "c": "history"
+  },
+  {
+   "w": "industrialization",
+   "pos": "n",
+   "ja": "工業化",
+   "en": "the development of industries in a country",
+   "ex": "Industrialization led to rapid urban growth.",
+   "c": "history"
+  },
+  {
+   "w": "migration",
+   "pos": "n",
+   "ja": "移住",
+   "en": "the movement of people to a new area",
+   "ex": "The migration of farmers to cities increased.",
+   "c": "history"
+  },
+  {
+   "w": "treaty",
+   "pos": "n",
+   "ja": "条約",
+   "en": "a formal agreement between countries",
+   "ex": "The treaty ended years of war.",
+   "c": "history"
+  },
+  {
+   "w": "reform",
+   "pos": "n",
+   "ja": "改革",
+   "en": "a change that improves a system",
+   "ex": "Land reform gave farmers their own fields.",
+   "c": "history"
+  },
+  {
+   "w": "aristocracy",
+   "pos": "n",
+   "ja": "貴族階級",
+   "en": "the highest social class",
+   "ex": "The aristocracy owned most of the land.",
+   "c": "history"
+  },
+  {
+   "w": "merchant",
+   "pos": "n",
+   "ja": "商人",
+   "en": "a person who buys and sells goods",
+   "ex": "Merchants traveled long distances to trade spices.",
+   "c": "history"
+  },
+  {
+   "w": "settlement",
+   "pos": "n",
+   "ja": "入植地・集落",
+   "en": "a place where people establish a community",
+   "ex": "The earliest settlements grew near rivers.",
+   "c": "history"
+  },
+  {
+   "w": "conquest",
+   "pos": "n",
+   "ja": "征服",
+   "en": "taking control of land by force",
+   "ex": "The conquest of the region took decades.",
+   "c": "history"
+  },
+  {
+   "w": "inscription",
+   "pos": "n",
+   "ja": "碑文・銘",
+   "en": "words carved on stone or metal",
+   "ex": "The inscription recorded the king's victories.",
+   "c": "history"
+  },
+  {
+   "w": "chronicle",
+   "pos": "n",
+   "ja": "年代記",
+   "en": "a written record of events in order",
+   "ex": "Monks kept chronicles of important events.",
+   "c": "history"
+  },
+  {
+   "w": "prehistoric",
+   "pos": "adj",
+   "ja": "先史時代の",
+   "en": "belonging to the time before written records",
+   "ex": "Prehistoric people painted animals on cave walls.",
+   "c": "history"
+  },
+  {
+   "w": "ritual",
+   "pos": "n",
+   "ja": "儀式",
+   "en": "a ceremony performed in a fixed way",
+   "ex": "The ritual marked the beginning of spring.",
+   "c": "history"
+  },
+  {
+   "w": "inflation",
+   "pos": "n",
+   "ja": "インフレ・物価上昇",
+   "en": "a general increase in prices",
+   "ex": "High inflation reduces the value of savings.",
+   "c": "economics"
+  },
+  {
+   "w": "recession",
+   "pos": "n",
+   "ja": "景気後退",
+   "en": "a period of economic decline",
+   "ex": "Many people lost their jobs during the recession.",
+   "c": "economics"
+  },
+  {
+   "w": "commodity",
+   "pos": "n",
+   "ja": "商品・一次産品",
+   "en": "a raw material or product that can be bought and sold",
+   "ex": "Coffee is one of the most traded commodities.",
+   "c": "economics"
+  },
+  {
+   "w": "revenue",
+   "pos": "n",
+   "ja": "収入・歳入",
+   "en": "money received by a business or government",
+   "ex": "The company's revenue doubled last year.",
+   "c": "economics"
+  },
+  {
+   "w": "subsidy",
+   "pos": "n",
+   "ja": "補助金",
+   "en": "money given by a government to support an industry",
+   "ex": "Farm subsidies keep food prices low.",
+   "c": "economics"
+  },
+  {
+   "w": "tariff",
+   "pos": "n",
+   "ja": "関税",
+   "en": "a tax on imported goods",
+   "ex": "The tariff made foreign cars more expensive.",
+   "c": "economics"
+  },
+  {
+   "w": "monopoly",
+   "pos": "n",
+   "ja": "独占",
+   "en": "complete control of a market by one company",
+   "ex": "The railway company held a monopoly for decades.",
+   "c": "economics"
+  },
+  {
+   "w": "consumer",
+   "pos": "n",
+   "ja": "消費者",
+   "en": "a person who buys goods or services",
+   "ex": "Consumers are spending more on online services.",
+   "c": "economics"
+  },
+  {
+   "w": "wage",
+   "pos": "n",
+   "ja": "賃金",
+   "en": "money paid for work, usually by the hour",
+   "ex": "Factory wages rose during the 1950s.",
+   "c": "economics"
+  },
+  {
+   "w": "investment",
+   "pos": "n",
+   "ja": "投資",
+   "en": "putting money into something to gain a profit",
+   "ex": "Investment in education benefits the economy.",
+   "c": "economics"
+  },
+  {
+   "w": "capital",
+   "pos": "n",
+   "ja": "資本",
+   "en": "money or property used to start or grow a business",
+   "ex": "Starting a factory requires a lot of capital.",
+   "c": "economics"
+  },
+  {
+   "w": "asset",
+   "pos": "n",
+   "ja": "資産",
+   "en": "something valuable that a person or company owns",
+   "ex": "Land was the family's most important asset.",
+   "c": "economics"
+  },
+  {
+   "w": "debt",
+   "pos": "n",
+   "ja": "負債・借金",
+   "en": "money that is owed",
+   "ex": "The country struggled to repay its debt.",
+   "c": "economics"
+  },
+  {
+   "w": "interest rate",
+   "pos": "n",
+   "ja": "金利",
+   "en": "the percentage charged for borrowing money",
+   "ex": "Lower interest rates encourage borrowing.",
+   "c": "economics"
+  },
+  {
+   "w": "scarcity",
+   "pos": "n",
+   "ja": "希少性・不足",
+   "en": "a situation in which something is not easy to find",
+   "ex": "Scarcity of water raised its price.",
+   "c": "economics"
+  },
+  {
+   "w": "incentive",
+   "pos": "n",
+   "ja": "動機づけ・誘因",
+   "en": "something that encourages a person to act",
+   "ex": "Tax incentives encourage companies to invest.",
+   "c": "economics"
+  },
+  {
+   "w": "entrepreneur",
+   "pos": "n",
+   "ja": "起業家",
+   "en": "a person who starts a business",
+   "ex": "The entrepreneur opened three stores in one year.",
+   "c": "economics"
+  },
+  {
+   "w": "productivity",
+   "pos": "n",
+   "ja": "生産性",
+   "en": "the rate at which goods are produced",
+   "ex": "New machines increased productivity.",
+   "c": "economics"
+  },
+  {
+   "w": "outsource",
+   "pos": "v",
+   "ja": "外部委託する",
+   "en": "to have work done by another company",
+   "ex": "Many firms outsource customer service.",
+   "c": "economics"
+  },
+  {
+   "w": "barter",
+   "pos": "v",
+   "ja": "物々交換する",
+   "en": "to exchange goods without using money",
+   "ex": "Early traders bartered salt for cloth.",
+   "c": "economics"
+  },
+  {
+   "w": "fiscal",
+   "pos": "adj",
+   "ja": "財政の",
+   "en": "relating to government money and taxes",
+   "ex": "The government announced a new fiscal policy.",
+   "c": "economics"
+  },
+  {
+   "w": "monetary",
+   "pos": "adj",
+   "ja": "金融の・通貨の",
+   "en": "relating to money",
+   "ex": "Central banks control monetary policy.",
+   "c": "economics"
+  },
+  {
+   "w": "gross domestic product",
+   "pos": "n",
+   "ja": "国内総生産（GDP）",
+   "en": "the total value of goods and services produced in a country",
+   "ex": "Gross domestic product grew by two percent.",
+   "c": "economics"
+  },
+  {
+   "w": "surplus",
+   "pos": "n",
+   "ja": "余剰・黒字",
+   "en": "an amount that is more than what is needed",
+   "ex": "The farm produced a surplus of wheat.",
+   "c": "economics"
+  },
+  {
+   "w": "deficit",
+   "pos": "n",
+   "ja": "赤字・不足",
+   "en": "the amount by which spending exceeds income",
+   "ex": "The government ran a large budget deficit.",
+   "c": "economics"
+  },
+  {
+   "w": "orbit",
+   "pos": "n",
+   "ja": "軌道",
+   "en": "the curved path of an object around a star or planet",
+   "ex": "The Moon's orbit around the Earth takes about a month.",
+   "c": "astronomy"
+  },
+  {
+   "w": "galaxy",
+   "pos": "n",
+   "ja": "銀河",
+   "en": "a huge system of stars",
+   "ex": "The Milky Way is a spiral galaxy.",
+   "c": "astronomy"
+  },
+  {
+   "w": "telescope",
+   "pos": "n",
+   "ja": "望遠鏡",
+   "en": "an instrument for seeing distant objects",
+   "ex": "Space telescopes avoid the blurring effect of the atmosphere.",
+   "c": "astronomy"
+  },
+  {
+   "w": "gravity",
+   "pos": "n",
+   "ja": "重力",
+   "en": "the force that pulls objects toward each other",
+   "ex": "Gravity keeps the planets in orbit around the Sun.",
+   "c": "astronomy"
+  },
+  {
+   "w": "comet",
+   "pos": "n",
+   "ja": "彗星",
+   "en": "an icy object that develops a tail near the Sun",
+   "ex": "The comet's tail always points away from the Sun.",
+   "c": "astronomy"
+  },
+  {
+   "w": "asteroid",
+   "pos": "n",
+   "ja": "小惑星",
+   "en": "a small rocky object that orbits the Sun",
+   "ex": "Most asteroids are found between Mars and Jupiter.",
+   "c": "astronomy"
+  },
+  {
+   "w": "meteor",
+   "pos": "n",
+   "ja": "流星",
+   "en": "a piece of rock that burns up in the atmosphere",
+   "ex": "We saw dozens of meteors during the shower.",
+   "c": "astronomy"
+  },
+  {
+   "w": "nebula",
+   "pos": "n",
+   "ja": "星雲",
+   "en": "a cloud of gas and dust in space",
+   "ex": "New stars form inside a nebula.",
+   "c": "astronomy"
+  },
+  {
+   "w": "solar system",
+   "pos": "n",
+   "ja": "太陽系",
+   "en": "the Sun and all the objects that orbit it",
+   "ex": "Jupiter is the largest planet in the solar system.",
+   "c": "astronomy"
+  },
+  {
+   "w": "light-year",
+   "pos": "n",
+   "ja": "光年",
+   "en": "the distance light travels in one year",
+   "ex": "The nearest star is about four light-years away.",
+   "c": "astronomy"
+  },
+  {
+   "w": "atmosphere",
+   "pos": "n",
+   "ja": "大気",
+   "en": "the layer of gases around a planet",
+   "ex": "Venus has a thick atmosphere of carbon dioxide.",
+   "c": "astronomy"
+  },
+  {
+   "w": "satellite",
+   "pos": "n",
+   "ja": "衛星",
+   "en": "an object that orbits a planet",
+   "ex": "The Moon is Earth's only natural satellite.",
+   "c": "astronomy"
+  },
+  {
+   "w": "eclipse",
+   "pos": "n",
+   "ja": "食（日食・月食）",
+   "en": "when one object in space blocks the light of another",
+   "ex": "A solar eclipse occurs when the Moon blocks the Sun.",
+   "c": "astronomy"
+  },
+  {
+   "w": "rotation",
+   "pos": "n",
+   "ja": "自転・回転",
+   "en": "turning around a central point",
+   "ex": "The Earth's rotation causes day and night.",
+   "c": "astronomy"
+  },
+  {
+   "w": "axis",
+   "pos": "n",
+   "ja": "軸",
+   "en": "an imaginary line around which an object rotates",
+   "ex": "The tilt of the Earth's axis causes the seasons.",
+   "c": "astronomy"
+  },
+  {
+   "w": "celestial",
+   "pos": "adj",
+   "ja": "天体の・天の",
+   "en": "relating to the sky or outer space",
+   "ex": "Ancient sailors navigated using celestial objects.",
+   "c": "astronomy"
+  },
+  {
+   "w": "planetary",
+   "pos": "adj",
+   "ja": "惑星の",
+   "en": "relating to planets",
+   "ex": "Planetary scientists study the surface of Mars.",
+   "c": "astronomy"
+  },
+  {
+   "w": "spectrum",
+   "pos": "n",
+   "ja": "スペクトル",
+   "en": "the range of colors or wavelengths of light",
+   "ex": "Each element produces a unique spectrum.",
+   "c": "astronomy"
+  },
+  {
+   "w": "radiation",
+   "pos": "n",
+   "ja": "放射線・放射",
+   "en": "energy sent out as waves or particles",
+   "ex": "The Sun's radiation warms the Earth.",
+   "c": "astronomy"
+  },
+  {
+   "w": "crater",
+   "pos": "n",
+   "ja": "クレーター",
+   "en": "a large hole made by an impact or explosion",
+   "ex": "The Moon's surface is covered with craters.",
+   "c": "astronomy"
+  },
+  {
+   "w": "urbanization",
+   "pos": "n",
+   "ja": "都市化",
+   "en": "the growth of cities as people move from rural areas",
+   "ex": "Rapid urbanization created housing shortages.",
+   "c": "sociology"
+  },
+  {
+   "w": "demographic",
+   "pos": "adj",
+   "ja": "人口統計の",
+   "en": "relating to the structure of a population",
+   "ex": "Demographic changes affect school enrollment.",
+   "c": "sociology"
+  },
+  {
+   "w": "immigrant",
+   "pos": "n",
+   "ja": "移民（入国者）",
+   "en": "a person who moves to another country to live",
+   "ex": "Immigrants contributed to the city's economy.",
+   "c": "sociology"
+  },
+  {
+   "w": "norm",
+   "pos": "n",
+   "ja": "規範",
+   "en": "an accepted standard of behavior",
+   "ex": "Social norms differ from culture to culture.",
+   "c": "sociology"
+  },
+  {
+   "w": "institution",
+   "pos": "n",
+   "ja": "制度・機関",
+   "en": "an established organization or custom",
+   "ex": "Marriage is a social institution.",
+   "c": "sociology"
+  },
+  {
+   "w": "inequality",
+   "pos": "n",
+   "ja": "不平等",
+   "en": "an unfair difference between groups",
+   "ex": "Income inequality has increased in many countries.",
+   "c": "sociology"
+  },
+  {
+   "w": "socioeconomic",
+   "pos": "adj",
+   "ja": "社会経済的な",
+   "en": "relating to social and economic factors",
+   "ex": "Socioeconomic status affects access to education.",
+   "c": "sociology"
+  },
+  {
+   "w": "census",
+   "pos": "n",
+   "ja": "国勢調査",
+   "en": "an official count of a population",
+   "ex": "The census is conducted every ten years.",
+   "c": "sociology"
+  },
+  {
+   "w": "ethnicity",
+   "pos": "n",
+   "ja": "民族性",
+   "en": "belonging to a group with a shared culture",
+   "ex": "The survey asked about age and ethnicity.",
+   "c": "sociology"
+  },
+  {
+   "w": "kinship",
+   "pos": "n",
+   "ja": "親族関係",
+   "en": "family relationships",
+   "ex": "Kinship ties were central to village life.",
+   "c": "sociology"
+  },
+  {
+   "w": "stratification",
+   "pos": "n",
+   "ja": "階層化",
+   "en": "the division of society into levels",
+   "ex": "Social stratification limits mobility.",
+   "c": "sociology"
+  },
+  {
+   "w": "globalization",
+   "pos": "n",
+   "ja": "グローバル化",
+   "en": "the increasing connection of the world's economies and cultures",
+   "ex": "Globalization has spread popular culture worldwide.",
+   "c": "sociology"
+  },
+  {
+   "w": "mobility",
+   "pos": "n",
+   "ja": "移動性・流動性",
+   "en": "the ability to move between places or social levels",
+   "ex": "Education increases social mobility.",
+   "c": "sociology"
+  },
+  {
+   "w": "welfare",
+   "pos": "n",
+   "ja": "福祉",
+   "en": "help given to people in need",
+   "ex": "The welfare system supports unemployed workers.",
+   "c": "sociology"
+  },
+  {
+   "w": "discrimination",
+   "pos": "n",
+   "ja": "差別",
+   "en": "unfair treatment of a group",
+   "ex": "Laws prohibit discrimination in hiring.",
+   "c": "sociology"
+  },
+  {
+   "w": "stereotype",
+   "pos": "n",
+   "ja": "固定観念",
+   "en": "an oversimplified belief about a group",
+   "ex": "The study challenged common stereotypes about aging.",
+   "c": "sociology"
+  },
+  {
+   "w": "minority",
+   "pos": "n",
+   "ja": "少数派・少数民族",
+   "en": "a smaller group within a larger population",
+   "ex": "Minority languages are often at risk.",
+   "c": "sociology"
+  },
+  {
+   "w": "household",
+   "pos": "n",
+   "ja": "世帯",
+   "en": "all the people living in one home",
+   "ex": "The average household size has decreased.",
+   "c": "sociology"
+  },
+  {
+   "w": "rural",
+   "pos": "adj",
+   "ja": "田舎の・農村の",
+   "en": "relating to the countryside",
+   "ex": "Rural areas often lack fast internet.",
+   "c": "sociology"
+  },
+  {
+   "w": "suburban",
+   "pos": "adj",
+   "ja": "郊外の",
+   "en": "relating to areas outside a city center",
+   "ex": "Suburban families often depend on cars.",
+   "c": "sociology"
+  },
+  {
+   "w": "literacy",
+   "pos": "n",
+   "ja": "識字能力",
+   "en": "the ability to read and write",
+   "ex": "Literacy rates rose after schools were built.",
+   "c": "sociology"
+  },
+  {
+   "w": "socialization",
+   "pos": "n",
+   "ja": "社会化",
+   "en": "the process of learning a society's behavior",
+   "ex": "Families play a key role in socialization.",
+   "c": "sociology"
+  },
+  {
+   "w": "cohesion",
+   "pos": "n",
+   "ja": "結束・まとまり",
+   "en": "the state of being united",
+   "ex": "Shared traditions increase community cohesion.",
+   "c": "sociology"
+  },
+  {
+   "w": "nuclear family",
+   "pos": "n",
+   "ja": "核家族",
+   "en": "a family of parents and their children",
+   "ex": "The nuclear family became common in the twentieth century.",
+   "c": "sociology"
+  },
+  {
+   "w": "community",
+   "pos": "n",
+   "ja": "地域社会・共同体",
+   "en": "a group of people living in the same area or sharing interests",
+   "ex": "The community raised money to build a library.",
+   "c": "sociology"
+  },
+  {
+   "w": "syllabus",
+   "pos": "n",
+   "ja": "シラバス・授業計画",
+   "en": "an outline of a course's topics and requirements",
+   "ex": "Check the syllabus for the exam dates.",
+   "c": "campus"
+  },
+  {
+   "w": "prerequisite",
+   "pos": "n",
+   "ja": "前提科目・必須条件",
+   "en": "a course that must be taken before another",
+   "ex": "Biology 101 is a prerequisite for this course.",
+   "c": "campus"
+  },
+  {
+   "w": "registrar",
+   "pos": "n",
+   "ja": "教務課（記録係）",
+   "en": "the office that manages student records and enrollment",
+   "ex": "Ask the registrar's office for your transcript.",
+   "c": "campus"
+  },
+  {
+   "w": "tuition",
+   "pos": "n",
+   "ja": "授業料",
+   "en": "money paid for instruction",
+   "ex": "Tuition increased by three percent this year.",
+   "c": "campus"
+  },
+  {
+   "w": "transcript",
+   "pos": "n",
+   "ja": "成績証明書",
+   "en": "an official record of a student's courses and grades",
+   "ex": "Graduate schools require an official transcript.",
+   "c": "campus"
+  },
+  {
+   "w": "semester",
+   "pos": "n",
+   "ja": "学期",
+   "en": "one of two terms in an academic year",
+   "ex": "The fall semester begins in September.",
+   "c": "campus"
+  },
+  {
+   "w": "credit",
+   "pos": "n",
+   "ja": "単位",
+   "en": "a unit showing completion of a course",
+   "ex": "You need 120 credits to graduate.",
+   "c": "campus"
+  },
+  {
+   "w": "elective",
+   "pos": "n",
+   "ja": "選択科目",
+   "en": "a course that a student chooses to take",
+   "ex": "I took art history as an elective.",
+   "c": "campus"
+  },
+  {
+   "w": "major",
+   "pos": "n",
+   "ja": "専攻",
+   "en": "a student's main subject",
+   "ex": "Her major is environmental science.",
+   "c": "campus"
+  },
+  {
+   "w": "dean",
+   "pos": "n",
+   "ja": "学部長",
+   "en": "the head of a college or faculty",
+   "ex": "The dean approved the new program.",
+   "c": "campus"
+  },
+  {
+   "w": "faculty",
+   "pos": "n",
+   "ja": "教員（全体）・学部",
+   "en": "the teaching staff of a university",
+   "ex": "Faculty members hold weekly office hours.",
+   "c": "campus"
+  },
+  {
+   "w": "teaching assistant",
+   "pos": "n",
+   "ja": "ティーチングアシスタント",
+   "en": "a graduate student who helps teach a course",
+   "ex": "The teaching assistant grades the lab reports.",
+   "c": "campus"
+  },
+  {
+   "w": "office hours",
+   "pos": "n",
+   "ja": "オフィスアワー",
+   "en": "times when a professor is available to meet students",
+   "ex": "Bring your questions to office hours.",
+   "c": "campus"
+  },
+  {
+   "w": "seminar",
+   "pos": "n",
+   "ja": "ゼミ・少人数授業",
+   "en": "a small class focused on discussion",
+   "ex": "The seminar has only twelve students.",
+   "c": "campus"
+  },
+  {
+   "w": "midterm",
+   "pos": "n",
+   "ja": "中間試験",
+   "en": "an exam in the middle of a term",
+   "ex": "The midterm covers chapters one to six.",
+   "c": "campus"
+  },
+  {
+   "w": "deadline",
+   "pos": "n",
+   "ja": "締切",
+   "en": "the latest time something must be done",
+   "ex": "The deadline for the paper is Friday at noon.",
+   "c": "campus"
+  },
+  {
+   "w": "extension",
+   "pos": "n",
+   "ja": "（締切の）延長",
+   "en": "extra time to complete something",
+   "ex": "She asked for an extension because she was sick.",
+   "c": "campus"
+  },
+  {
+   "w": "plagiarism",
+   "pos": "n",
+   "ja": "剽窃・盗用",
+   "en": "using someone else's work without credit",
+   "ex": "Plagiarism can result in failing the course.",
+   "c": "campus"
+  },
+  {
+   "w": "citation",
+   "pos": "n",
+   "ja": "引用（出典表示）",
+   "en": "a reference to a source",
+   "ex": "Include a citation for every quotation.",
+   "c": "campus"
+  },
+  {
+   "w": "bibliography",
+   "pos": "n",
+   "ja": "参考文献一覧",
+   "en": "a list of sources used in a paper",
+   "ex": "The bibliography should follow APA style.",
+   "c": "campus"
+  },
+  {
+   "w": "thesis",
+   "pos": "n",
+   "ja": "論文・主張",
+   "en": "a long research paper, or the main argument of an essay",
+   "ex": "State your thesis in the first paragraph.",
+   "c": "campus"
+  },
+  {
+   "w": "dissertation",
+   "pos": "n",
+   "ja": "博士論文",
+   "en": "a long research paper written for a doctoral degree",
+   "ex": "He spent three years writing his dissertation.",
+   "c": "campus"
+  },
+  {
+   "w": "enrollment",
+   "pos": "n",
+   "ja": "履修登録・在籍者数",
+   "en": "the act of registering, or the number of students registered",
+   "ex": "Enrollment in computer science has doubled.",
+   "c": "campus"
+  },
+  {
+   "w": "scholarship",
+   "pos": "n",
+   "ja": "奨学金",
+   "en": "money given to support a student's education",
+   "ex": "She received a scholarship for academic excellence.",
+   "c": "campus"
+  },
+  {
+   "w": "financial aid",
+   "pos": "n",
+   "ja": "学費援助",
+   "en": "money provided to help students pay for college",
+   "ex": "Apply for financial aid before March.",
+   "c": "campus"
+  },
+  {
+   "w": "dormitory",
+   "pos": "n",
+   "ja": "学生寮",
+   "en": "a building where students live",
+   "ex": "First-year students must live in a dormitory.",
+   "c": "campus"
+  },
+  {
+   "w": "resident assistant",
+   "pos": "n",
+   "ja": "寮の学生スタッフ（RA）",
+   "en": "a student who helps manage a dormitory floor",
+   "ex": "Talk to your resident assistant about noise problems.",
+   "c": "campus"
+  },
+  {
+   "w": "meal plan",
+   "pos": "n",
+   "ja": "学食の食事プラン",
+   "en": "a prepaid plan for meals on campus",
+   "ex": "The meal plan includes three meals a day.",
+   "c": "campus"
+  },
+  {
+   "w": "orientation",
+   "pos": "n",
+   "ja": "オリエンテーション",
+   "en": "an introduction program for new students",
+   "ex": "Orientation takes place the week before classes.",
+   "c": "campus"
+  },
+  {
+   "w": "freshman",
+   "pos": "n",
+   "ja": "1年生",
+   "en": "a first-year student",
+   "ex": "Freshmen often take introductory courses.",
+   "c": "campus"
+  },
+  {
+   "w": "sophomore",
+   "pos": "n",
+   "ja": "2年生",
+   "en": "a second-year student",
+   "ex": "Most students choose a major by the end of sophomore year.",
+   "c": "campus"
+  },
+  {
+   "w": "alumni",
+   "pos": "n",
+   "ja": "卒業生（複数形）",
+   "en": "former students of a school",
+   "ex": "Alumni donated money for the new library.",
+   "c": "campus"
+  },
+  {
+   "w": "rubric",
+   "pos": "n",
+   "ja": "採点基準表",
+   "en": "a guide listing the criteria for grading",
+   "ex": "Read the rubric before writing your essay.",
+   "c": "campus"
+  },
+  {
+   "w": "audit",
+   "pos": "v",
+   "ja": "聴講する",
+   "en": "to attend a course without receiving credit",
+   "ex": "You can audit a class if you just want to learn.",
+   "c": "campus"
+  },
+  {
+   "w": "drop",
+   "pos": "v",
+   "ja": "（履修を）取り消す",
+   "en": "to stop taking a course",
+   "ex": "The last day to drop a class is October 10.",
+   "c": "campus"
+  },
+  {
+   "w": "waitlist",
+   "pos": "n",
+   "ja": "キャンセル待ちリスト",
+   "en": "a list of people waiting for a space",
+   "ex": "I'm third on the waitlist for the course.",
+   "c": "campus"
+  },
+  {
+   "w": "academic advisor",
+   "pos": "n",
+   "ja": "履修アドバイザー",
+   "en": "a staff member who helps students plan their studies",
+   "ex": "Meet your academic advisor before registering.",
+   "c": "campus"
+  },
+  {
+   "w": "commencement",
+   "pos": "n",
+   "ja": "卒業式",
+   "en": "a graduation ceremony",
+   "ex": "Commencement will be held outdoors in May.",
+   "c": "campus"
+  },
+  {
+   "w": "GPA",
+   "pos": "n",
+   "ja": "成績平均値",
+   "en": "grade point average",
+   "ex": "You need a GPA of 3.0 to keep the scholarship.",
+   "c": "campus"
+  },
+  {
+   "w": "tutor",
+   "pos": "n",
+   "ja": "個別指導員",
+   "en": "a person who helps a student individually",
+   "ex": "A writing tutor helped me organize my essay.",
+   "c": "campus"
+  },
+  {
+   "w": "handout",
+   "pos": "n",
+   "ja": "配布資料",
+   "en": "a printed sheet given out in class",
+   "ex": "The professor posted the handouts online.",
+   "c": "campus"
+  },
+  {
+   "w": "peer review",
+   "pos": "n",
+   "ja": "相互評価・査読",
+   "en": "evaluation of work by others at the same level",
+   "ex": "We did a peer review of each other's drafts.",
+   "c": "campus"
+  },
+  {
+   "w": "internship",
+   "pos": "n",
+   "ja": "インターンシップ",
+   "en": "a temporary job for gaining work experience",
+   "ex": "She completed an internship at a museum.",
+   "c": "campus"
+  },
+  {
+   "w": "lab report",
+   "pos": "n",
+   "ja": "実験レポート",
+   "en": "a written report on an experiment",
+   "ex": "The lab report must include your raw data.",
+   "c": "campus"
+  },
+  {
+   "w": "quiz",
+   "pos": "n",
+   "ja": "小テスト",
+   "en": "a short test",
+   "ex": "There's a quiz at the start of every class.",
+   "c": "campus"
+  },
+  {
+   "w": "attendance",
+   "pos": "n",
+   "ja": "出席",
+   "en": "being present at a class",
+   "ex": "Attendance counts for ten percent of the grade.",
+   "c": "campus"
+  },
+  {
+   "w": "curriculum",
+   "pos": "n",
+   "ja": "カリキュラム",
+   "en": "the courses offered by a school",
+   "ex": "The curriculum includes a foreign language requirement.",
+   "c": "campus"
+  },
+  {
+   "w": "undergraduate",
+   "pos": "n",
+   "ja": "学部生",
+   "en": "a university student who has not yet earned a first degree",
+   "ex": "Undergraduates can join research projects.",
+   "c": "campus"
+  },
+  {
+   "w": "graduate student",
+   "pos": "n",
+   "ja": "大学院生",
+   "en": "a student studying for a master's or doctoral degree",
+   "ex": "Graduate students often teach discussion sections.",
+   "c": "campus"
+  },
+  {
+   "w": "reading list",
+   "pos": "n",
+   "ja": "課題図書リスト",
+   "en": "a list of books or articles to read for a course",
+   "ex": "The reading list is posted on the course website.",
+   "c": "campus"
+  },
+  {
+   "w": "rationale",
+   "pos": "n",
+   "ja": "根拠・論理的理由",
+   "en": "the reasons for a decision or belief",
+   "ex": "The professor explained the rationale behind the new policy.",
+   "c": "general"
+  },
+  {
+   "w": "validate",
+   "pos": "v",
+   "ja": "検証する・妥当性を確認する",
+   "en": "to prove that something is true or correct",
+   "ex": "Further experiments are needed to validate the results.",
+   "c": "general"
+  }
+ ]
+}

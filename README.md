@@ -14,17 +14,20 @@ TOEFL iBT（2026年1月以降の新形式）で総合5.5以上を安定して取
 | ファイル | 役割 |
 |---|---|
 | `index.html` / `styles.css` / `app.js` | 画面と動作。ライブラリやビルド工程は使わない |
-| `data/content.json` | 問題データ（すべてオリジナル問題） |
+| `data/reading.json` ほか | 問題データ（すべてオリジナル）。reading / listening / writing / speaking に分割 |
+| `data/vocab.json` | 単語帳（400語、10分野） |
+| `data/tips.json` | タスク別ガイド・戦略ガイド・表現集・今日のTip |
 | `sw.js` | Service Worker。全ファイルを事前キャッシュする |
 | `manifest.webmanifest` / `icons/` | ホーム画面追加の設定とアイコン |
 
-## 収録タスク（最小版）
+## 収録内容（v0.2）
 
-- Reading：Complete the Words 3題 / Read in Daily Life 3題 / Read an Academic Passage 2題
-- Listening：Listen and Choose a Response 5問 / Conversation 2題 / Announcement 2題 / Academic Talk 2題
-- Writing：Build a Sentence 10問 / Write an Email 2題 / Write for an Academic Discussion 2題
-- Speaking：Listen and Repeat 2セット（各7文）/ Take an Interview 2セット（各4問）
-- 語彙：アカデミック語彙50語（間隔反復）、C1向け言い換え表現集
+- Reading：Complete the Words 10題 / Read in Daily Life 10題 / Read an Academic Passage 6題
+- Listening：Choose a Response 20問（4セット）/ Conversation 8題 / Announcement 6題 / Academic Talk 6題
+- Writing：Build a Sentence 40問（4セット・文法タグ付き）/ Write an Email 8題 / Academic Discussion 8題
+- Speaking：Listen and Repeat 6セット（各7文）/ Take an Interview 6セット（各4問）
+- 単語帳：400語（アカデミック共通150・分野別200・キャンパス生活50）。カード（英→日・日→英・音声→意味）、聞き流し、書き取り、一覧
+- Tips：12タスクの解き方ガイド（練習中も「？」から表示）、戦略ガイド4本、言い換え表現60個、今日のTip
 
 ## 更新するとき
 

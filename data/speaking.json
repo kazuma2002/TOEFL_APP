@@ -1,0 +1,188 @@
+{
+ "repeat": [
+  {
+   "id": "rp1",
+   "title": "Campus orientation",
+   "sentences": [
+    "Welcome to the student center.",
+    "The information desk is on your left.",
+    "You can pick up your ID card here today.",
+    "The dining hall is open until nine on weekdays.",
+    "Please remember to bring a photo when you register for parking.",
+    "If you have any questions about housing, the office is on the second floor.",
+    "Free guided tours of the campus leave from the main entrance every hour until four."
+   ]
+  },
+  {
+   "id": "rp2",
+   "title": "Science museum",
+   "sentences": [
+    "Our next tour starts in five minutes.",
+    "Please stay with the group at all times.",
+    "This gallery shows how volcanoes are formed.",
+    "Photography is allowed, but please don't use a flash.",
+    "The model on your right was built by students from the local university.",
+    "After the tour, you're welcome to visit the planetarium on the lower level.",
+    "Tickets for the evening show can be purchased at the front desk until six o'clock."
+   ]
+  },
+  {
+   "id": "rp3",
+   "title": "Library orientation",
+   "sentences": [
+    "The library opens at eight every morning.",
+    "Quiet study areas are on the third floor.",
+    "You can borrow up to twenty books at a time.",
+    "Laptops are available for loan at the front desk.",
+    "Please return all items on time to avoid late fees.",
+    "Group study rooms can be reserved online for up to three hours.",
+    "If you need help finding sources for your research, ask a librarian at the reference desk."
+   ]
+  },
+  {
+   "id": "rp4",
+   "title": "Residence hall meeting",
+   "sentences": [
+    "Welcome to your new residence hall.",
+    "Quiet hours begin at ten on weeknights.",
+    "Laundry machines are located in the basement.",
+    "Please keep your door locked when you leave the room.",
+    "Visitors must sign in at the front desk after nine p.m.",
+    "If something in your room is broken, submit a repair request online.",
+    "Our first floor meeting will be held in the common room on Thursday evening at seven."
+   ]
+  },
+  {
+   "id": "rp5",
+   "title": "Biology lab instructions",
+   "sentences": [
+    "Today we'll look at plant cells.",
+    "Each pair will share one microscope.",
+    "Place a thin slice of onion on the slide.",
+    "Add a single drop of stain before covering the sample.",
+    "Start with the lowest magnification and focus slowly.",
+    "Draw what you observe and label the cell wall and the nucleus.",
+    "When you have finished, clean your slides and return all equipment to the cabinet by the window."
+   ]
+  },
+  {
+   "id": "rp6",
+   "title": "City bus tour",
+   "sentences": [
+    "Good morning and welcome aboard.",
+    "Our tour will last about two hours.",
+    "On your left is the oldest bridge in the city.",
+    "We'll stop at the history museum for forty minutes.",
+    "Please make sure you are back on the bus by eleven.",
+    "The market across the street is famous for its fresh seafood and local crafts.",
+    "Before we finish, we'll drive past the university, which was founded more than two hundred years ago."
+   ]
+  }
+ ],
+ "interview": [
+  {
+   "id": "iv1",
+   "topic": "Technology and study habits",
+   "intro": "Thank you for taking part in our research project. We're interested in how students use technology for learning. I'm going to ask you a few questions.",
+   "questions": [
+    "First, could you tell me about a digital tool or app that you use often for studying?",
+    "Some people say that studying with a smartphone nearby makes it harder to concentrate. What has your experience been?",
+    "If you were advising a new student, would you recommend taking notes by hand or on a laptop? Why?",
+    "Finally, some universities are considering banning devices in lecture halls. Do you think that's a good idea? Please explain."
+   ],
+   "tips": [
+    "最初の1文で質問に直接答える（I mostly use...）",
+    "理由を1つ、具体例を1つ加える",
+    "後半2問は意見問題：立場→理由→例→簡単なまとめ",
+    "沈黙を避けるつなぎ表現：That's an interesting question. / Let me think...",
+    "45秒で約90〜120語が目安"
+   ]
+  },
+  {
+   "id": "iv2",
+   "topic": "Living in cities",
+   "intro": "Hello, and thanks for joining us. We're conducting a study about how people experience life in cities. I'd like to ask you four questions.",
+   "questions": [
+    "To begin, what do you like most about the place where you live now?",
+    "Tell me about a time when you had to adjust to living in a new environment.",
+    "Many young people move to large cities for work. Do you think this trend is good for smaller towns? Why or why not?",
+    "Last question. If your city could make one change to improve residents' quality of life, what should it be, and why?"
+   ],
+   "tips": [
+    "最初の1文で質問に直接答える",
+    "経験を問う質問は「いつ・どこで・何が・どう感じたか」の順で話す",
+    "意見問題は利点と欠点の両面に触れると深みが出る",
+    "沈黙を避けるつなぎ表現：That's an interesting question. / Let me think...",
+    "45秒で約90〜120語が目安"
+   ]
+  },
+  {
+   "id": "iv3",
+   "topic": "Learning and education",
+   "intro": "Thanks for participating in our study on how people learn new skills. I'd like to ask you some questions about your experiences.",
+   "questions": [
+    "To start, what is a skill you learned recently, and how did you learn it?",
+    "Do you prefer studying alone or with other people? Why?",
+    "Some people believe that failure is an important part of learning. Do you agree? Please give an example.",
+    "Finally, should schools spend more time teaching practical life skills, such as managing money? Why or why not?"
+   ],
+   "tips": [
+    "最初の1文で質問に直接答える",
+    "経験を問う質問は「いつ・どこで・何を・どうなったか」の順で話す",
+    "意見問題は立場→理由→例→まとめ",
+    "45秒で約90〜120語が目安"
+   ]
+  },
+  {
+   "id": "iv4",
+   "topic": "Health and lifestyle",
+   "intro": "Hello, and thank you for joining us. We're researching students' daily habits and their effect on well-being. I'll ask you four questions.",
+   "questions": [
+    "First, could you describe a typical morning on a school or work day?",
+    "What do you usually do to relieve stress?",
+    "Many people find it difficult to maintain a regular exercise routine. What do you think makes it difficult, and how can people overcome it?",
+    "Last question. Should universities be responsible for students' physical and mental health? Please explain your view."
+   ],
+   "tips": [
+    "日常の描写は時系列（First, Then, After that）で整理する",
+    "理由を述べたら具体的な行動例を加える",
+    "「どう克服するか」には具体策を1〜2個挙げる",
+    "45秒で約90〜120語が目安"
+   ]
+  },
+  {
+   "id": "iv5",
+   "topic": "Work and careers",
+   "intro": "Thank you for taking the time to talk with us. Our research focuses on how young people think about their future careers.",
+   "questions": [
+    "To begin, what kind of job would you like to have in ten years?",
+    "Tell me about a person who has influenced your career plans.",
+    "Some people choose jobs that pay well, while others choose jobs they enjoy. Which is more important to you, and why?",
+    "Finally, how do you think technology like AI will change the job market in the future?"
+   ],
+   "tips": [
+    "将来の話は would like to / I hope to / I'm planning to を使い分ける",
+    "人物について話すときは「誰か→何をしたか→自分への影響」の順",
+    "二択の質問は一方を選び、もう一方の価値にも一言触れる",
+    "45秒で約90〜120語が目安"
+   ]
+  },
+  {
+   "id": "iv6",
+   "topic": "Environment and daily choices",
+   "intro": "Hi, thanks for joining our project. We're interested in how people's everyday choices relate to the environment.",
+   "questions": [
+    "First, what is one thing you do in your daily life that is good for the environment?",
+    "Have you ever changed a habit for environmental reasons? Please describe what happened.",
+    "Some people say individual actions make little difference compared with government policies. What do you think?",
+    "Last question. If you could introduce one environmental rule in your city, what would it be and why?"
+   ],
+   "tips": [
+    "身近な具体例（交通手段・買い物・食事）を用意しておく",
+    "過去の経験は過去形で一貫させる",
+    "仮定の質問には If I could..., I would... で答える",
+    "45秒で約90〜120語が目安"
+   ]
+  }
+ ]
+}

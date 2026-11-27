@@ -1,0 +1,912 @@
+{
+ "buildSets": [
+  {
+   "id": "bs",
+   "title": "セット1",
+   "list": [
+    {
+     "id": "bs1",
+     "context": "Did you finish the reading for tomorrow's seminar?",
+     "chunks": [
+      "I only",
+      "got through",
+      "the first",
+      "two chapters"
+     ],
+     "extra": "reading",
+     "explain": "主語＋only＋動詞句の基本語順。got through は「読み終える・やり遂げる」。",
+     "g": "基本語順"
+    },
+    {
+     "id": "bs2",
+     "context": "Where is the career fair being held this year?",
+     "chunks": [
+      "I'm not sure",
+      "where",
+      "it will",
+      "take place"
+     ],
+     "extra": "does",
+     "explain": "間接疑問文では疑問詞の後が平叙文の語順（主語＋動詞）になる。does は不要。",
+     "g": "間接疑問"
+    },
+    {
+     "id": "bs3",
+     "context": "Why weren't you in class on Monday?",
+     "chunks": [
+      "I had",
+      "a doctor's",
+      "appointment that",
+      "I couldn't reschedule"
+     ],
+     "extra": "because of",
+     "explain": "関係代名詞 that が appointment を修飾する構造。",
+     "g": "関係代名詞"
+    },
+    {
+     "id": "bs4",
+     "context": "What did the professor say about the final project?",
+     "chunks": [
+      "She asked us",
+      "to submit",
+      "a proposal",
+      "by next Friday"
+     ],
+     "extra": "submitting",
+     "explain": "ask＋人＋to不定詞。asked us submitting とはならない。",
+     "g": "ask＋人＋to不定詞"
+    },
+    {
+     "id": "bs5",
+     "context": "Have you decided which apartment to rent?",
+     "chunks": [
+      "Not yet.",
+      "I'm still",
+      "comparing",
+      "the two options"
+     ],
+     "extra": "compared",
+     "explain": "現在進行形 be＋still＋-ing の語順。",
+     "g": "進行形"
+    },
+    {
+     "id": "bs6",
+     "context": "Can you tell me when the library closes tonight?",
+     "chunks": [
+      "I think",
+      "it closes",
+      "at midnight",
+      "during exam week"
+     ],
+     "extra": "does it",
+     "explain": "平叙文で答える。疑問文の語順 does it closes は誤り。",
+     "g": "間接疑問への応答"
+    },
+    {
+     "id": "bs7",
+     "context": "How was the guest lecture yesterday?",
+     "chunks": [
+      "It was",
+      "much more",
+      "interesting than",
+      "I had expected"
+     ],
+     "extra": "most",
+     "explain": "比較級 more＋than。過去の時点より前の予想なので過去完了 had expected。",
+     "g": "比較・過去完了"
+    },
+    {
+     "id": "bs8",
+     "context": "Is the lab report due this week?",
+     "chunks": [
+      "The deadline",
+      "has been",
+      "extended",
+      "until Monday"
+     ],
+     "extra": "extending",
+     "explain": "現在完了の受動態 has been＋過去分詞。",
+     "g": "現在完了の受動態"
+    },
+    {
+     "id": "bs9",
+     "context": "Do you want to join our study group?",
+     "chunks": [
+      "I'd love to,",
+      "but",
+      "I have to work",
+      "on Thursday evenings"
+     ],
+     "extra": "working",
+     "explain": "I'd love to の後は動詞を省略し but で条件を続ける。have to＋原形。",
+     "g": "代不定詞"
+    },
+    {
+     "id": "bs10",
+     "context": "What do you need from the bookstore?",
+     "chunks": [
+      "Could you",
+      "pick up",
+      "a notebook",
+      "for me"
+     ],
+     "extra": "picking",
+     "explain": "Could you＋動詞の原形で依頼する。",
+     "g": "依頼表現"
+    }
+   ]
+  },
+  {
+   "id": "bss2",
+   "title": "セット2",
+   "list": [
+    {
+     "id": "bs11",
+     "g": "間接疑問",
+     "context": "Do you know when the next shuttle leaves?",
+     "chunks": [
+      "I'm afraid",
+      "I don't know",
+      "when",
+      "it leaves"
+     ],
+     "extra": "does it",
+     "explain": "間接疑問は「疑問詞＋主語＋動詞」の語順。does it は不要。"
+    },
+    {
+     "id": "bs12",
+     "g": "伝達動詞＋that節",
+     "context": "What did the advisor tell you?",
+     "chunks": [
+      "She told me",
+      "that I should",
+      "take statistics",
+      "before my third year"
+     ],
+     "extra": "taking",
+     "explain": "tell＋人＋that節。should の後は動詞の原形。"
+    },
+    {
+     "id": "bs13",
+     "g": "進行形の受動態",
+     "context": "Why is the lab closed today?",
+     "chunks": [
+      "It is being",
+      "cleaned",
+      "after",
+      "yesterday's experiment"
+     ],
+     "extra": "cleaning",
+     "explain": "be being＋過去分詞で「〜されている最中」。"
+    },
+    {
+     "id": "bs14",
+     "g": "現在完了（経験）",
+     "context": "Have you ever visited the art museum downtown?",
+     "chunks": [
+      "I have been",
+      "there",
+      "several times",
+      "since I moved here"
+     ],
+     "extra": "went",
+     "explain": "have been there で「行ったことがある」。since 節と現在完了の組み合わせ。"
+    },
+    {
+     "id": "bs15",
+     "g": "関係代名詞（目的格）",
+     "context": "Which book did you choose for your report?",
+     "chunks": [
+      "The one",
+      "that the professor",
+      "recommended",
+      "in class"
+     ],
+     "extra": "who",
+     "explain": "先行詞 the one（物）を that 節が修飾する。人を表す who は使えない。"
+    },
+    {
+     "id": "bs16",
+     "g": "条件の接続詞",
+     "context": "Is it okay if I submit the essay tomorrow?",
+     "chunks": [
+      "You can,",
+      "as long as",
+      "it is",
+      "before noon"
+     ],
+     "extra": "unless",
+     "explain": "as long as は「〜する限り」。unless（〜しない限り）では意味が逆になる。"
+    },
+    {
+     "id": "bs17",
+     "g": "前置詞句",
+     "context": "How did you prepare for the presentation?",
+     "chunks": [
+      "I practiced",
+      "it",
+      "in front of",
+      "my roommates"
+     ],
+     "extra": "at",
+     "explain": "practice＋目的語＋in front of＋人。"
+    },
+    {
+     "id": "bs18",
+     "g": "受動態の否定",
+     "context": "Can you explain why the experiment failed?",
+     "chunks": [
+      "I think",
+      "the samples",
+      "were not stored",
+      "at the right temperature"
+     ],
+     "extra": "did not store",
+     "explain": "サンプルは「保管される」側なので受動態 were not stored。"
+    },
+    {
+     "id": "bs19",
+     "g": "関係代名詞（主格）",
+     "context": "What are you planning to do this weekend?",
+     "chunks": [
+      "I'm going to",
+      "visit",
+      "my grandparents",
+      "who live in the countryside"
+     ],
+     "extra": "which live",
+     "explain": "先行詞が人なので who。"
+    },
+    {
+     "id": "bs20",
+     "g": "so ... that 構文",
+     "context": "Did you enjoy the guest speaker's talk?",
+     "chunks": [
+      "It was",
+      "so interesting",
+      "that I",
+      "took pages of notes"
+     ],
+     "extra": "such",
+     "explain": "so＋形容詞＋that で「とても〜なので…」。such は名詞を伴う。"
+    }
+   ]
+  },
+  {
+   "id": "bss3",
+   "title": "セット3",
+   "list": [
+    {
+     "id": "bs21",
+     "g": "受動態（所在）",
+     "context": "Could you tell me where the registrar's office is?",
+     "chunks": [
+      "It's located",
+      "on the second floor",
+      "of the",
+      "administration building"
+     ],
+     "extra": "locate",
+     "explain": "be located で「位置している」。"
+    },
+    {
+     "id": "bs22",
+     "g": "wish＋仮定法過去完了",
+     "context": "Why didn't you join the field trip?",
+     "chunks": [
+      "I wish",
+      "I had known",
+      "about it",
+      "earlier"
+     ],
+     "extra": "would",
+     "explain": "過去の事実に反する願望は I wish＋過去完了。"
+    },
+    {
+     "id": "bs23",
+     "g": "仮定法過去",
+     "context": "What would you do if you had more free time?",
+     "chunks": [
+      "If I had",
+      "more time,",
+      "I would learn",
+      "to play the piano"
+     ],
+     "extra": "will learn",
+     "explain": "現在の事実に反する仮定は if＋過去形, would＋原形。"
+    },
+    {
+     "id": "bs24",
+     "g": "try＋to不定詞",
+     "context": "How often do you go to the gym?",
+     "chunks": [
+      "I try",
+      "to go",
+      "at least",
+      "three times a week"
+     ],
+     "extra": "going",
+     "explain": "try to do は「〜しようと努める」。頻度は at least＋回数。"
+    },
+    {
+     "id": "bs25",
+     "g": "時制の一致・受動態",
+     "context": "Has the professor graded our exams yet?",
+     "chunks": [
+      "She said",
+      "they would be",
+      "returned",
+      "by Thursday"
+     ],
+     "extra": "returning",
+     "explain": "said に合わせて will → would。答案は「返される」ので受動態。"
+    },
+    {
+     "id": "bs26",
+     "g": "Let's＋原形",
+     "context": "Where should we meet before the concert?",
+     "chunks": [
+      "Let's meet",
+      "in front of",
+      "the main entrance",
+      "at seven"
+     ],
+     "extra": "meeting",
+     "explain": "場所→時間の順に並べるのが自然。"
+    },
+    {
+     "id": "bs27",
+     "g": "want＋to不定詞",
+     "context": "Why are you taking an extra class this term?",
+     "chunks": [
+      "I want",
+      "to graduate",
+      "a semester",
+      "earlier than planned"
+     ],
+     "extra": "graduating",
+     "explain": "want to do。a semester earlier で「1学期早く」。"
+    },
+    {
+     "id": "bs28",
+     "g": "比較",
+     "context": "Did you find the article you were looking for?",
+     "chunks": [
+      "Yes, it was",
+      "much easier",
+      "to find",
+      "than I expected"
+     ],
+     "extra": "more easy",
+     "explain": "easy の比較級は easier。much で比較級を強める。"
+    },
+    {
+     "id": "bs29",
+     "g": "句動詞",
+     "context": "Who should I contact about the scholarship?",
+     "chunks": [
+      "You should",
+      "get in touch",
+      "with the financial aid office",
+      "as soon as possible"
+     ],
+     "extra": "contact with",
+     "explain": "get in touch with で「連絡を取る」。contact は他動詞なので with は不要。"
+    },
+    {
+     "id": "bs30",
+     "g": "関係代名詞 what",
+     "context": "What made you choose this university?",
+     "chunks": [
+      "What attracted me",
+      "most",
+      "was",
+      "its research program"
+     ],
+     "extra": "were",
+     "explain": "What 節は単数扱いなので was。"
+    }
+   ]
+  },
+  {
+   "id": "bss4",
+   "title": "セット4",
+   "list": [
+    {
+     "id": "bs31",
+     "g": "whether＋to不定詞",
+     "context": "Do you know whether the exam will be open-book?",
+     "chunks": [
+      "The professor",
+      "hasn't decided",
+      "whether",
+      "to allow notes"
+     ],
+     "extra": "allowing",
+     "explain": "whether to do で「〜するかどうか」。"
+    },
+    {
+     "id": "bs32",
+     "g": "require＋人＋to不定詞",
+     "context": "Why is everyone talking about the new policy?",
+     "chunks": [
+      "It requires",
+      "all students",
+      "to live on campus",
+      "during their first year"
+     ],
+     "extra": "living",
+     "explain": "require＋人＋to do で「人に〜するよう求める」。"
+    },
+    {
+     "id": "bs33",
+     "g": "現在完了",
+     "context": "Are you still working on the group project?",
+     "chunks": [
+      "We have",
+      "almost",
+      "finished",
+      "the final report"
+     ],
+     "extra": "finishing",
+     "explain": "have almost finished で「ほぼ終えた」。"
+    },
+    {
+     "id": "bs34",
+     "g": "最上級＋現在完了",
+     "context": "How was your trip to the conference?",
+     "chunks": [
+      "It was",
+      "one of the best",
+      "experiences",
+      "I have ever had"
+     ],
+     "extra": "better",
+     "explain": "one of the＋最上級＋複数名詞＋I have ever＋過去分詞。"
+    },
+    {
+     "id": "bs35",
+     "g": "所有",
+     "context": "Can I borrow your calculator for the quiz?",
+     "chunks": [
+      "Sorry, but",
+      "I need it",
+      "for my own",
+      "chemistry test"
+     ],
+     "extra": "mine",
+     "explain": "my own＋名詞で「自分自身の」。"
+    },
+    {
+     "id": "bs36",
+     "g": "使役 make",
+     "context": "What did you think of the documentary?",
+     "chunks": [
+      "It made me",
+      "think",
+      "about how",
+      "much energy we waste"
+     ],
+     "extra": "to think",
+     "explain": "make＋人＋原形不定詞。to は付けない。"
+    },
+    {
+     "id": "bs37",
+     "g": "助動詞＋受動態",
+     "context": "When will the results of the survey be announced?",
+     "chunks": [
+      "They should be",
+      "posted",
+      "on the website",
+      "by the end of the week"
+     ],
+     "extra": "posting",
+     "explain": "should be＋過去分詞。"
+    },
+    {
+     "id": "bs38",
+     "g": "仮定法過去完了",
+     "context": "Why didn't you take the earlier train?",
+     "chunks": [
+      "I would have",
+      "if I",
+      "hadn't overslept",
+      "this morning"
+     ],
+     "extra": "didn't",
+     "explain": "過去の事実に反する仮定。主節の動詞（taken）は省略されている。"
+    },
+    {
+     "id": "bs39",
+     "g": "so ... that 構文",
+     "context": "Is the cafeteria usually crowded at noon?",
+     "chunks": [
+      "It's so",
+      "crowded",
+      "that it's hard",
+      "to find a seat"
+     ],
+     "extra": "too",
+     "explain": "so＋形容詞＋that。too は too ... to の形で使う。"
+    },
+    {
+     "id": "bs40",
+     "g": "be afraid to / ask＋人＋for",
+     "context": "Do you have any advice for my first semester?",
+     "chunks": [
+      "Don't be afraid",
+      "to ask",
+      "your professors",
+      "for help"
+     ],
+     "extra": "asking",
+     "explain": "be afraid to do、ask＋人＋for＋物。"
+    }
+   ]
+  }
+ ],
+ "email": [
+  {
+   "id": "em1",
+   "recipient": "Professor Grant",
+   "scenario": "You are taking Professor Grant's environmental science course. You were sick and missed last week's lab session, in which students collected water samples. The lab report is due next Monday.",
+   "points": [
+    "Explain why you missed the lab",
+    "Ask whether you can make up the session or use another student's data",
+    "Request an extension if necessary"
+   ],
+   "model": "Dear Professor Grant,\n\nI hope you are doing well. I am writing because I missed last Thursday's lab session. I had a high fever and was advised by the campus clinic to stay home, and I can provide a note from the clinic if needed.\n\nI understand that the water samples collected in that session are essential for the lab report. Would it be possible for me to make up the session at another time? If that is not practical, could I use data collected by one of my classmates instead?\n\nIn either case, I may need a few extra days to complete the report properly. Would you consider extending my deadline to Thursday?\n\nThank you for your understanding.\n\nBest regards,\nKenji Sato",
+   "checklist": [
+    "件名・宛名・結びが相手（教授）に合った丁寧さか",
+    "3つの要求事項をすべて、それぞれ別の文で扱ったか",
+    "依頼表現を複数使い分けたか（Would it be possible...? / Could I...? / Would you consider...?）",
+    "理由を具体的に書いたか（いつ・なぜ）",
+    "100〜150語程度に収まっているか",
+    "時制と冠詞の誤りがないか見直したか"
+   ],
+   "title": "実験の欠席と補講の相談"
+  },
+  {
+   "id": "em2",
+   "recipient": "the Student Activities Office",
+   "scenario": "You are the president of a small language exchange club. The club wants to hold an event for international and local students next month, but the room you usually use is too small.",
+   "points": [
+    "Describe the event you are planning",
+    "Explain why you need a larger room",
+    "Ask about available rooms and how to reserve one"
+   ],
+   "model": "Dear Student Activities Office,\n\nMy name is Aiko Tanaka, and I am the president of the Language Exchange Club. We are planning a cultural evening on November 20, where international and local students will share food, games, and short presentations about their home countries.\n\nWe usually meet in Room 204 of the Student Union, but it holds only 25 people. Since more than 60 students have already said they will attend, we will need a much larger space.\n\nCould you let me know which rooms are available that evening for about 70 people? I would also appreciate information on how to make a reservation and whether there is any fee.\n\nThank you for your help.\n\nSincerely,\nAiko Tanaka",
+   "checklist": [
+    "自己紹介と目的を最初の2文で述べたか",
+    "イベントの日時・内容を具体的に書いたか",
+    "広い部屋が必要な理由を数字などで示したか",
+    "空き状況と予約方法の両方を尋ねたか",
+    "100〜150語程度に収まっているか",
+    "時制と冠詞の誤りがないか見直したか"
+   ],
+   "title": "イベント用の広い部屋"
+  },
+  {
+   "id": "em3",
+   "recipient": "your classmate Sam",
+   "scenario": "You and Sam are working on a group presentation for a marketing class. The group planned to meet on Thursday evening, but you have just been asked to work an extra shift at your part-time job.",
+   "points": [
+    "Explain why you cannot attend the meeting",
+    "Describe the work you have already completed",
+    "Suggest another way for you to contribute"
+   ],
+   "model": "Hi Sam,\n\nI'm sorry, but I won't be able to make it to our meeting on Thursday evening. My manager just asked me to cover an extra shift, and I couldn't find anyone to replace me.\n\nI don't want to fall behind, though. I've already finished the slides on our competitor analysis, including the two comparison charts, and I've uploaded them to our shared folder.\n\nCould we try a short video call on Friday morning instead? If that doesn't work for everyone, I'd be happy to write the script for the conclusion section so that the rest of you can focus on the design.\n\nThanks for understanding, and let me know what works best.\n\nBest,\nKen",
+   "checklist": [
+    "友人宛てにふさわしい、くだけすぎない丁寧さか",
+    "欠席の理由を具体的に書いたか",
+    "完了した作業を具体的に示したか",
+    "代わりの貢献方法を提案したか",
+    "100〜150語程度か",
+    "時制・冠詞を見直したか"
+   ],
+   "title": "グループ会議の欠席"
+  },
+  {
+   "id": "em4",
+   "recipient": "the University Library",
+   "scenario": "Three weeks ago, you borrowed a book from the university library. You cannot find it anywhere, and it is due next week.",
+   "points": [
+    "Explain the situation",
+    "Ask what options are available",
+    "Ask whether a fee will be charged"
+   ],
+   "model": "Dear Library Staff,\n\nI am writing about a book I borrowed on March 2, \"Introduction to Behavioral Economics\" by L. Grant. It is due on March 30, but unfortunately I have not been able to find it, even after searching my apartment and the places I usually study.\n\nCould you tell me what options are available in this situation? For example, would it be possible to buy a new copy of the same edition and bring it to the library, or do I need to pay for a replacement through your office?\n\nI would also like to know whether there will be any additional processing fee. I want to resolve this before the due date.\n\nThank you for your help.\n\nSincerely,\nMika Ito",
+   "checklist": [
+    "本の情報（題名・借りた日・期限）を具体的に書いたか",
+    "探した努力を簡潔に述べたか",
+    "選択肢を尋ねる文を具体例つきで書いたか",
+    "料金について明確に質問したか",
+    "100〜150語程度か",
+    "時制・冠詞を見直したか"
+   ],
+   "title": "借りた本の紛失"
+  },
+  {
+   "id": "em5",
+   "recipient": "Professor Chen",
+   "scenario": "You took Professor Chen's sociology course last year and received a high grade. You are now applying for a competitive summer research program, which requires a letter of recommendation.",
+   "points": [
+    "Remind the professor who you are",
+    "Explain the program and why you are applying",
+    "Ask for a letter of recommendation and mention the deadline"
+   ],
+   "model": "Dear Professor Chen,\n\nI hope this email finds you well. My name is Yuki Mori, and I took your Introduction to Sociology course last fall. I especially enjoyed the unit on urban communities, and my final paper on neighborhood change received an A.\n\nI am now applying for the Summer Research Fellowship at Lakeview University, an eight-week program in which students assist with community-based research projects. I believe it would help me decide whether to pursue graduate study in sociology.\n\nWould you be willing to write a letter of recommendation for me? The deadline is April 15. I would be happy to send you my résumé, the program description, and a copy of my final paper.\n\nThank you very much for considering my request.\n\nSincerely,\nYuki Mori",
+   "checklist": [
+    "受講した授業・時期・成果で自分を思い出してもらえるか",
+    "プログラムの内容と応募理由を書いたか",
+    "丁寧な依頼表現（Would you be willing to...?）を使ったか",
+    "締切を明記し、資料提供を申し出たか",
+    "100〜150語程度か",
+    "時制・冠詞を見直したか"
+   ],
+   "title": "推薦状の依頼"
+  },
+  {
+   "id": "em6",
+   "recipient": "the Housing Maintenance Office",
+   "scenario": "You live in a university apartment. For the past three days, the heating in your room has not been working properly, and the weather has become very cold.",
+   "points": [
+    "Describe the problem",
+    "Explain how it is affecting you",
+    "Ask when the problem can be repaired"
+   ],
+   "model": "Dear Maintenance Office,\n\nI am writing to report a problem with the heating in my apartment, Room 312 in Pine Hall. For the past three days, the heater has been producing only a small amount of warm air, and the room temperature drops to about 14 degrees at night.\n\nBecause of this, it has been difficult to sleep, and I have had to study in the library late into the evening to stay warm. I am also worried that the problem may get worse as temperatures continue to fall.\n\nCould you let me know when a technician might be able to come and look at it? I am usually home after 3 p.m. on weekdays, but I am happy to give permission for staff to enter while I am out.\n\nThank you for your help.\n\nBest regards,\nTaro Suzuki",
+   "checklist": [
+    "部屋番号など特定に必要な情報を書いたか",
+    "問題を数値などで具体的に描写したか",
+    "生活への影響を書いたか",
+    "修理時期を尋ね、在宅時間など協力情報を添えたか",
+    "100〜150語程度か",
+    "時制・冠詞を見直したか"
+   ],
+   "title": "暖房の故障"
+  },
+  {
+   "id": "em7",
+   "recipient": "the members of your photography club",
+   "scenario": "You are organizing a photography walk in a city park for members of your club next Saturday.",
+   "points": [
+    "Give details of the event",
+    "Explain what members should bring",
+    "Ask members to reply if they plan to attend"
+   ],
+   "model": "Hi everyone,\n\nI'm excited to invite you to our club's photography walk next Saturday, October 12. We'll meet at the main gate of Riverside Park at 9 a.m. and spend about three hours exploring the gardens and the old bridge. The autumn leaves should be at their best, so it's a great chance to practice landscape shots.\n\nPlease bring your camera or phone, a fully charged battery, and comfortable walking shoes. If you have a small tripod, that would be useful too. We'll stop for lunch at the café near the lake, so you may want to bring some cash.\n\nIf you're planning to join, please reply to this email by Wednesday so I can let the café know how many people to expect.\n\nSee you there!\nNaomi",
+   "checklist": [
+    "日時・集合場所・内容を具体的に書いたか",
+    "持ち物を具体的に挙げたか",
+    "返信の期限と理由を書いたか",
+    "仲間宛てにふさわしい親しみと丁寧さか",
+    "100〜150語程度か",
+    "時制・冠詞を見直したか"
+   ],
+   "title": "写真散歩への招待"
+  },
+  {
+   "id": "em8",
+   "recipient": "the IT Help Desk",
+   "scenario": "Since yesterday, you have not been able to log in to the online course portal. You have an assignment due in two days that must be submitted through the portal.",
+   "points": [
+    "Describe the problem and when it started",
+    "Explain what you have already tried",
+    "Request urgent help and mention your deadline"
+   ],
+   "model": "Dear IT Help Desk,\n\nI am writing because I have been unable to log in to the online course portal since yesterday afternoon. Each time I enter my username and password, I receive the message \"Account not recognized,\" even though the same password still works for my university email.\n\nSo far, I have tried resetting my password, clearing my browser's cache, and logging in from a different computer in the library, but the problem has not changed.\n\nI have an assignment for my economics course that must be submitted through the portal by 11:59 p.m. on Friday. Could you please look into this as soon as possible? If it cannot be fixed in time, I would appreciate a confirmation that I could share with my professor.\n\nThank you,\nRina Yamada",
+   "checklist": [
+    "症状と開始時期を正確に書いたか",
+    "試した対処を列挙したか",
+    "締切を明記し、急ぎであることを丁寧に伝えたか",
+    "代替策（確認書など）にも触れたか",
+    "100〜150語程度か",
+    "時制・冠詞を見直したか"
+   ],
+   "title": "ポータルにログインできない"
+  }
+ ],
+ "discussion": [
+  {
+   "id": "ad1",
+   "course": "Education",
+   "professor": "Many universities now record their lectures and post them online. Some educators believe this helps students learn, while others worry that it reduces attendance and engagement. In your opinion, should universities make recordings of all lectures available to students? Why or why not?",
+   "students": [
+    {
+     "name": "Daniel",
+     "text": "I think recordings are essential. Students who work part-time or have health problems sometimes can't attend, and recordings give them an equal chance to keep up. I also rewatch difficult parts before exams."
+    },
+    {
+     "name": "Sofia",
+     "text": "I'm not convinced. When I know a lecture is recorded, I'm tempted to skip it, and I never actually find time to watch it later. Being in the room forces me to pay attention and ask questions."
+    }
+   ],
+   "model": "I understand Sofia's concern about motivation, but I agree with Daniel that universities should provide recordings. The key point, in my view, is that recordings are a supplement rather than a replacement for attending. For example, in my statistics class last year, I attended every lecture but still struggled with some proofs. Being able to pause the recording and go through each step at my own pace helped me far more than my notes did. As for the attendance problem, professors could simply make in-class activities, such as short quizzes or group discussions, part of the final grade. That way, students would still have a clear reason to come to class, while those who genuinely cannot attend would not fall behind.",
+   "checklist": [
+    "冒頭1文で自分の立場を明確にしたか",
+    "他の学生の意見に名前を挙げて触れたか",
+    "2人と異なる新しい論点を加えたか",
+    "具体例（自分の経験・仮定の例）を入れたか",
+    "100語以上で、論理の接続語を使ったか",
+    "見直しの時間を1分残したか"
+   ],
+   "title": "講義録画の公開"
+  },
+  {
+   "id": "ad2",
+   "course": "Urban Studies",
+   "professor": "Some cities have started to ban private cars from their downtown areas, allowing only pedestrians, bicycles, and public transportation. Supporters say this makes city centers cleaner and safer. Critics argue that it hurts local businesses and makes life harder for some residents. Do you think banning cars from downtown areas is a good idea? Explain your view.",
+   "students": [
+    {
+     "name": "Ryan",
+     "text": "I support it. Cities that have done this have less air pollution and fewer traffic accidents. People also spend more time walking around and shopping, which can actually help businesses."
+    },
+    {
+     "name": "Mei",
+     "text": "It sounds nice, but it isn't fair to everyone. Elderly people and people with disabilities may depend on cars, and delivery companies need access to stores too."
+    }
+   ],
+   "model": "Both Ryan and Mei raise valid points, but I believe a partial ban is more realistic than a complete one. Mei is right that some people truly depend on cars, so a city could still allow access for residents with disabilities, taxis, and delivery vehicles during certain hours, such as early in the morning. At the same time, ordinary private cars could be kept out during the day. What neither of my classmates mentioned is the importance of reliable public transportation. A ban only works if people have a convenient alternative. If a city invests in frequent buses and safe bike lanes before introducing restrictions, residents are much more likely to accept the change and continue visiting downtown shops.",
+   "checklist": [
+    "冒頭1文で自分の立場を明確にしたか",
+    "他の学生の意見に名前を挙げて触れたか",
+    "2人と異なる新しい論点を加えたか",
+    "具体例（自分の経験・仮定の例）を入れたか",
+    "100語以上で、論理の接続語を使ったか",
+    "見直しの時間を1分残したか"
+   ],
+   "title": "都心への自動車乗り入れ禁止"
+  },
+  {
+   "id": "ad3",
+   "course": "Sociology",
+   "professor": "Some universities require all students to complete a certain number of hours of community service before they graduate. Supporters say this teaches responsibility and connects students to their communities. Others believe volunteering should be a personal choice. Should universities make community service a graduation requirement? Why or why not?",
+   "students": [
+    {
+     "name": "Olivia",
+     "text": "I think it should be required. Many students would never volunteer otherwise, but once they try it, they often discover causes they care about. My high school required it, and I still volunteer at an animal shelter."
+    },
+    {
+     "name": "Marcus",
+     "text": "I disagree. Forced volunteering isn't really volunteering. Students who are made to do it may just try to finish the hours as quickly as possible, which doesn't help anyone."
+    }
+   ],
+   "model": "I understand Marcus's point, but I agree with Olivia that a requirement can be valuable, as long as it is designed well. The problem Marcus describes happens mainly when students are simply told to collect hours. If universities instead connected service to students' majors, the experience would feel meaningful rather than forced. For instance, education majors could tutor children at local schools, and accounting students could help low-income families with their tax forms. In that case, students would not only help their communities but also gain practical experience that is directly useful for their future careers. In my view, the real question is not whether to require service, but how to make it relevant enough that students take it seriously.",
+   "checklist": [
+    "冒頭で立場を明確にしたか",
+    "他の学生の意見に名前を挙げて触れたか",
+    "新しい論点（専攻との連携など）を加えたか",
+    "具体例を入れたか",
+    "100語以上で論理の接続語を使ったか",
+    "見直しの時間を残したか"
+   ],
+   "title": "社会奉仕の卒業要件化"
+  },
+  {
+   "id": "ad4",
+   "course": "Business",
+   "professor": "Since 2020, many companies have allowed employees to work from home some or all of the time. Some managers believe that remote work increases productivity, while others think that it weakens teamwork and creativity. In your opinion, is remote work better or worse for companies in the long term?",
+   "students": [
+    {
+     "name": "Hannah",
+     "text": "Remote work is better. Employees save hours of commuting time, and many people concentrate better at home without office distractions. Companies can also save money on office space."
+    },
+    {
+     "name": "Raj",
+     "text": "I think it's worse in the long run. New employees learn a lot by watching experienced colleagues, and that's hard to do over video calls. Spontaneous conversations also lead to new ideas."
+    }
+   ],
+   "model": "Both Hannah and Raj make strong arguments, but I believe a hybrid model is the best long-term solution. Hannah is right that focused tasks, such as writing reports or analyzing data, are often done more efficiently at home. However, I share Raj's concern about new employees. When I worked as an intern last summer, I learned most of my practical skills by listening to how my supervisor handled phone calls and solved problems, something I could never have learned remotely. Therefore, companies could ask employees to come to the office two or three days a week for meetings, training, and collaborative work, while allowing them to stay home on other days. This approach would keep the productivity benefits of remote work without losing the learning that happens face to face.",
+   "checklist": [
+    "冒頭で立場を明確にしたか",
+    "他の学生の意見に名前を挙げて触れたか",
+    "新しい論点（ハイブリッド案など）を加えたか",
+    "具体例を入れたか",
+    "100語以上で論理の接続語を使ったか",
+    "見直しの時間を残したか"
+   ],
+   "title": "リモートワークの是非"
+  },
+  {
+   "id": "ad5",
+   "course": "Environmental Science",
+   "professor": "Plastic waste is a growing problem in oceans and landfills. Some people argue that individuals should take responsibility by changing their shopping habits, while others say that governments and companies must lead the way through laws and new technology. Who should play the main role in reducing plastic waste? Explain your view.",
+   "students": [
+    {
+     "name": "Grace",
+     "text": "Individuals need to change first. If consumers stop buying products wrapped in plastic, companies will have no choice but to change their packaging."
+    },
+    {
+     "name": "Diego",
+     "text": "That's unrealistic. Most people are busy and just buy what's available. Governments need to ban single-use plastics and make companies pay for the waste they create."
+    }
+   ],
+   "model": "In my view, governments should take the leading role, although individuals still matter. I agree with Diego that it is unrealistic to expect millions of consumers to change their habits on their own, especially when plastic-free options are often more expensive or harder to find. However, Grace raises an important point about consumer pressure, and I think the two approaches work best together. A good example is the plastic bag fee introduced in many countries. The law itself was a government decision, but its success depended on shoppers changing a daily habit, such as carrying reusable bags. Once that habit became normal, people began to support even stricter rules. So governments should create the framework, and individual choices can then reinforce it.",
+   "checklist": [
+    "冒頭で立場を明確にしたか",
+    "他の学生の意見に名前を挙げて触れたか",
+    "新しい論点（両者の相互作用）を加えたか",
+    "具体例を入れたか",
+    "100語以上で論理の接続語を使ったか",
+    "見直しの時間を残したか"
+   ],
+   "title": "プラスチック削減の責任"
+  },
+  {
+   "id": "ad6",
+   "course": "Education",
+   "professor": "Some educators have proposed replacing traditional letter grades with a simple pass/fail system, especially for first-year university courses. They argue that this reduces stress and encourages students to explore new subjects. Others worry that students will put in less effort. What is your opinion? Should first-year courses be graded pass/fail?",
+   "students": [
+    {
+     "name": "Emma",
+     "text": "Yes. First-year students are adjusting to a new environment, and pass/fail grading would let them take challenging courses outside their major without worrying about their GPA."
+    },
+    {
+     "name": "Kenji",
+     "text": "No. Grades give useful feedback. If I only knew I had passed, I wouldn't know whether I had really mastered the material or just barely made it."
+    }
+   ],
+   "model": "I think a pass/fail system is a good idea for first-year courses, but only if it is combined with detailed feedback. Emma is right that fear of a low grade often stops students from exploring unfamiliar subjects. For example, a friend of mine was interested in philosophy but chose an easier course instead because she was afraid of lowering her GPA. At the same time, Kenji makes a valid point that students need to know how well they understand the material. Professors could solve this by giving written comments or scores on individual assignments, while recording only pass or fail on the official transcript. That way, students would still receive the information they need to improve, but they would feel free to take intellectual risks during their first year.",
+   "checklist": [
+    "冒頭で立場を明確にしたか",
+    "他の学生の意見に名前を挙げて触れたか",
+    "新しい論点（条件付き賛成）を加えたか",
+    "具体例を入れたか",
+    "100語以上で論理の接続語を使ったか",
+    "見直しの時間を残したか"
+   ],
+   "title": "1年次科目の合否評価"
+  },
+  {
+   "id": "ad7",
+   "course": "Psychology",
+   "professor": "Research on the effects of social media on young people's mental health has produced mixed results. Some lawmakers have proposed limiting the amount of time teenagers can spend on social media apps each day. Do you think such limits are a good idea? Why or why not?",
+   "students": [
+    {
+     "name": "Sophie",
+     "text": "I support time limits. Many teenagers stay up late scrolling, which hurts their sleep and their schoolwork. A daily limit would help them build healthier habits."
+    },
+    {
+     "name": "Ahmed",
+     "text": "I don't think limits will work. Teenagers will just find ways around them, like using a parent's account. It would be better to teach them how to use social media wisely."
+    }
+   ],
+   "model": "I agree with Ahmed that legal time limits are not the best solution, although I understand Sophie's concern about sleep. The main problem with a strict limit is that it treats all social media use as equally harmful. In reality, some teenagers use these apps to stay in touch with distant relatives or to join communities related to their hobbies, which can actually improve their well-being. What matters more is how and when they use them. Instead of a daily limit, schools could teach students to recognize warning signs, such as comparing themselves constantly with others. In addition, apps could be required to turn off notifications late at night by default. This would address the sleep problem Sophie mentioned without taking away the benefits of staying connected.",
+   "checklist": [
+    "冒頭で立場を明確にしたか",
+    "他の学生の意見に名前を挙げて触れたか",
+    "新しい論点（使い方の質）を加えたか",
+    "具体例を入れたか",
+    "100語以上で論理の接続語を使ったか",
+    "見直しの時間を残したか"
+   ],
+   "title": "SNS利用時間の制限"
+  },
+  {
+   "id": "ad8",
+   "course": "Public Policy",
+   "professor": "Many national museums charge admission fees to cover their costs. Some people argue that museums should be free to everyone and funded entirely by taxes, since they preserve a shared cultural heritage. Others believe visitors should pay for what they use. Should public museums be free? Explain your opinion.",
+   "students": [
+    {
+     "name": "Lucas",
+     "text": "Museums should be free. Culture belongs to everyone, and fees discourage low-income families from visiting. When some museums in the UK became free, the number of visitors increased dramatically."
+    },
+    {
+     "name": "Yuna",
+     "text": "I don't think they should be completely free. Taxes are limited, and not everyone visits museums. It seems fairer for visitors to pay at least part of the cost."
+    }
+   ],
+   "model": "In my opinion, public museums should be free for residents, while tourists could be asked to pay a fee. Lucas makes an important point that admission fees discourage families with limited budgets, and these are often the children who would benefit most from exposure to art and history. On the other hand, I understand Yuna's concern about fairness to taxpayers. A two-level system would address both issues. Residents, who already support museums through their taxes, could enter for free, whereas international visitors, who do not contribute to local taxes, would pay an entrance fee. Several museums already use similar systems, and the income from tourists can be used to maintain collections and develop educational programs for local schools.",
+   "checklist": [
+    "冒頭で立場を明確にしたか",
+    "他の学生の意見に名前を挙げて触れたか",
+    "新しい論点（二段階料金）を加えたか",
+    "具体例を入れたか",
+    "100語以上で論理の接続語を使ったか",
+    "見直しの時間を残したか"
+   ],
+   "title": "公立博物館の無料化"
+  }
+ ]
+}

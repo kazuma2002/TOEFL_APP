@@ -1,0 +1,768 @@
+{
+ "note": "形式・時間・採点方式は、2026年1月以降のETS公表情報と主要な対策サイトの解説に基づく。形式は変更されうるため、受験前に必ずETS公式サイトで最新情報を確認する。「コツ」「練習法」は推奨であり、効果には個人差がある。",
+ "strategy": [
+  {
+   "id": "score",
+   "title": "総合5.5の仕組みと目標配分",
+   "lead": "総合スコアは4セクションの平均を0.5刻みに丸めた値である。平均5.25以上で5.5、5.125以下だと5になる。",
+   "sections": [
+    {
+     "h": "スコアの基本（公式情報）",
+     "items": [
+      "各セクションと総合は1〜6の0.5刻み。5と5.5はCEFRのC1、6はC2に対応する。",
+      "総合5.5は旧スケールの107点以上、5は95点以上に相当する。",
+      "総合は4セクションの平均を最も近い0.5刻みに丸める。例：平均5.125→5、平均5.25→5.5。"
+     ]
+    },
+    {
+     "h": "安定して5.5を取るための配分例（推奨）",
+     "items": [
+      "R6・L6・W5・S5 → 平均5.5。R/Lで満点近くを確保し、W/Sは5を死守する最も現実的な形。",
+      "R6・L5.5・W5・S5 → 平均5.375で5.5。Lで少し落としても届く。",
+      "R5.5・L5.5・W5・S4.5 → 平均5.125で5に落ちる。S/Wが4.5だとR/Lで取り返すのが難しい。",
+      "結論：R/Lは6を狙い、W/Sは下限5を固める。弱点はS/Wである可能性が高いため、学習時間の約2/3をS/Wに配分する。"
+     ]
+    },
+    {
+     "h": "あなたの現状からの見立て（類推）",
+     "items": [
+      "TOEIC990点の読解・聴解力があれば、R/Lの土台は十分と考えられる。差がつくのはアカデミック語彙（生物・地学など）と、1回しか流れない音声への慣れである。",
+      "S/WのB2〜C1はTOEFLの4.5〜5.5に相当しうる。型と時間配分を身につければ、5の安定は十分に届く範囲と考える。"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "plan",
+   "title": "3年間の学習計画",
+   "lead": "受験まで期間が長いため、前半は「土台作り」、後半は「本番形式での安定化」に分ける。",
+   "sections": [
+    {
+     "h": "1年目：基礎期",
+     "items": [
+      "単語帳：1日10語の新出＋復習を毎日続け、1年で全語を「習得」段階にする。",
+      "Listen and Repeat：週3回。機能語（a / the / of）と語尾（-s / -ed）まで正確に再現する。",
+      "英文タイピング：Writingの7分・10分で書き切るため、1分30語以上を目標にする。",
+      "Reading・Listening：週2回ずつ。間違えた設問は誤答ノートで必ず解き直す。"
+     ]
+    },
+    {
+     "h": "2年目：強化期",
+     "items": [
+      "Email・Discussion：週2本ずつ制限時間で書き、AI添削で弱点を記録する。",
+      "Interview：週2セット。録音を聞き、沈黙・言い直し・時制ミスを数える。",
+      "言い換え表現：Tipsの表現集から毎週5個を選び、Writing・Speakingで意識して使う。"
+     ]
+    },
+    {
+     "h": "3年目：実戦期〜直前期",
+     "items": [
+      "本番と同じ順序（Reading→Listening→Writing→Speaking）で通し練習する。",
+      "ETS公式の練習問題・模試で、形式の最新情報と時間感覚を確認する。",
+      "直前1か月は新しい教材を増やさず、誤答ノートと苦手タスクの反復に絞る。"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "testday",
+   "title": "本番の流れと注意点",
+   "lead": "セクションはReading→Listening→Writing→Speakingの順で、全体で約90分である。",
+   "sections": [
+    {
+     "h": "形式の要点（公式情報・各種解説）",
+     "items": [
+      "ReadingとListeningは多段階適応型。前半の出来によって後半の難易度が変わる。",
+      "Listeningの音声は1回のみ再生され、各設問に20秒または30秒の制限時間がある。",
+      "Speakingの2タスクにはどちらも準備時間がない。",
+      "Writingは3タスク合計で約23分。Emailは7分、Discussionは10分の個別タイマーがある。"
+     ]
+    },
+    {
+     "h": "当日のコツ（推奨）",
+     "items": [
+      "適応型のため、前半（第1ステージ）で取りこぼさないことが特に重要と考えられる。見直しより正確さを優先する。",
+      "Listeningは設問を待たずに、話の目的・問題点・結論をメモする意識で聞く。",
+      "Writingで時間が足りないときは、必須事項をすべて1文ずつ書くことを最優先する。",
+      "Speakingで頭が真っ白になったら、That's an interesting question. で2秒稼ぎ、結論から話し始める。"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "routine",
+   "title": "1日のルーティン例",
+   "lead": "毎日続けることを最優先にする。時間がない日でも単語とListen and Repeatだけは行う。",
+   "sections": [
+    {
+     "h": "15分の日",
+     "items": [
+      "単語帳のカード（5分）",
+      "Listen and Repeat 1セット（5分）",
+      "Build a Sentence 10問、またはReading 1題（5分）"
+     ]
+    },
+    {
+     "h": "30分の日",
+     "items": [
+      "Todayのメニューをすべて（約20分）",
+      "単語帳の聞き流し・書き取り（10分）"
+     ]
+    },
+    {
+     "h": "60分の日",
+     "items": [
+      "Email または Discussion を制限時間で1本＋AI添削（25分）",
+      "Interview 1セット＋録音の振り返り（15分）",
+      "Listening 2題（10分）",
+      "誤答ノートの解き直し（10分）"
+     ]
+    }
+   ]
+  }
+ ],
+ "tasks": {
+  "ctw": {
+   "summary": "約80語の段落の中で、後半が欠けた10語を補って完成させる。",
+   "facts": [
+    "1段落に10か所の空欄がある。",
+    "各空欄は単語の後半の文字が欠けており、表示された前半に続けて入力する。",
+    "語彙力に加え、文法（品詞・時制・単複）と文脈の両方を使って判断する。"
+   ],
+   "steps": [
+    "最初の1文（空欄なし）を読み、段落の話題をつかむ。",
+    "空欄の前後の語から、必要な品詞と形（複数形・過去形など）を決める。",
+    "見えている文字と空欄の文字数を手がかりに単語を特定する。",
+    "最後に全文を通して読み、文法的に自然か確認する。"
+   ],
+   "pitfalls": [
+    "複数形の -s や過去形の -ed を落とす。",
+    "似たつづりの別語（than / then など）と混同する。",
+    "文字数を数えずに入力する。"
+   ],
+   "practice": [
+    "単語帳の「書き取り」モードで正確なつづりを鍛える。",
+    "英文を読むとき、機能語（which / while / although）に注意を払う習慣をつける。"
+   ]
+  },
+  "daily": {
+   "summary": "掲示・メール・メッセージなど、日常的な短い文章を読んで2問程度に答える。",
+   "facts": [
+    "文章は50〜170語程度で、通常1文章につき2問。",
+    "詳細・目的・書き手の意図が問われ、メッセージ中の発言の意味を問う設問もある。"
+   ],
+   "steps": [
+    "タイトルと文書の種類（Notice / Email / Text）を確認し、目的を予測する。",
+    "設問を先に読み、探す情報を決める。",
+    "日付・時間・条件（only / except / before）に印をつける意識で読む。"
+   ],
+   "pitfalls": [
+    "本文の語句をそのまま含む選択肢に飛びつく（言い換えが正解になりやすい）。",
+    "条件や例外（only, unless, except）を読み落とす。"
+   ],
+   "practice": [
+    "TOEIC Part 7の要領で解けるが、キャンパス生活の語彙（registrar, prerequisite など）を単語帳で補強する。"
+   ]
+  },
+  "academic": {
+   "summary": "大学教科書レベルの文章を読み、語彙・詳細・推論・目的・文挿入などの設問に答える。",
+   "facts": [
+    "文章は150〜400語程度で、約5問。",
+    "語彙、詳細、推論、筆者の意図、文挿入の設問が出題される。"
+   ],
+   "steps": [
+    "各段落の第1文を拾い読みし、全体の構成をつかむ（30秒程度）。",
+    "設問ごとに該当段落へ戻って精読する。",
+    "語彙問題は選択肢を元の語の位置に入れて、文意が通るか確かめる。",
+    "文挿入問題は、挿入文の代名詞（this, these）や接続語（however, as a result）が何を指すかを手がかりにする。"
+   ],
+   "pitfalls": [
+    "本文に書かれていない一般常識で答える。",
+    "EXCEPT（〜でないもの）問題で、本文にある選択肢を選んでしまう。",
+    "目的問題（Why does the author mention...?）で、例の内容そのものを選んでしまう。"
+   ],
+   "practice": [
+    "分野別単語（生物・地学・歴史など）を優先して覚える。",
+    "1段落を1文で要約する練習をする。"
+   ]
+  },
+  "lresp": {
+   "summary": "短い発言を1回だけ聞き、最も自然な応答を4つから選ぶ。",
+   "facts": [
+    "音声は1回のみ再生される。",
+    "設問ごとに制限時間がある（20秒程度）。"
+   ],
+   "steps": [
+    "発言の機能（質問・提案・依頼・不満・確認）を判断する。",
+    "疑問詞（When / Who / Why）と時制を聞き取る。",
+    "同じ単語や似た音を含む選択肢を疑う。"
+   ],
+   "pitfalls": [
+    "Would you mind...? への承諾は Not at all / Go ahead（Yes だと断りになる）。",
+    "Why don't we...? は理由を尋ねる質問ではなく提案である。",
+    "否定疑問・付加疑問に Yes / No の内容が矛盾する選択肢を選ぶ。"
+   ],
+   "practice": [
+    "TOEIC Part 2と同じ要領で解けるため、キャンパス場面の表現に慣れることに集中する。"
+   ]
+  },
+  "lconv": {
+   "summary": "学生と教授・職員などの会話を聞き、2問程度に答える。",
+   "facts": [
+    "会話は短く、1回のみ再生される。",
+    "問題点、詳細、話者の意図が問われる。"
+   ],
+   "steps": [
+    "最初の2〜3行で「誰が・何に困っているか」をつかむ。",
+    "提案（You could... / I'd suggest...）と、それへの反応を聞き取る。",
+    "最後の発言から「次に何をするか」を把握する。"
+   ],
+   "pitfalls": [
+    "最初に出た案を正解と思い込む（会話中に却下されることが多い）。",
+    "話者の気持ち（驚き・ためらい）を示す口調を聞き逃す。"
+   ],
+   "practice": [
+    "練習モードで2回目は書き起こしを見ながら聞き、聞き取れなかった箇所を確認する。"
+   ]
+  },
+  "lann": {
+   "summary": "授業前の連絡や学内放送などのアナウンスを聞き、2問程度に答える。",
+   "facts": [
+    "目的と重要な詳細（日時・変更点・指示）が問われる。"
+   ],
+   "steps": [
+    "冒頭で目的（変更・中止・新サービスの案内など）をつかむ。",
+    "変更前と変更後の情報を区別して聞く。",
+    "最後の指示（please... / make sure...）に注意する。"
+   ],
+   "pitfalls": [
+    "変更前の古い情報を選んでしまう。",
+    "「変わらないもの」を問う設問を見落とす。"
+   ],
+   "practice": [
+    "数字・曜日・場所を聞いた直後に、頭の中で1回繰り返す習慣をつける。"
+   ]
+  },
+  "ltalk": {
+   "summary": "講義の一部（約250語まで）を聞き、主題・詳細・構成について4問程度に答える。",
+   "facts": [
+    "音声は1回のみ再生される。",
+    "主題、詳細、話の構成、話者の意図が問われる。"
+   ],
+   "steps": [
+    "冒頭の Today I want to... / Let's talk about... で主題をつかむ。",
+    "定義（X is...）、例（for instance）、対比（while / unlike）の合図語を聞き取る。",
+    "例が出たら「何を説明するための例か」を意識する。"
+   ],
+   "pitfalls": [
+    "細部を覚えようとして主題を聞き逃す。",
+    "教授が例を挙げた目的を問われ、例の内容そのものを選んでしまう。"
+   ],
+   "practice": [
+    "分野別単語を音声で覚え、聞いて即座に意味が浮かぶ状態にする。",
+    "聞き終えたら、要点を英語で3文にまとめて口に出す。"
+   ]
+  },
+  "build": {
+   "summary": "会話の相手の発言に対する返答文を、語句を並べ替えて完成させる。",
+   "facts": [
+    "10問を約6分で解く。",
+    "語句のうち1つは使わない（不要な語句が含まれる）。"
+   ],
+   "steps": [
+    "相手の発言の疑問詞と時制を確認する。",
+    "主語と動詞を先に決め、残りの語句を修飾語として配置する。",
+    "不要な語句は、文法的に合わない形（-ing形・助動詞の重複など）であることが多い。"
+   ],
+   "pitfalls": [
+    "間接疑問を疑問文の語順にしてしまう（where does it → where it）。",
+    "使役・知覚動詞の後に to を入れる。"
+   ],
+   "practice": [
+    "誤答した問題の文法タグを確認し、同じ文法項目の問題を続けて解く。"
+   ]
+  },
+  "email": {
+   "summary": "日常・学業の場面設定を読み、指定された3点を含むメールを7分で書く。",
+   "facts": [
+    "制限時間は7分。",
+    "場面と、メールに含めるべき3点が示される。",
+    "採点は0〜5点で行われ、課題の達成度、構成、言語の正確さと適切さが評価される。"
+   ],
+   "steps": [
+    "（1分）宛先との関係から丁寧さのレベルを決め、3点それぞれに1〜2文の内容を決める。",
+    "（4分）書き出し→目的→3点（各1段落）→結びの順で書く。",
+    "（1〜2分）3点の網羅、時制、冠詞、宛名と結びの対応を見直す。"
+   ],
+   "pitfalls": [
+    "3点のうち1つを書き忘れる（減点が大きいと考えられる）。",
+    "教授宛てに Hey や Thanks a lot! など、くだけすぎた表現を使う。",
+    "長く書こうとして見直しの時間がなくなる。"
+   ],
+   "practice": [
+    "目標は100〜150語。最初は時間を気にせず書き、慣れたら7分で書く。",
+    "表現集の「メール」カテゴリーから、依頼の言い回しを3種類以上使い分けられるようにする。"
+   ]
+  },
+  "disc": {
+   "summary": "授業のオンライン掲示板で、教授の問いと学生2人の投稿を読み、自分の意見を10分で投稿する。",
+   "facts": [
+    "制限時間は10分。",
+    "旧形式から引き継がれた唯一のタスクである。",
+    "採点は0〜5点で行われ、意見の展開、議論への貢献、言語の正確さが評価される。目安は100語以上。"
+   ],
+   "steps": [
+    "（1〜2分）教授の問いを読み、2人の意見と異なる「新しい論点」を1つ決める。",
+    "（6〜7分）立場→他の学生への言及→理由→具体例→まとめの順で書く。",
+    "（1分）主語と動詞の一致、時制、冠詞を見直す。"
+   ],
+   "pitfalls": [
+    "他の学生の意見を言い換えただけで、新しい論点がない。",
+    "具体例がなく抽象論で終わる。",
+    "一般論の前置きが長く、立場が最後まで分からない。"
+   ],
+   "practice": [
+    "型：I agree with X that..., but... / What neither X nor Y mentioned is... を身につける。",
+    "AI添削の結果から、自分がよく間違える文法を3つ記録して意識する。"
+   ]
+  },
+  "repeat": {
+   "summary": "短い文を聞き、そのまま正確に繰り返す。",
+   "facts": [
+    "1セット7文で、文は徐々に長くなる。",
+    "準備時間はない。",
+    "正確さと明瞭さが評価される。"
+   ],
+   "steps": [
+    "文全体を「意味のかたまり（句）」2〜3個に分けて記憶する。",
+    "ビープ音の直後に話し始め、同じリズムとイントネーションで再現する。",
+    "語尾（-s / -ed）と冠詞まで省略しない。"
+   ],
+   "pitfalls": [
+    "長い文で後半を言い換えてしまう（意味が同じでも減点されうる）。",
+    "早口で語尾が不明瞭になる。"
+   ],
+   "practice": [
+    "シャドーイング（音声に少し遅れて発話）を毎日5分続ける。",
+    "録音を聞いて、抜けた語に印をつけ、その文だけ3回繰り返す。"
+   ]
+  },
+  "interview": {
+   "summary": "研究者からの4つの質問に、準備時間なしで各45秒答える。",
+   "facts": [
+    "質問は4問で、各45秒で回答する。",
+    "準備時間はない。",
+    "学術的な知識は不要で、身近な話題から意見を問う質問へと進む。",
+    "採点はAIが行い、人間が確認する。"
+   ],
+   "steps": [
+    "最初の1文で質問に直接答える（I'd say... / Personally, I prefer...）。",
+    "理由を1つ述べ、具体的な経験か例を加える。",
+    "残り5秒程度でまとめの1文を言う（That's why...）。"
+   ],
+   "pitfalls": [
+    "前の質問の話を続けてしまい、新しい質問に答えていない。",
+    "沈黙が長い、または同じ表現を繰り返す。",
+    "経験を語るときに現在形と過去形が混ざる。"
+   ],
+   "practice": [
+    "45秒で90〜120語を目標に、タイマーを使って話す。",
+    "よく出る話題（学習・技術・健康・仕事・環境・都市生活）ごとに、使える自分の経験を1つずつ用意する。"
+   ]
+  }
+ },
+ "daily": [
+  "Listen and Repeatでは、冠詞と語尾まで再現できているかを最優先で確認する。",
+  "Emailは3つの必須事項を「1点につき1段落」で書くと、漏れを防げる。",
+  "Discussionでは「2人が触れていない論点」を1つ入れると、議論への貢献が明確になる。",
+  "Academic Passageの語彙問題は、選択肢を本文に入れて読み直すと確実である。",
+  "Why does the author mention X? は「Xの内容」ではなく「Xを挙げた目的」を答える。",
+  "文挿入問題は、挿入文の this / these / such が何を指すかが最大の手がかりである。",
+  "Would you mind...? に承諾するときは Not at all. と答える。",
+  "Why don't we...? は提案である。理由を答える選択肢は誤りになりやすい。",
+  "会話問題では、最初に出た案がその後に却下されることが多い。",
+  "講義では for instance の後に来る例が「何の説明か」を意識して聞く。",
+  "Build a Sentenceの不要語は、-ing形や余分な助動詞であることが多い。",
+  "間接疑問は「疑問詞＋主語＋動詞」の語順になる。where does it ではなく where it。",
+  "Interviewで詰まったら That's an interesting question. と言って2秒考える。",
+  "Interviewは最初の1文で質問に直接答える。前置きは不要である。",
+  "45秒で話せる語数の目安は90〜120語である。",
+  "Writingは書き終えたら、時制・冠詞・主語と動詞の一致の3点を見直す。",
+  "Complete the Wordsは、空欄の文字数を数えてから入力する。",
+  "単語は音声と一緒に覚えると、Listeningで聞き取れる語が増える。",
+  "誤答ノートの問題は、正解できるまで間隔を空けて解き直す。",
+  "総合5.5は平均5.25以上。R/Lで6を取れればW/Sは5で届く。",
+  "Reading・Listeningは前半の出来で後半の難易度が変わる。前半を丁寧に解く。",
+  "教授宛てのメールでは Dear Professor ... と Best regards / Sincerely を使う。",
+  "I think を In my view / From my perspective に言い換えるだけで語彙の幅が出る。",
+  "however は文頭で However, と使う。文中で2文をつなぐなら ; however, とする。",
+  "具体例は自分の経験でよい。数字や固有名詞を入れると説得力が増す。",
+  "シャドーイングは、意味を理解できた音声で行うと効果が高いとされる。",
+  "毎日続けることが最優先である。時間がない日は単語とListen and Repeatだけ行う。",
+  "Announcementでは、変更前と変更後の情報を区別して聞く。",
+  "Daily Lifeの設問は、本文の語句をそのまま含む選択肢より、言い換えた選択肢が正解になりやすい。",
+  "書き取りモードでつづりを鍛えると、Complete the Wordsの正答率が上がる。"
+ ],
+ "phrases": [
+  {
+   "cat": "立場を示す",
+   "basic": "I think",
+   "upgrade": "In my view, / From my perspective,",
+   "use": "意見の導入"
+  },
+  {
+   "cat": "立場を示す",
+   "basic": "I strongly think",
+   "upgrade": "I firmly believe that ...",
+   "use": "強い主張"
+  },
+  {
+   "cat": "立場を示す",
+   "basic": "It depends.",
+   "upgrade": "The answer largely depends on ...",
+   "use": "条件つきの立場"
+  },
+  {
+   "cat": "立場を示す",
+   "basic": "I partly agree.",
+   "upgrade": "I agree to some extent, but ...",
+   "use": "部分的な賛成"
+  },
+  {
+   "cat": "同意・反論",
+   "basic": "I agree with Daniel.",
+   "upgrade": "I share Daniel's view that ...",
+   "use": "同意"
+  },
+  {
+   "cat": "同意・反論",
+   "basic": "Daniel is right.",
+   "upgrade": "Daniel makes a valid point that ...",
+   "use": "相手の評価"
+  },
+  {
+   "cat": "同意・反論",
+   "basic": "I'm not sure about that.",
+   "upgrade": "I'm not entirely convinced that ...",
+   "use": "丁寧な反論"
+  },
+  {
+   "cat": "同意・反論",
+   "basic": "I disagree.",
+   "upgrade": "I see it differently.",
+   "use": "やわらかい反対"
+  },
+  {
+   "cat": "同意・反論",
+   "basic": "Both are right.",
+   "upgrade": "Both X and Y raise valid points, but ...",
+   "use": "両者に触れて自説へ"
+  },
+  {
+   "cat": "同意・反論",
+   "basic": "Nobody said ...",
+   "upgrade": "What neither X nor Y mentioned is ...",
+   "use": "新しい論点の提示"
+  },
+  {
+   "cat": "理由・例",
+   "basic": "Because",
+   "upgrade": "The main reason is that ...",
+   "use": "理由"
+  },
+  {
+   "cat": "理由・例",
+   "basic": "For example",
+   "upgrade": "To illustrate, / A case in point is ...",
+   "use": "具体例"
+  },
+  {
+   "cat": "理由・例",
+   "basic": "In my case",
+   "upgrade": "Speaking from my own experience, ...",
+   "use": "経験の例"
+  },
+  {
+   "cat": "理由・例",
+   "basic": "This shows",
+   "upgrade": "This clearly demonstrates that ...",
+   "use": "例のまとめ"
+  },
+  {
+   "cat": "理由・例",
+   "basic": "because of",
+   "upgrade": "due to / owing to",
+   "use": "原因"
+  },
+  {
+   "cat": "追加・対比",
+   "basic": "Also",
+   "upgrade": "What is more, / Beyond that,",
+   "use": "追加"
+  },
+  {
+   "cat": "追加・対比",
+   "basic": "But",
+   "upgrade": "That said, / Having said that,",
+   "use": "譲歩からの転換"
+  },
+  {
+   "cat": "追加・対比",
+   "basic": "On the other hand",
+   "upgrade": "Conversely, / By contrast,",
+   "use": "対比"
+  },
+  {
+   "cat": "追加・対比",
+   "basic": "Even though",
+   "upgrade": "Despite the fact that ...",
+   "use": "譲歩"
+  },
+  {
+   "cat": "追加・対比",
+   "basic": "so",
+   "upgrade": "As a result, / Consequently,",
+   "use": "結果"
+  },
+  {
+   "cat": "追加・対比",
+   "basic": "if not",
+   "upgrade": "Otherwise, ...",
+   "use": "そうでなければ"
+  },
+  {
+   "cat": "語彙の格上げ",
+   "basic": "very important",
+   "upgrade": "crucial / essential / vital",
+   "use": "強調"
+  },
+  {
+   "cat": "語彙の格上げ",
+   "basic": "a lot of",
+   "upgrade": "a substantial number of / a considerable amount of",
+   "use": "数量"
+  },
+  {
+   "cat": "語彙の格上げ",
+   "basic": "get better",
+   "upgrade": "improve significantly",
+   "use": "変化"
+  },
+  {
+   "cat": "語彙の格上げ",
+   "basic": "bad effect",
+   "upgrade": "adverse impact / drawback",
+   "use": "欠点"
+  },
+  {
+   "cat": "語彙の格上げ",
+   "basic": "good point",
+   "upgrade": "advantage / benefit",
+   "use": "利点"
+  },
+  {
+   "cat": "語彙の格上げ",
+   "basic": "show",
+   "upgrade": "indicate / reveal / demonstrate",
+   "use": "示す"
+  },
+  {
+   "cat": "語彙の格上げ",
+   "basic": "think about",
+   "upgrade": "consider / take into account",
+   "use": "考慮する"
+  },
+  {
+   "cat": "語彙の格上げ",
+   "basic": "need",
+   "upgrade": "require",
+   "use": "必要とする"
+  },
+  {
+   "cat": "語彙の格上げ",
+   "basic": "help",
+   "upgrade": "facilitate / contribute to",
+   "use": "促進する"
+  },
+  {
+   "cat": "語彙の格上げ",
+   "basic": "big problem",
+   "upgrade": "serious concern / major challenge",
+   "use": "問題"
+  },
+  {
+   "cat": "語彙の格上げ",
+   "basic": "make worse",
+   "upgrade": "exacerbate / undermine",
+   "use": "悪化させる"
+  },
+  {
+   "cat": "まとめ",
+   "basic": "In conclusion",
+   "upgrade": "All things considered, / Overall,",
+   "use": "まとめ"
+  },
+  {
+   "cat": "まとめ",
+   "basic": "So I think",
+   "upgrade": "For these reasons, I believe ...",
+   "use": "結論の再提示"
+  },
+  {
+   "cat": "まとめ",
+   "basic": "The most important thing is",
+   "upgrade": "In my view, the key question is not ... but ...",
+   "use": "論点の再定義"
+  },
+  {
+   "cat": "メール",
+   "basic": "I want to ask about ...",
+   "upgrade": "I am writing to inquire about ...",
+   "use": "目的の提示"
+  },
+  {
+   "cat": "メール",
+   "basic": "Can you ...?",
+   "upgrade": "Would it be possible for you to ...?",
+   "use": "丁寧な依頼"
+  },
+  {
+   "cat": "メール",
+   "basic": "Please tell me ...",
+   "upgrade": "I would appreciate it if you could let me know ...",
+   "use": "情報の依頼"
+  },
+  {
+   "cat": "メール",
+   "basic": "Can I ...?",
+   "upgrade": "Would it be possible for me to ...?",
+   "use": "許可を求める"
+  },
+  {
+   "cat": "メール",
+   "basic": "Please think about ...",
+   "upgrade": "Would you consider ...?",
+   "use": "検討の依頼"
+  },
+  {
+   "cat": "メール",
+   "basic": "Sorry for ...",
+   "upgrade": "I apologize for any inconvenience this may cause.",
+   "use": "謝罪"
+  },
+  {
+   "cat": "メール",
+   "basic": "Thanks.",
+   "upgrade": "Thank you for your understanding / help.",
+   "use": "結びのお礼"
+  },
+  {
+   "cat": "メール",
+   "basic": "I'll send it.",
+   "upgrade": "I would be happy to provide ...",
+   "use": "資料提供の申し出"
+  },
+  {
+   "cat": "メール",
+   "basic": "Answer soon, please.",
+   "upgrade": "I look forward to hearing from you.",
+   "use": "返信を促す"
+  },
+  {
+   "cat": "メール",
+   "basic": "I can't go.",
+   "upgrade": "Unfortunately, I won't be able to attend ...",
+   "use": "欠席の連絡"
+  },
+  {
+   "cat": "メール",
+   "basic": "How about ...?",
+   "upgrade": "Would ... work for you instead?",
+   "use": "代案の提示"
+  },
+  {
+   "cat": "スピーキング",
+   "basic": "Good question.",
+   "upgrade": "That's an interesting question. Let me think for a moment.",
+   "use": "考える時間を稼ぐ"
+  },
+  {
+   "cat": "スピーキング",
+   "basic": "I like ...",
+   "upgrade": "Personally, I'd say I prefer ...",
+   "use": "好みの回答"
+  },
+  {
+   "cat": "スピーキング",
+   "basic": "I mean",
+   "upgrade": "What I mean is ...",
+   "use": "言い直し"
+  },
+  {
+   "cat": "スピーキング",
+   "basic": "One time",
+   "upgrade": "I remember one time when ...",
+   "use": "経験の導入"
+  },
+  {
+   "cat": "スピーキング",
+   "basic": "Because of that",
+   "upgrade": "That's why ...",
+   "use": "まとめ"
+  },
+  {
+   "cat": "スピーキング",
+   "basic": "I don't know.",
+   "upgrade": "I haven't thought about it much, but I'd guess ...",
+   "use": "知らない話題への対応"
+  },
+  {
+   "cat": "スピーキング",
+   "basic": "There are two reasons.",
+   "upgrade": "There are a couple of reasons for this. First, ...",
+   "use": "理由の列挙"
+  },
+  {
+   "cat": "スピーキング",
+   "basic": "If I can",
+   "upgrade": "If I had the chance, I would ...",
+   "use": "仮定の回答"
+  },
+  {
+   "cat": "スピーキング",
+   "basic": "Now",
+   "upgrade": "These days, / Nowadays,",
+   "use": "現在の傾向"
+  },
+  {
+   "cat": "スピーキング",
+   "basic": "In the future",
+   "upgrade": "Down the road, / In the long run,",
+   "use": "将来"
+  },
+  {
+   "cat": "スピーキング",
+   "basic": "It's hard.",
+   "upgrade": "It can be quite challenging, especially when ...",
+   "use": "困難の説明"
+  },
+  {
+   "cat": "スピーキング",
+   "basic": "I changed.",
+   "upgrade": "Over time, I gradually realized that ...",
+   "use": "変化の描写"
+  },
+  {
+   "cat": "スピーキング",
+   "basic": "Anyway",
+   "upgrade": "Overall, / To sum up,",
+   "use": "締めくくり"
+  },
+  {
+   "cat": "スピーキング",
+   "basic": "Many people",
+   "upgrade": "A growing number of people",
+   "use": "傾向の主語"
+  }
+ ]
+}

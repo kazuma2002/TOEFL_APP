@@ -1,13 +1,18 @@
 /* Service Worker：アプリ一式を事前キャッシュし、オフラインで起動できるようにする。
    ファイルを更新したら VERSION を上げる（app.js の APP_VERSION と揃える）。 */
-const VERSION = '0.1.0';
+const VERSION = '0.2.0';
 const CACHE = 'toefl-' + VERSION;
 const ASSETS = [
   './',
   './index.html',
   './styles.css',
   './app.js',
-  './data/content.json',
+  './data/reading.json',
+  './data/listening.json',
+  './data/writing.json',
+  './data/speaking.json',
+  './data/vocab.json',
+  './data/tips.json',
   './manifest.webmanifest',
   './icons/icon.svg',
   './icons/icon-192.png',
